@@ -106,10 +106,10 @@ LOD_Bias=LOD bias
 Graphics_settings=გრაფიკის პარამეტრები
 
 # Texture resolution settings - 1/2 is half of the original texture resolution, 1/4 is quarter etc.
-Texture_resolution=Texture resolution
-Texture_resolution_option0=Full resolution
-Texture_resolution_option1=1/2 resolution
-Texture_resolution_option2=1/4 resolution
+Texture_resolution=ტექსტურის რეზოლუცია
+Texture_resolution_option0=მთლიანი რეზოლუცია
+Texture_resolution_option1=1/2 რეზოლუცია
+Texture_resolution_option2=1/4 რეზოლუცია
 
 # Anti-aliasing modes
 Anti_aliasing=Antialiasing
@@ -119,24 +119,24 @@ Anti_aliasing_SMAA=SMAA
 Anti_aliasing_TAA=TAA
 
 # Upscaling options
-Settings_Upscaling_Header=Upscaling method
-Settings_UpscalingOption_0=None
+Settings_Upscaling_Header=გაუმჯობესება მეთოდი
+Settings_UpscalingOption_0=არცერთი
 Settings_UpscalingOption_1=AMD FSR
 Settings_UpscalingOption_2=Nvidia DLSS
-Settings_UpscalingQuality=Upscaling quality
-Settings_UpscalingQuality_0=Ultra Quality
-Settings_UpscalingQuality_1=Quality
-Settings_UpscalingQuality_2=Balanced
-Settings_UpscalingQuality_3=Performance
-Settings_UpscalingQuality_4=Ultra performance
+Settings_UpscalingQuality=გაუმჯობესება ხარისხი
+Settings_UpscalingQuality_0=ულტრა ხარისხი
+Settings_UpscalingQuality_1=ხარისხი
+Settings_UpscalingQuality_2=ბალანსირებული
+Settings_UpscalingQuality_3=წარმადობა
+Settings_UpscalingQuality_4=ულტრა წარმადობა
 
 # Lighting settings
-Reflections_and_postprocessing_header=Reflections and post-processing
-SSR_quality=Screen space reflections quality
-Postprocess_quality=Post process effects quality
-Ambient_occlusion_quality=Ambient occlusion quality
-Real_time_mirrors=Mirrors
-ExtraLightsAtNight=Extra lights at night
+Reflections_and_postprocessing_header=ანარეკლები და პოსტ-პრეცესები
+SSR_quality=ეკრანის სივრცის ასახვის ხარისხი
+Postprocess_quality=პოსტ პროცესის ეფექტის ხარისხი
+Ambient_occlusion_quality=ატმოსფერული ოკლუზიის ხარისხი
+Real_time_mirrors=სარკეები
+ExtraLightsAtNight=დამატებითი განათება ღამით
 
 # Environment settings
 Environment_and_lighting_header=Environment and lighting

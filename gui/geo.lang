@@ -3,12 +3,12 @@ Honk=Audio signal
 # Strings for tooltips and buttons
 TooltipTitleString_Screw_Coupler=Screw coupler
 TooltipTitleString_Scharfenberg_coupler=Scharfenberg coupler
-TooltipButtonConnectAll=Connect all
+TooltipButtonConnectAll=ყვკეას დაკავშირება
 TooltipButtonConnectCoupler=Connect coupler
 TooltipButtonConnectBrake=Connect brake hose
 TooltipButtonConnectPneumatic=Connect pneumatic hose
 TooltipButtonConnectElectric=Connect electric cables
-TooltipButtonDisconnectAll=Disconnect all
+TooltipButtonDisconnectAll=ყველას გათიშვა
 TooltipButtonDisconnectCoupler=Disconnect coupler
 TooltipButtonDisconnectBrake=Disconnect brake hose
 TooltipButtonDisconnectPneumatic=Disconnect pneumatic hose
@@ -16,22 +16,22 @@ TooltipButtonDisconnectElectric=Disconnect electric host
 
 # GUI strings
 # Abbreviated metres
-metres_abbriv=m
+metres_abbriv=მ
 # Abbreviated kilometres
-kilometres_abbriv=km
+kilometres_abbriv=კმ
 # Abbreviated feet
-feet_abbriv=ft
+feet_abbriv=ფუტი
 # Abbreviated miles
-miles_abbriv=mi
+miles_abbriv=მილი
 # Abbreviated kilometres per hour
-kmph_abbriv=km/h
+kmph_abbriv=კმ/სთ
 # Abbreviated miles per hour
-mph_abbriv=mph
+mph_abbriv=მლ/სთ
 
 # GUI popups
-Remaining_1=Remaining:
-Distance=Distance:
-Current_station=Current station:
+Remaining_1=დარჩენილი:
+Distance=დისტანცია:
+Current_station=მიმდინარე სადგური:
 
 # Instruction tooltip in-game, where {0} is station name and {1} is scheduled time for next stop
 Stop_at_arrival_time=Stop at: {0} arrival: {1}
@@ -49,24 +49,24 @@ Drive_through_station_text=Drive through:
 Pick_up_passangers_text=Pick up passengers:
 
 # Popup telling the player the train is now in the right position to stop
-CanStop=You can stop now
+CanStop=შეგიძლია გააჩერო
 # Popup telling the player that he/she has driven too far
 MissStopPoint=You've passed your breakpoint
 # Text telling the player what is the scheduled departure time for his/her current stop
-ScheduledDepartureTime=Scheduled departure time:
-NearestPost=The nearest post:
+ScheduledDepartureTime=დაგეგმილ გამგზავრების დრო:
+NearestPost=უახლოესი პოსტი:
 # Used in chat - is getting replaced with whatever the player is typing
-place_Holder=Enter text...
-GoBack=Go back!
-TooFar=You are too far
-Minute=min
-Delay=delay
-BeforeTime=early
+place_Holder=შეიყბანეთ ტექსტი...
+GoBack=წადი უკან!
+TooFar=ძაან შორს ხარ
+Minute=წთ
+Delay=შეყოვნება
+BeforeTime=ადრე
 
 # Text displayed near speedometer
-PowerSet=Power
+PowerSet=ძალა
 Amps=Current [A]
-BrakeHose=Brake pipe
+BrakeHose=სამუხრუჭე მილი
 
 # Switches
 H_Main_Switch=Main switch
@@ -122,13 +122,13 @@ H_Brake_releaser=Brake releaser
 H_Unlock_brake_pipe=Unlock brake pipe
 H_Assimilation_button=Brake assimilation
 H_Tightness_Test=Airtightness test
-H_Horn_signal=Horn
-H_Horn_Low=Horn (low)
-H_Horn_High=Horn (high)
-H_Horn_Both=Horn (both)
-H_Whistle=Whistle
-H_Sanding_button=Sanding
-H_Decouple=Decouple
+H_Horn_signal=სიგნალი
+H_Horn_Low=სიგნალი (დაბალი)
+H_Horn_High=სიგნალი (მაღალი)
+H_Horn_Both=სიგნალი (ორივე)
+H_Whistle=სასტვენი
+H_Sanding_button=ქვიშის დაყრა
+H_Decouple=ჩახსნა
 H_Electric_train_supply=Electric bus
 H_Security_system_button=Vigilance button
 H_Etcs_button=ETCS
@@ -140,17 +140,17 @@ H_LZB_Alerter=PZB alerter
 H_LZB_Active=PZB active
 
 # Front lights controls
-H_Light_pos=Light mode
+H_Light_pos=სინათლის რეჟიმი
 H_Lights_Power=Light dimming
 
 # Wipers
-H_Washer=Washer
-H_Wiper=Wiper
+H_Washer=წყალი
+H_Wiper=საწმენდი
 
 # Door control
-H_Open_Door=Open doors
-H_Close_Door=Close doors
-H_Step=Step
+H_Open_Door=კარების გაღება
+H_Close_Door=კარების დახურვა
+H_Step=კიდე
 
 # Internal light controls
 H_Cablight=Cab lighting
@@ -218,7 +218,7 @@ Local_brake_decrease=decrease brake force
 Local_brake_const=maintain brake force
 Local_brake_max=full braking
 Local_brake_release=release brake
-Wipers_0=disabled
+Wipers_0=გათიშული
 Wipers_1=mode 1
 Wipers_2=mode 2
 Wipers_3=mode 3
@@ -294,31 +294,31 @@ Transition_SwitchCabinAndSitDown=Sit down in second cabin
 Transition_SwitchCabin=Transition to the other cabin
 Transition_TransitionToCabin=Enter the cabin
 Transition_TransitionToCar=Enter the passager section
-Cancel_btn=Cancel
+Cancel_btn=გაუქმება
 
 # Radio
-H_Radiostop_rq=Radiostop
-H_Radiostop_test_rq=Radiostop test
+H_Radiostop_rq=რადიო გაჩერება
+H_Radiostop_test_rq=რადიო გაჩერების ტესტი
 H_Radio_channel_set=Radio channel select
 H_Radio_enable_set=Radio power switch
-H_Radio_selective_call=Dispatcher call
-H_Turn_Off_The_Radio=Disable radio
+H_Radio_selective_call=დისპეტჩერის დაძახება
+H_Turn_Off_The_Radio=რადიოს გათიშვა
 H_ZEW1=ZEW 1
 H_ZEW2=ZEW 2
 H_ZEW3=ZEW 3
-H_Turn_On_The_Radio=Enable radio
-H_Radio_Channel_Up=Radio channel +
-H_Radio_Channel_Down=Radio channel -
-radiochannel_1=channel 1
-radiochannel_2=channel 2
-radiochannel_3=channel 3
-radiochannel_4=channel 4
-radiochannel_5=channel 5
-radiochannel_6=channel 6
-radiochannel_7=channel 7
-radiochannel_8=channel 8
-radiochannel_9=channel 9
-radiochannel_10=channel 10
+H_Turn_On_The_Radio=რადიოს ჩართვა
+H_Radio_Channel_Up=რადიო არხი +
+H_Radio_Channel_Down=რადიო არხი -
+radiochannel_1=არხი 1
+radiochannel_2=არხი 2
+radiochannel_3=არხი 3
+radiochannel_4=არხი 4
+radiochannel_5=არხი 5
+radiochannel_6=არხი 6
+radiochannel_7=არხი 7
+radiochannel_8=არხი 8
+radiochannel_9=არხი 9
+radiochannel_10=არხი 10
 H_Antislipping_brake=Antislipping brake
 H_Open_contactors=Open line contactors
 H_unlock_converters=Unlock overload relay of converters and heating
@@ -402,8 +402,8 @@ H_controls_test=Controls test
 rise=rise
 lower=lower
 H_Lights_long=Lights far
-front=front
-back=back
+front=წინ
+back=უკან
 H_Corridor_lighting=Corridor lighting
 H_Reset_evc_teloc=Reset EVC/TELOC
 H_Reset_computer=Reset computer

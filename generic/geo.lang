@@ -1,11 +1,11 @@
 #type of train(cargo/passenger),place(station,place(station)
-Your_task_to_drive_from_to=Your task will be to lead the {0} train from {1} station to {2} station.
+Your_task_to_drive_from_to=შენ დავალეება წაიყვანო მატარებელი {0} სადგური {1}-დან {2} სადგურამდე.
 
 #train number, place(station)
 Report_2_station={0} report to {1} station.
 
 #place(station), number of train
-Station_2_train_radio_check={0} to {1} radio check.
+Station_2_train_radio_check={0} {1}-ს რადიოს შემოწმება.
 
 #number of train, place(station)
 Report_2_station2=Train {0} report to {1} station.
@@ -33,29 +33,29 @@ Entrance_on_subst_on_line_no=The entrance will take place on the substitute sign
 Exit_on_subst_on_line_no=The departure will take place on the substitute signal on track number {0} due to a fault.
 
 #number of train
-To_brake={0} brake.
+To_brake={0} დაამუხრუჭე.
 
 #number of train
-To_unbrake={0} unbrake.
+To_unbrake={0} აუშვი მუხრუჭები.
 
 #number of train
-Brakes_good={0}  brakes are all good.
+Brakes_good={0}  მუხრუჭები კარგია.
 
 #number of train
-To_me={0}  to me.
+To_me={0}  ჩემსკენ.
 
 #number of train
-From_me={0}  from me.
+From_me={0}  ჩემგან.
 
 #number of train
-Now_stop={0} now stop.
+Now_stop={0} გაჩერდი.
 
 #number of train
-Now_change_cabin={0} now change the cabin.
-Park_brake=Parking brake
-Brake_on=Brake on
-Brake_off=Brake off
-Etcs_confirm=ETCS confirmation
+Now_change_cabin={0} შეცვლაე კაბინა.
+Park_brake=პარკირების მუხრუჭი
+Brake_on=მუხრუჭი ჩართული
+Brake_off=მუხრუჭი გათიშული
+Etcs_confirm=ETCS თანხმობა
 
 #means giving permission for a train to depart from a neighboring station
 Give_permission=Give permission
