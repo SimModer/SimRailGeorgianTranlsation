@@ -19,18 +19,18 @@ Exit=გასვლა
 
 #Generic
 UserLevel=დონე {0}
-Play=Play
-Continue=Continue
+Play=თამაში
+Continue=გაგრძელება
 OK=OK
-Cancel=Cancel
-Yes=Yes
-No=No
-Apply=Apply
-Profile=Profile
-Restart=Restart scenario
-Next=Next
-Back=Back
-Exit_to_menu=Exit to the main menu
+Cancel=გაუქმება
+Yes=დიახ
+No=არა
+Apply=მიღება
+Profile=პროფილი
+Restart=სცენარის გადატვირთვა
+Next=შემდეგი
+Back=უკან
+Exit_to_menu=მთავარ მენიუში გასვლა
 
 # Generic abbriviations with string formatting
 numAbbriv_FPS={0} FPS
@@ -41,15 +41,15 @@ numAbbriv_Minutes={0} წთ
 numAbbriv_Seconds={0} წ
 
 # Header
-Gameplay_menu=Gameplay menu
+Gameplay_menu=სათამაშო მენიუ
 
 # MessageBox questions
-AreYouSureYouWantToAbandonChanges=Are you sure you want to abandon changes?
-AreYouSureYouWantToQuit=Are you sure you want to quit?
-AreYouSureYouWantToQuitToMenu=Are you sure you want to quit to main menu?
-AreYouSureYouWantToAbortTheMission=Are you sure you want to abort the scenario?
-AreYouSureYouWantToRestartTheMission=Are you sure you want to restart the scenario?
-Following_Changes_Require_Session_Restart=To fully apply changes, session restart is required.
+AreYouSureYouWantToAbandonChanges=გსურთ ცვლილებების გაუქმება?
+AreYouSureYouWantToQuit=გსურთ გათიშვა?
+AreYouSureYouWantToQuitToMenu=გსურთ მთავარ მენიუში გასვლა?
+AreYouSureYouWantToAbortTheMission=გსურთ სცენარის გაუქმება?
+AreYouSureYouWantToRestartTheMission=გსურთ სცენარის გადატვირთვა?
+Following_Changes_Require_Session_Restart=ცვლილებების სრულად გამოსაყენებლად საჭიროა სესიის გადატვირთვა.
 
 # Universal quality related strings - in some languages (like in Polish there might be 2 variants, where On would be a long "Włączony" and short would be abbriviated "Wł.")
 On=ჩართვა
@@ -58,52 +58,52 @@ Off=გამორთული
 Off_short=გამ
 
 # Presets
-Preset=Settings
-Preset_custom=Custom
-Preset_very_low=Very low
-Preset_low=Low
-Preset_normal=Medium
-Preset_high=High
-Preset_very_high=Ultra
+Preset=პარამეტრები
+Preset_custom=სამომხმარებლო
+Preset_very_low=Ძალიან დაბალი
+Preset_low=დაბალი
+Preset_normal=საშუალო
+Preset_high=მაღალი
+Preset_very_high=ულტრა
 
 # Options tabs
-Graphics_tab=Graphics
-Sound_tab=Sound
-Simulation_tab=Simulation
-Interface_tab=Interface
-Controls_tab=Controls
+Graphics_tab=გრაფიკები
+Sound_tab=ხმა
+Simulation_tab=სიმულაცია
+Interface_tab=ინტერფეისი
+Controls_tab=კონტროლები
 
 # Universal quality strings
-Disabled=Disabled
-Low=Low
-Medium=Medium
-High=High
-Higher=Ultra
+Disabled=გათიშული
+Low=დაბალი
+Medium=საშუალო
+High=მაღალი
+Higher=ულტრა
 
 # Video options
-Display_header=Display
-Resolution=Resolution
-Display_mode=Display mode
-FPS_limit=FPS limit
-FarClip_distance=Render distance
-CullingDistance_Traction=Traction render distance
-CullingDistance_Tracks=Tracks render distance
-CullingDistance_Buildings=Buildings render distance
-CullingDistance_People=People rendering distance
+Display_header=ჩვენება
+Resolution=რეზოლუცია
+Display_mode=Ჩვენების რეჟიმი
+FPS_limit=FPS ლიმიტი
+FarClip_distance=რენდერის დისტანცია
+CullingDistance_Traction=წევის რენდერის მანძილი
+CullingDistance_Tracks=რელსების რენდერის მანძილი
+CullingDistance_Buildings=შენობების რენდერის მანძილი
+CullingDistance_People=ხალხის რენდერის მანძილი
 
 # Correspond to Unity's display modes - https://docs.unity3d.com/ScriptReference/FullScreenMode.html
-Fullscreen=Fullscreen
-Borderless_window=Borderless window
-Window=Window
-Maximized_window=Maximized window
+Fullscreen=Მთლიანი ეკრანი
+Borderless_window=უსაზღვრო ფანჯარა
+Window=ფანჟარა
+Maximized_window=მაქსიმალური ფანჯარა
 
 # Vsync and available Vsync modes - double vsync makes the game run at half of the monitor's refresh rate
-Vsync=Vsync
-Vsync_option0=Disabled
-Vsync_option1=Enabled (single)
-Vsync_option2=Enabled (double)
+Vsync=ვერტიკალური სინქრონიზაცია
+Vsync_option0=გათიშული
+Vsync_option1=ჩართული (ერთეული)
+Vsync_option2=ჩართული (ორმაგი)
 LOD_Bias=LOD bias
-Graphics_settings=Graphics settings
+Graphics_settings=გრაფიკის პარამეტრები
 
 # Texture resolution settings - 1/2 is half of the original texture resolution, 1/4 is quarter etc.
 Texture_resolution=Texture resolution
@@ -113,7 +113,7 @@ Texture_resolution_option2=1/4 resolution
 
 # Anti-aliasing modes
 Anti_aliasing=Antialiasing
-Anti_aliasing_off=Disabled
+Anti_aliasing_off=გათიშული
 Anti_aliasing_FXAA=FXAA
 Anti_aliasing_SMAA=SMAA
 Anti_aliasing_TAA=TAA
@@ -252,16 +252,16 @@ Scenario_filtering_train_engine_name_all=All vehicles
 Select_scenario_instruction_text=Select scenario
 
 # Seasons of the year
-Season_winter=Winter
-Season_spring=Spring
-Season_summer=Summer
-Season_autumn=Autumn
+Season_winter=ზამთარი
+Season_spring=გაზაფხული
+Season_summer=ზაფხული
+Season_autumn=შემოდგომა
 
 # Loading screen
 DoYouKnowThat=იცი,რომ
 
 # Result screen
-ResultScreen_Checkpoint=Station
+ResultScreen_Checkpoint=სადგური
 ResultScreen_Departure=Departure
 ResultScreen_Arrival=Arrival
 ResultScreen_YourTime=Your time
@@ -280,8 +280,8 @@ ResultScreen_Distance=Distance driven
 ResultScreen_XP_gained=Experienced gained
 
 #Timetable
-Passenger_Train=Passenger
-Line_Number=Railway line no
+Passenger_Train=მგზავრი
+Line_Number=რკინიგზის ხაზის ნომერი
 
 # Splash screen
 Honorary_patronage=Honorary patronage:
