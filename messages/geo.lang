@@ -1,10 +1,10 @@
 # {0} train number. {1} time {2} track
-Lineblock_Lock=Lock lineblock!
-Train_Question=What drove away?
-Train_Arrived=Train {0} arrived at {1}.
-Train_Departed=Train {0} departed at {1}.
-Train_Request=Is the route clear for train {0}?
-Train_Request_With_Track=Is the path for train {0} on track {2} clear?
+Lineblock_Lock=ხაზის ბლოკის ჩაკეტე!
+Train_Question=რა წავიდა?
+Train_Arrived=მატარებელი {0} მოვიდა {1}-ზე.
+Train_Departed=მატარებელი {0} წავიდა {1}-ზე.
+Train_Request=არის თუ არა მარშრუტი თავისუფალი, მატარებლისთვის {0}?
+Train_Request_With_Track=არის თუ არა  თავისუფალი, მატარებლისთვის {0} on track {2} clear?
 Train_Permission=Route is clear for the train {0} at {1}.
 Train_Permission_With_Track=For train {0} on track {2}, the path is clear by {1}.
 Train_Cancelled=Train {0} cancelled.
@@ -15,7 +15,7 @@ Entrance_Given={0} entrance to the track number {1}.
 EntranceExit_Given={0} exit given to {1}.
 
 #{0} powtarzana wiadomość
-Repeat=I repeat. {0}
+Repeat=ვიმეორებ. {0}
 
 #odrzucenia
 #{0} numer pociągu. {1} numer toru. {2} powod

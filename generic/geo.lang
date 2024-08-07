@@ -2,35 +2,35 @@
 Your_task_to_drive_from_to=შენ დავალეება წაიყვანო მატარებელი {0} სადგური {1}-დან {2} სადგურამდე.
 
 #train number, place(station)
-Report_2_station={0} report to {1} station.
+Report_2_station={0} მოხსენება სადგურს {1}.
 
 #place(station), number of train
 Station_2_train_radio_check={0} {1}-ს რადიოს შემოწმება.
 
 #number of train, place(station)
-Report_2_station2=Train {0} report to {1} station.
+Report_2_station2=Train {0} მოხსენება სადგურს {1}.
 
 #place(station), number of train
-Report_2_train={0} report to {1} train.
+Report_2_train={0} მოხსენება მატარებელს № {1}.
 
 #place(station), number of train
-Report_2_train_2={0} report to {1}.
-Reporting=Reporting.
+Report_2_train_2={0} მოხსენება {1}-ს.
+Reporting=მოხსენება.
 
 #number of train
-Train_dep=Train {0} departure.
+Train_dep=მატარებელი {0}-ის გამგზავრება.
 
 #number of train
-Train_rdy_2_dep=Train {0} ready for departure.
+Train_rdy_2_dep=მატარებელი {0} მზადაა გასამგზავრებლად.
 
 #number of train, number
-Further_ride_on_L_no={0} further ride will be on the left track number {1}.
+Further_ride_on_L_no={0} შემდგომ გადავა ხაზზე № {1}.
 
 #number
-Entrance_on_subst_on_line_no=The entrance will take place on the substitute signal on track number {0} due to a fault.
+Entrance_on_subst_on_line_no=შესვლა იქნება მომწვევ სიგნალზე ხაზზე {0}, სიგნალიზაციის ხარვეზის გამო.
 
 #number
-Exit_on_subst_on_line_no=The departure will take place on the substitute signal on track number {0} due to a fault.
+Exit_on_subst_on_line_no=გამგზავრება იქნება მომწვევ სიგნალზე ხაზზე {0}, სიგნალიზაციის ხარვეზის გამო..
 
 #number of train
 To_brake={0} დაამუხრუჭე.
@@ -58,35 +58,35 @@ Brake_off=მუხრუჭი გათიშული
 Etcs_confirm=ETCS თანხმობა
 
 #means giving permission for a train to depart from a neighboring station
-Give_permission=Give permission
+Give_permission=ნებართვის მიცემა
 
 #means switching on the devices associated with the neighboring station, making it possible to obtain permission from the dispatcher of the neighboring station to leave a train
-turn_on_block_sys=Apply blocking devices
+turn_on_block_sys=გამოიყენეთ ხაზის კავშირის მოწყობილობები
 
 #means that the train dispatcher has changed his mind and does not want to ask for permission to leave the train anymore
-Turn_off_block_sys=Remove blocking devices
+Turn_off_block_sys=გამოიყენეთ ხაზის კავშირის მოწყობილობები
 
 #means resetting the display of the enabling signal on the semaphore and resolving the prepared train path
-Break_route=Break route
+Break_route=მარშრუტი გაუქმება
 
 #prepares the route for the train and displays the signal on the semaphore for the train
-Setup_route=Setup route
+Setup_route=მარშრუტის შექმნა
 
 #gives a "green" light on a semaphore for a train
-Lightup_allowance_lights=Set a allowance signal
-Second_switch_button=Secondary point button
+Lightup_allowance_lights=ნებადამრთავი სიგნალის დაყენება
+Second_switch_button=მეორადი წერტილის ღილაკი
 
 #means requesting permission to leave the train from an adjacent station
-Request_for_consent=Request a permission
+Request_for_consent=ნებართვის მოთხოვნა
 
 #means giving permission for a train to depart from a neighboring station
-To_give_consent=Give a permission
+To_give_consent=ნებართვის მიცემა
 
 #means information for the neighboring station that the train runs on the left track on a double track line (in Poland it normally runs on the right)
-Incorrect_dep=Departure to the left track
+Incorrect_dep=გამგზავრება მარცხენა ხაზზე
 
 #means confirmation for the neighboring station of the train's arrival on the left track on the double track line (in Poland it is normal to drive on the right)
-Incorrect_arrival=Arrive from left track
+Incorrect_arrival=ჩამოსვლა მარცხენა ხაზიდან
 
 #revokes permission for a neighboring station to send the train
 Opt_out_from_consent=Cancel permission
