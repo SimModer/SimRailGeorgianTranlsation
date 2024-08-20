@@ -69,19 +69,19 @@ Amps=Current [A]
 BrakeHose=სამუხრუჭე მილი
 
 # Switches
-H_Main_Switch=Main switch
-H_Main_Switch_Close=Close main switch
-H_Main_Switch_Open=Open main switch
-H_Direction_rq=Direction control
-H_Direction_Back=Back
-H_Direction_Neutral=Neutral
-H_Direction_Front=Forward
-H_Battery_rq=Battery
-H_Battery_rq_switch_on=Enable battery
-H_Battery_rq_switch_off=Disable battery
-H_Vehicle_entry=Enter vehicle
-H_Cabin_exit=Exit cabin
-H_Active_cab=Cabin activation
+H_Main_Switch=მთავარი ჩამრთველი
+H_Main_Switch_Close=მთავარი ჩამრთველის ჩაკეტვა
+H_Main_Switch_Open=მთავარი ჩამრთველის გახსნა
+H_Direction_rq=მიმართულების კონტროლი
+H_Direction_Back=უკან
+H_Direction_Neutral=ნეიტრალი
+H_Direction_Front=წინ
+H_Battery_rq=ბატარეა
+H_Battery_rq_switch_on=ბატარეის ჩართვა
+H_Battery_rq_switch_off=ბატარეის გამორთვა
+H_Vehicle_entry=მატარებელში ასვლა
+H_Cabin_exit=კაბინიდან გამოსვლა
+H_Active_cab=კაბინის აქტივაცია
 
 # Pantograph control
 H_Pantograph_front_rq=Pantograph front
@@ -92,13 +92,13 @@ H_Emergency_Switch=Emergency switch
 # Drive control
 H_Drive_handle=Drive handle
 H_Scnd_handle=Shunting handle
-H_Speed_ctrl=Cruise control handle
-H_Cruise_Control_Activation=Cruise control activation
-H_V_+=Cruise control V+
-H_V_-=Cruise control V-
-H_V_80=Cruise control <kmph>80 </kmph>
-H_V_100=Cruise control <kmph>100 </kmph>
-H_V_120=Cruise control <kmph>120</kmph>
+H_Speed_ctrl=კორუიზ კონტროლის კონტროლერი
+H_Cruise_Control_Activation=კრუიზ კონტროლის გააქტიურება
+H_V_+=კრუიზ კონტროლი V+
+H_V_-=კრუიზ კონტროლი V-
+H_V_80=კრუიზ კონტროლი <kmph>80 </kmph>
+H_V_100=კრუიზ კონტროლი <kmph>100 </kmph>
+H_V_120=კრუიზ კონტროლი <kmph>120</kmph>
 H_V_140=Cruise control speed <kmph>140</kmph>
 H_V_160=Cruise control speed <kmph>160</kmph>
 H_V_0=Cruise control speed <kmph>0</kmph>
@@ -118,7 +118,7 @@ H_Spring_brake_rq=Spring brake
 H_Spring_Brake_Active=Activate spring brake
 H_Spring_Brake_Inactive=Release spring brake
 H_Spring_brake_valve=Spring brake valve
-H_Brake_releaser=Brake releaser
+H_Brake_releaser=მუხრუჭის ამშვები
 H_Unlock_brake_pipe=Unlock brake pipe
 H_Assimilation_button=Brake assimilation
 H_Tightness_Test=Airtightness test
@@ -130,7 +130,7 @@ H_Whistle=სასტვენი
 H_Sanding_button=ქვიშის დაყრა
 H_Decouple=ჩახსნა
 H_Electric_train_supply=Electric bus
-H_Security_system_button=Vigilance button
+H_Security_system_button=სიფხიზლის ღილაკი
 H_Etcs_button=ETCS
 H_Bypas_Emergency_Brake=Bypass emergency brake
 H_Reset_Fire_Alarm=Reset fire alarm
@@ -150,27 +150,27 @@ H_Wiper=საწმენდი
 # Door control
 H_Open_Door=კარების გაღება
 H_Close_Door=კარების დახურვა
-H_Step=კიდე
+H_Step=კიბე
 
 # Internal light controls
-H_Cablight=Cab lighting
-H_Enginelight=Engine room lighting
-H_Pulpitlight=Control panel lighting
-H_Instrumentlight=Instrument lighting
+H_Cablight=კაბინის განათება
+H_Enginelight=ძრავის ოთახის განათება
+H_Pulpitlight=საკონტოლო პანელის განათება
+H_Instrumentlight=ინსტურმენტის განათება
 H_Alerter_Dim=Alerter dimming
 
 # Intercom
-H_Enable_Microphone=Enable microphone
-H_Receive_Connection=Accept call
-H_Reject_Connection=Reject call
-H_Announcement=Announcement
+H_Enable_Microphone=მიკროფონის ჩართვა
+H_Receive_Connection=ზარის მიღება
+H_Reject_Connection=ზარის უარყოფა
+H_Announcement=გამოცხადება
 H_Intercom_compartment=Passenger compartment intercom
 H_Intercom_cab=Cabin intercom
-H_End_Connection=End call
+H_End_Connection=ზარის დასრულება
 
 # Other
 H_Footrest_Adjustment=Footrest adjustment
-H_Button_Spare=Unused button
+H_Button_Spare=გამოუყენებელი ღილაკი
 H_Unlock_Side_Panel=Unlock side panel
 H_Lock_Brake_Handle=Brake handle lock
 H_Windscreen_Heating=Windscreen heating
@@ -278,9 +278,9 @@ You_Have_Derailed=<b>Derailed!</b><br>You have derailed the train!
 # Distance to the next speed limit (eg. 15 km to speed limit change: 40 km/h).
 FirstNetworkTrackObjectInfo={0} to speed limit change: {1}.
 NextStationInfo={0} {1}
-Speed_Limit=Speed Limit
-Door=Door
-Doors=Doors
+Speed_Limit=სიჩქარის შეზღუდვა
+Door=კარები
+Doors=კარები
 OpenTheDoor=Open the door
 CloseTheDoor=Close the door
 
