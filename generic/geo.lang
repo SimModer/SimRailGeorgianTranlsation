@@ -1,4 +1,4 @@
-#type of train(cargo/passenger),place(station,place(station)
+#type of train(cargo/passenger),place(station,place(station))
 Your_task_to_drive_from_to=შენ დავალეება წაიყვანო მატარებელი {0} სადგური {1}-დან {2} სადგურამდე.
 
 #train number, place(station)
@@ -89,18 +89,18 @@ Incorrect_dep=გამგზავრება მარცხენა ხა�
 Incorrect_arrival=ჩამოსვლა მარცხენა ხაზიდან
 
 #revokes permission for a neighboring station to send the train
-Opt_out_from_consent=Cancel permission
+Opt_out_from_consent=ნებართვის გაუქმება
 
 #canceling the consent obtained earlier for the train to run (e.g. in a situation where the train will not run, e.g. because it broke down)
 Consent_return=Cancel interlocking
 
 #blocks the possibility of sending several trains within one consent for a line block - a separate consent is required for each train
 Rotation_interlocking=Rotation interlocking
-Departure=Departure
-Arrival=Arrival
+Departure=მისვლა
+Arrival=გასვლა
 
 #means consenting to the departure of the train from a neighboring station
-Consent=Consent
+Consent=ნებართვა
 
 #means switching on the devices associated with the neighboring station, making it possible to obtain permission from the dispatcher of the neighboring station to leave a train
 Lock_activation=Turn on interlocking
@@ -113,84 +113,84 @@ Lock_release=Interlocking clearance
 
 #means the change of direction in which the line block allows the train to run in an emergency
 Emergency_change_direction_of_blockade=Emergency change of interlocking direction
-Stop=Stop
-Substitute_signal=Substitute_signal
+Stop=გაჩერდი
+Substitute_signal=შემცვლელი სიგნალი
 
 #preparation of the travel path for the train
-Route=Train route
+Route=მატარებლის მარშრუტი
 
 #preparation of the route for the fistula (maneuver)
-Maneuver_route=Shunting route
+Maneuver_route=სამანევრო მარშრუტი
 
 #confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set  
-Cancell_running_through_switch=Confirm point failure
+Cancell_running_through_switch=დაადასტურეთ წერტილის წარუმატებლობა
 
 #this is a comand to "ignore the the fact that this railway line is occupied"
-Ignore_occupation=Ignore track occupancy
+Ignore_occupation=დაიგნორეთ ლიანდაგის ოკუპაცია
 
 #means the bell informing that the train has passed through the switch contrary to the direction in which it was set
-Point_failure_sig=Point failure signal
+Point_failure_sig=პუნქტის ჩაშლის სიგნალი
 
 #turns off the power supply to the crossover control, etc., in order not to switch anything by mistake
-Turn_off_dev_pwr=Turn off devices power
+Turn_off_dev_pwr=მოწყობილობის სიმძლავრეს გათიშვა
 
 #means that the train has been set on the trail for a substitute signal (normally the starting block works automatically)
-Emergency_dep_block=Emergency departure block
+Emergency_dep_block=საავარიო გასვლის ბლოკი
 
 #means that the train has entered the station on a substitute signal (normally the end block works automatically)
-Emergency_arrival_block=Emergency arrival block
+Emergency_arrival_block=საავარიო შემოსვლის ბლოკი
 
 #line blockade power supply device
 Interlock_convert=Interlocking converter
 
 #emergency closing of the automatic passage
-Emergency_close_crossing=Emergency closure of a railway crossing
+Emergency_close_crossing=სარკინიგზო ლიანდაგის გადაკვეთის ავარიული დახურვა
 
 #emergency opening of the automatic passage
-Emergency_open_crossing=Emergency opening of a railway crossing
+Emergency_open_crossing=სარკინიგზო ლიანდაგის გადაკვეთის ავარიული გახსნა
 
 #emergency closure of the passage for cars for a longer period of time
-Car_traffic_close=Car traffic closure
+Car_traffic_close=მანქანების მოძრაობის გადაკეტვა
 
 #resumption of car traffic through the crossing
-Car_traffic_open=Car traffic opening
+Car_traffic_open=მანქანების მოძრაობის გახსნა
 
 #means turning on / off the semaphores informing the driver about the correct operation of the journey
-Turn_crossing_signal=Turn on/off crossing semaphore signal
-Emergency_close_crossing_2=Emergency closure of a railway crossing
+Turn_crossing_signal=ლიანდაგის გადაკვეთის სემაფორის სიგნალის ჩართვა/გამორთვა
+Emergency_close_crossing_2=სარკინიგზო ლიანდაგის გადაკვეთის საავარო დახურვა
 
 #solution of the path set for the train in order to open the passage in an emergency (e.g. during an ambulance passage)
-Route_cancel_4_crossing_open=Route cancellation for railway crossing opening
+Route_cancel_4_crossing_open=მარშრუტის გაუქმება სარკინიგზო ლიანდაგის გადაკვეთის გამო
 
 #allows our station area to be controlled remotely by another station
-Auth_2_ctrl_area=Authorization to control the area
+Auth_2_ctrl_area=უფლების მიცემა სივრცის საკონტროლებად
 
 #cancellation of the permission to control our station area remotely by another station
-Cancel_auth_4_area=Cancel authorization to control the area
+Cancel_auth_4_area=უფლების გაუქმება სივრცის საკონტროლებად
 
 #emergency cancellation of permission to control our station area remotely by another station - command initialization
-Emerg_cancel_auth_4_area=emergency cancel of authorization to control the area - initialization
+Emerg_cancel_auth_4_area=სივრცის კონტროლის უფლების საავარიო გაუქმება - დაწყება
 
 #emergency cancellation of permission to control our station area remotely by another station - command confirmation
-Emerg_cancel_auth_4_are_conf=emergency cancel of authorization to control the area - confirmation
+Emerg_cancel_auth_4_are_conf=სივრცის კონტროლის უფლების საავარიო გაუქმება - დადასტურება
 
 #emergency cancellation of permission to control our station area remotely by another station - command canceling
-Cancel_special_command=Canceling a special command
+Cancel_special_command=სპეციალური ბრძანების გაუქმება
 
 #means putting a warning plate on the desktop, reminding, for example, about the ongoing renovation works on a given track
-insert_sign=Insert sign
+insert_sign=ნიშნის ჩასვა
 
 #removal of the warning label
-Delete_sign=Delete sign
+Delete_sign=ნიშნის წაშლა
 
 #preparation of the travel path for the train
-Set_up_train_route=Set up train route
+Set_up_train_route=მატარებელის მარშრუტის შექმნა 
 
 #preparation of the route for the fistula (maneuver)
-Set_up_shunting_route=Set up shunting route
+Set_up_shunting_route=სამანევრო მარშრუტის შექმნა
 
 #means the cancellation of a prepared travel route
-Route_cancel=Route cancellation
+Route_cancel=მარშრუტის გაუქმება
 
 #Means the immediate cancellation of the prepared journey path for the train - initiation of the command
 Immieddiate_route_cancel=Immediate train route cancellation - initialization

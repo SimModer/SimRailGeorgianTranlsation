@@ -1,9 +1,9 @@
 # This file used mainly for translation related to the system that counts how well player is performing
 
 # End mission headers
-Mission_completed=Mission completed
-Mission_Failed=Failed the scenario
-Mission_Failed_Stop_Signal_Transgression=Driving past stop signal
+Mission_completed=მისია შესრულებულია
+Mission_Failed=სცენარი ჩაიშალა
+Mission_Failed_Stop_Signal_Transgression=Driving past stop signal 
 Mission_Failed_Derailed=Scenario failed - derailed the train
 
 # Abbreviation from "points" (plurar)
@@ -40,8 +40,8 @@ Graph_X_times=x{0}
 Graph_Station=Station
 
 # Input data name
-Speed=Speed
-Speed_limit=Speed limit
+Speed=სიჩქარე
+Speed_limit=სიჩქარის ლიმიტი
 Award_station_stop_graph=Stopped at the station:
 Award_Checkpoint_On_Time=Driving through a checkpoint on time
 Award_Checkpoint_Ahead_Of_Time=Driving through checkpoint ahead of time

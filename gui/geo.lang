@@ -1,9 +1,9 @@
-Honk=Audio signal
+Honk=აუდიო სიგნალი
 
 # Strings for tooltips and buttons
 TooltipTitleString_Screw_Coupler=Screw coupler
 TooltipTitleString_Scharfenberg_coupler=Scharfenberg coupler
-TooltipButtonConnectAll=ყვკეას დაკავშირება
+TooltipButtonConnectAll=ყველას დაკავშირება
 TooltipButtonConnectCoupler=Connect coupler
 TooltipButtonConnectBrake=Connect brake hose
 TooltipButtonConnectPneumatic=Connect pneumatic hose
