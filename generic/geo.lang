@@ -96,8 +96,8 @@ Consent_return=Cancel interlocking
 
 #blocks the possibility of sending several trains within one consent for a line block - a separate consent is required for each train
 Rotation_interlocking=Rotation interlocking
-Departure=მისვლა
-Arrival=გასვლა
+Departure=გასვლა
+Arrival=მისვლა
 
 #means consenting to the departure of the train from a neighboring station
 Consent=ნებართვა
@@ -169,10 +169,10 @@ Auth_2_ctrl_area=უფლების მიცემა სივრცის 
 Cancel_auth_4_area=უფლების გაუქმება სივრცის საკონტროლებად
 
 #emergency cancellation of permission to control our station area remotely by another station - command initialization
-Emerg_cancel_auth_4_area=სივრცის კონტროლის უფლების საავარიო გაუქმება - დაწყება
+Emerg_cancel_auth_4_area=სივრცის კონტროლის უფლების საავარიო გაუქმება - ინიციალიზაცია
 
 #emergency cancellation of permission to control our station area remotely by another station - command confirmation
-Emerg_cancel_auth_4_are_conf=სივრცის კონტროლის უფლების საავარიო გაუქმება - დადასტურება
+Emerg_cancel_auth_4_are_conf=სივრცის კონტროლის უფლების საავარიო გაუქმება - დასტური
 
 #emergency cancellation of permission to control our station area remotely by another station - command canceling
 Cancel_special_command=სპეციალური ბრძანების გაუქმება
@@ -193,10 +193,10 @@ Set_up_shunting_route=სამანევრო მარშრუტის �
 Route_cancel=მარშრუტის გაუქმება
 
 #Means the immediate cancellation of the prepared journey path for the train - initiation of the command
-Immieddiate_route_cancel=Immediate train route cancellation - initialization
+Immieddiate_route_cancel=მარშრუტის გაუქმება დაუყოვნებლად - ინიციალიზაცია
 
 #means the immediate cancellation of the prepared journey path for the train - confirmation of the order
-Immieddiate_route_cancel_confirm=Immediate train route cancellation - confirmation
+Immieddiate_route_cancel_confirm=მარშრუტის გაუქმება დაუყოვნებლად - დასტური
 
 #shifting the derailment (rolling stock derailing device, secures the passage of other trains against accidental entry) to the + position
 Switch_derail_plus=Switch the derailment to "+" position
@@ -211,10 +211,10 @@ Derail_pos_lock=Derailment position lock
 Cancel_derailment_lock=Cancel derailment position lock
 
 #closure of a track section - exclusion from traffic (it is not possible to specify the route for a train through a given track)
-Close_track_2=Close track
+Close_track_2=ლიანდაგის გადაკეტვა
 
 #opening of a track section after temporary closure
-Open_track=Open track
+Open_track=ლიანდაგის გაღება
 
 #ignores the information about the occupancy of the switch, which would normally prevent it from being moved
 Ignore_point_occupy=Ignore point occupancy
@@ -261,22 +261,22 @@ Close_track=Close track
 Open_track_2=Open track
 
 #blocks the possibility of displaying the signal on all semaphores in the station
-Lock_all_semaphores=Lock all semaphores
+Lock_all_semaphores=ყველა სემაფორის გადაკეტვა
 
 #unlocks the ability to display the signal on all semaphores in the station
-Unlock_all_semaphores=Unlock all semaphores
+Unlock_all_semaphores=ყველა სემაფორის გახსნა
 
 #blocks the possibility of relocating all switches in the station
-Lock_all_points=Lock all points
+Lock_all_points=ყველა პუნქტის გადაკეტვა
 
 #unlocks the ability to relocate all switches in the station
-Unlock_all_points=Unlock all points
+Unlock_all_points=ყველა პუნქტის გახსნა
 
 #cancellation of the substitute signal display
 Subs_signal_cancel=Substitute signal cancelation
 
 #refreshing the status of all devices on the desktop
-Refresh_all_obj=Refresh all objects
+Refresh_all_obj=ყველა ობიექტების განახლება
 
 #means changing the direction of a line block in order to obtain permission to run a train
 Choose_interlock_dir=Choose interlocking direction
@@ -291,7 +291,7 @@ Cancel_turn_on_interlock=Cancel turning on interlocking
 Release_interlock_dir=Release interlocking direction
 
 #prevents the train from leaving the station in the selected direction
-Lock_dep_in_dir=Lock departure in the direction
+Lock_dep_in_dir= Lock departure in the direction
 
 #enables the train to leave the station in the selected direction
 Unlock_dep_in_dir=Unlock departure in the direction
@@ -320,43 +320,43 @@ Perm_to_reset_auto_block_init=Permission to reset automatic block signalling sec
 Perm_to_reset_auto_block_conf=Permission to reset automatic block signalling sections - confirmation
 
 #information about the train leaving for a linear block in the case of running for a substitute signal or a written order - initialization
-Dep_ver_init=Departure verification - initialization
+Dep_ver_init=გასვლის ვერიფიკაცია - ინიციალიზაცია
 
 #information about the train leaving for a linear block in the case of running on a substitute signal or a written order - confirmation
-Dep_ver_conf=Departure verification - confirmation
+Dep_ver_conf=გასვლის ვერიფიკაცია - დასტური
 
 #ustawia trasę przejazdu dla podania sygnału zastępczego - inicjalizacja
-Prep_route_for_subst_sig_init=Prepare route for substitute signal - initialization
+Prep_route_for_subst_sig_init=მარშრუტის გამზადება შემცვლელი სიგნალისთვის - ინიციალიზაცია
 
 #ustawia trasę przejazdu dla podania sygnału zastępczego - potwierdzenie
-Prep_route_for_subst_sig_conf=Prepare route for substitute signal - confirmation
+Prep_route_for_subst_sig_conf=მარშრუტის გამზადება შემცვლელი სიგნალისთვის - დასტური
 
 #potwierdzenie wyjazdu pociągu na szlak w kierunku sąsiedniej stacji
-Block_dep_block=Block departure block
-Give_permission_to Give a permission to set up interlocking direction
-Ack_train_arrival=Acknowledgment of train arrival
+Block_dep_block=გასვლის ბლოკის დაბლოკირება
+#Give_permission_to Give a permission to set up interlocking direction
+Ack_train_arrival=მატარებლის მოსვლის აღიარება
 Permission_interlcok_dir_change=Give permission to set up interlocking direction - arrival
 Release_interlocking_init=Release interlocking - initialization
 Release_interlocking_conf=Release interlocking - confirmation
 
 #RBC is the Radio Block Center, part of the ETCS European Train Control System for communication between the control room, semaphores and the driver's cab
-Rbc_data_sync=Data refresh from RBC
-Prep_2_takeover_right_2_area=Preparation to takeover rights to area
-Take_over_rights_2_area=Takeover rights to area
-Emergency_take_rights_area=Emergency takeover of rights to area
-Confirm_rcb_launch=Confirmation of RBC launch
-Disconnect_rcb=Disconnection from RBC
-Restart_active_rcb_computer=Restart of active RBC computer
-Stop_sim=Stop_simulation
-Set_sim_speed=Set simulation speed
-Stop_train_traffic=Stop train traffic
-Ressume_train_traffic=Resume train traffic
+Rbc_data_sync=მონაცემების განახლება RBC-დან
+Prep_2_takeover_right_2_area=სივრცის უფლებების აღება მომზადება
+Take_over_rights_2_area=სივრცის უფლებების აღება
+Emergency_take_rights_area=საავარიო სივრცის უფლებების აღება
+Confirm_rcb_launch=RBC-ს გაშვების დასტური
+Disconnect_rcb=RBC-დან გამოერთება
+Restart_active_rcb_computer=აქტიური RBC-ს გადატვირთვა
+Stop_sim=სიმულაციის_გაჩერება
+Set_sim_speed=სიმულაციის სიჩქარის დაყენება
+Stop_train_traffic=მატარებელის ნაკადის გაჩერება
+Ressume_train_traffic=მატარებელის ნაკადის გაგრძელება
 
 #Set the ALARM (ALARM is a radio signal that automatically stops all nearby trains radio range)
-Set_alarm=Send an emergency signal to all nearby trains
+Set_alarm=საავარიო სიგნალის გაგზავნა ყველა ახლო მატარებელს
 
 #Cancel the ALARM (ALARM is a radio signal that automatically stops all nearby trains radio range)
-Cancel_alarm=Cancel the emergency signal
+Cancel_alarm=საავარიო სიგნალის გაუქმება
 
 
 
@@ -381,7 +381,7 @@ Signal_nsz=Init substitute signal to enter the left track
 Signal_nszp=Show substitute signal to enter the left track
 Signal_sam=Enable automatic control
 Signal_saw=Disable automatic control
-SendOrder_ExecuteOrder=Execute
+SendOrder_ExecuteOrder=შესრულება
 OrderReceived=ORDER RECEIVED
 OrderRejected=ORDER REJECTED
 OrderExecuted=ORDER EXECUTED
