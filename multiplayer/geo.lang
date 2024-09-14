@@ -1,6 +1,6 @@
 map_border_reached=თქვენ მიაღწიეთ მაპის საზღვარს. შემდგომ ბოტი გააგრძელებს მატარებლის ტარებას.
 train_derailed=მატარებელი {0} ლიანდაგევიდან გადავიდა! ის წაიშლება.
-train_missrouted=The set route from signal {0} would send train {1} in the wrong direction. Route will be released!
-train_missrouted_remove=Train {0} will be deleted because it was sent in the wrong direction. The train is at a station that is not in the timetable.
+train_missrouted=მარშრუტი სიგნალიდან {0} გაუშვებს მატარებელს {1} არასწორი მიმართულებით. მარშრუტი გაუქმდება!
+train_missrouted_remove=მატარებელი {0} წაიშლება, რადგან წავიდა არასწორი მიმართულებით. მატარებელი აირს სადგურზე რომელიც განრიგში არაა.
 trains_head-on_remove=მატარებელი {0} წაიშლება მატარებლების ბლოკირების გამო: {1}.
 force_enabled_bot=ადმინისტრატორმა ბოტი გააქტიურა.
