@@ -1,18 +1,18 @@
 Honk=აუდიო სიგნალი
 
 # Strings for tooltips and buttons
-TooltipTitleString_Screw_Coupler=Screw coupler
-TooltipTitleString_Scharfenberg_coupler=Scharfenberg coupler
+TooltipTitleString_Screw_Coupler=ხრახნიანი დამაკავშირებელი
+TooltipTitleString_Scharfenberg_coupler=შარფენბერგის დამაკავშირებელი
 TooltipButtonConnectAll=ყველას დაკავშირება
-TooltipButtonConnectCoupler=Connect coupler
-TooltipButtonConnectBrake=Connect brake hose
-TooltipButtonConnectPneumatic=Connect pneumatic hose
-TooltipButtonConnectElectric=Connect electric cables
+TooltipButtonConnectCoupler=მისაბმელის დაკავშირება
+TooltipButtonConnectBrake=შეაერთეთ სამუხრუჭე შლანგი
+TooltipButtonConnectPneumatic=შეაერთეთ პნევმატური შლანგი
+TooltipButtonConnectElectric=შეაერთეთ კაბელები
 TooltipButtonDisconnectAll=ყველას გათიშვა
-TooltipButtonDisconnectCoupler=Disconnect coupler
-TooltipButtonDisconnectBrake=Disconnect brake hose
-TooltipButtonDisconnectPneumatic=Disconnect pneumatic hose
-TooltipButtonDisconnectElectric=Disconnect electric host
+TooltipButtonDisconnectCoupler=დამაკავშირებელის ჩახსნა
+TooltipButtonDisconnectBrake=სამუხრუჭე შლანგის ჩახსნა
+TooltipButtonDisconnectPneumatic=პნევმატური შლანგი ჩახსნა
+TooltipButtonDisconnectElectric=კაბელის ჩახსნა
 
 # GUI strings
 # Abbreviated metres
@@ -34,19 +34,19 @@ Distance=დისტანცია:
 Current_station=მიმდინარე სადგური:
 
 # Instruction tooltip in-game, where {0} is station name and {1} is scheduled time for next stop
-Stop_at_arrival_time=Stop at: {0} arrival: {1}
+Stop_at_arrival_time=გაჩერება {0}  ,მისვლა: {1}
 # Instruction tooltip in-game, where {0} is station name and {2} is scheduled departure time
-Pick_up_passangers_time=Pick up passengers from: {0} departure: {2}
+Pick_up_passangers_time=მგზავრების აყვანა: {0} , გამგზავრება: {2}
 # Instruction tooltip in-game, where {0} is either a station name or a checkpoint name and {2} is scheduled time.
-Drive_through_time=Drive through: {0} at: {2}
+Drive_through_time=გავლა: {0} -ით {2} -ზე
 # Tooltip for a signal, where {0} is localized distance to the next signal provided either in km / m or mi / ft, depending on user settings.
 Next_signal=დისტანცია შუქნიშნამდე {0}
 # Tooltip telling the player what is the next speed limit ({0}) and distance to a place where it is being applied ({1}) in either km / m or mi / ft.
-Upcoming_speed_limit=შემდეგი სიჩქარის შეზღუდვა: {0} , {1}-ში
+Upcoming_speed_limit=შემდეგი სიჩქარის შეზღუდვა: {0} , {1} -ში
 # Instruction tooltip in-game under which a station name or checkpoint name is provided.
-Next_stop_destination=Next stop:
-Drive_through_station_text=Drive through:
-Pick_up_passangers_text=Pick up passengers:
+Next_stop_destination=შემდეგი გაჩერება:
+Drive_through_station_text=გავლა:
+Pick_up_passangers_text=მგზავრების აყვანა:
 
 # Popup telling the player the train is now in the right position to stop
 CanStop=შეგიძლია გააჩერო
@@ -65,7 +65,7 @@ BeforeTime=ადრე
 
 # Text displayed near speedometer
 PowerSet=ძალა
-Amps=Current [A]
+Amps=დენის ძალა [A]
 BrakeHose=სამუხრუჭე მილი
 
 # Switches
@@ -84,10 +84,10 @@ H_Cabin_exit=კაბინიდან გამოსვლა
 H_Active_cab=კაბინის აქტივაცია
 
 # Pantograph control
-H_Pantograph_front_rq=Pantograph front
-H_Pantograph_back_rq=Pantograph back
-H_Pantograph_set=Pantographs
-H_Emergency_Switch=Emergency switch
+H_Pantograph_front_rq=პანტოგრაფი წინა
+H_Pantograph_back_rq=პანტოგრაფი უკანა
+H_Pantograph_set=პანტოგრაფები
+H_Emergency_Switch=ავარიული ჩამრთველი
 
 # Drive control
 H_Drive_handle=Drive handle
@@ -99,15 +99,15 @@ H_V_-=კრუიზ კონტროლი V-
 H_V_80=კრუიზ კონტროლი <kmph>80 </kmph>
 H_V_100=კრუიზ კონტროლი <kmph>100 </kmph>
 H_V_120=კრუიზ კონტროლი <kmph>120</kmph>
-H_V_140=Cruise control speed <kmph>140</kmph>
-H_V_160=Cruise control speed <kmph>160</kmph>
-H_V_0=Cruise control speed <kmph>0</kmph>
-H_V_40=Cruise control speed <kmph>40</kmph>
-H_V_50=Cruise control speed <kmph>50</kmph>
-H_V_60=Cruise control speed <kmph>60</kmph>
-H_V_70=Cruise control speed <kmph>70</kmph>
-H_V_OPT+=Cruise control OPT+
-H_V_OPT-=Cruise control OPT-
+H_V_140=კრუიზ კონტროლის სიჩქარე <kmph>140</kmph>
+H_V_160=კრუიზ კონტროლის სიჩქარე <kmph>160</kmph>
+H_V_0=კრუიზ კონტროლის სიჩქარე <kmph>0</kmph>
+H_V_40=კრუიზ კონტროლის სიჩქარე <kmph>40</kmph>
+H_V_50=კრუიზ კონტროლის სიჩქარე <kmph>50</kmph>
+H_V_60=Cკრუიზ კონტროლის სიჩქარე <kmph>60</kmph>
+H_V_70=კრუიზ კონტროლის სიჩქარე <kmph>70</kmph>
+H_V_OPT+=კრუიზ კონტროლი OPT+
+H_V_OPT-კრუიზ კონტროლი OPT-
 H_Shunting_handle=Shunting handle
 
 # Breaks
@@ -141,7 +141,7 @@ H_LZB_Active=PZB active
 
 # Front lights controls
 H_Light_pos=სინათლის რეჟიმი
-H_Lights_Power=Light dimming
+H_Lights_Power=სინათლის შემცირება
 
 # Wipers
 H_Washer=წყალი
@@ -150,7 +150,7 @@ H_Wiper=საწმენდი
 # Door control
 H_Open_Door=კარების გაღება
 H_Close_Door=კარების დახურვა
-H_Step=კიბე
+H_Step=ბიჯი
 
 # Internal light controls
 H_Cablight=კაბინის განათება
