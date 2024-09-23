@@ -107,7 +107,7 @@ H_V_50=კრუიზ კონტროლის სიჩქარე <kmph>5
 H_V_60=Cკრუიზ კონტროლის სიჩქარე <kmph>60</kmph>
 H_V_70=კრუიზ კონტროლის სიჩქარე <kmph>70</kmph>
 H_V_OPT+=კრუიზ კონტროლი OPT+
-H_V_OPT-კრუიზ კონტროლი OPT-
+H_V_OPT-=კრუიზ კონტროლი OPT-
 H_Shunting_handle=Shunting handle
 
 # Breaks
