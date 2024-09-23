@@ -51,7 +51,7 @@ Pick_up_passangers_text=მგზავრების აყვანა:
 # Popup telling the player the train is now in the right position to stop
 CanStop=შეგიძლია გააჩერო
 # Popup telling the player that he/she has driven too far
-MissStopPoint=You've passed your breakpoint
+MissStopPoint=თქვენ გაიარეთ მუხრუჭის წერტილი
 # Text telling the player what is the scheduled departure time for his/her current stop
 ScheduledDepartureTime=დაგეგმილ გამგზავრების დრო:
 NearestPost=უახლოესი პოსტი:
@@ -90,8 +90,8 @@ H_Pantograph_set=პანტოგრაფები
 H_Emergency_Switch=ავარიული ჩამრთველი
 
 # Drive control
-H_Drive_handle=Drive handle
-H_Scnd_handle=Shunting handle
+H_Drive_handle=მემანქანის კონტროლერი
+H_Scnd_handle=მანევრების კონტროლერი
 H_Speed_ctrl=კორუიზ კონტროლის კონტროლერი
 H_Cruise_Control_Activation=კრუიზ კონტროლის გააქტიურება
 H_V_+=კრუიზ კონტროლი V+
@@ -113,15 +113,15 @@ H_Shunting_handle=Shunting handle
 # Breaks
 H_Main_brake=Service brake
 H_Local_brake=Local brake
-H_Emergency_brake_button=Emergency brake
-H_Spring_brake_rq=Spring brake
-H_Spring_Brake_Active=Activate spring brake
-H_Spring_Brake_Inactive=Release spring brake
-H_Spring_brake_valve=Spring brake valve
+H_Emergency_brake_button=საავარიო მუხრუჭი
+H_Spring_brake_rq=ზამბარის მუხრუჭი
+H_Spring_Brake_Active=ზამბარის მუხრუჭის გააქტიურება
+H_Spring_Brake_Inactive=ზამბარის მუხრუჭის აშვება
+H_Spring_brake_valve=ზამბარის მუხრუჭის სარქველი
 H_Brake_releaser=მუხრუჭის ამშვები
-H_Unlock_brake_pipe=Unlock brake pipe
-H_Assimilation_button=Brake assimilation
-H_Tightness_Test=Airtightness test
+H_Unlock_brake_pipe=სამუხრუჭე მილის გახსნა
+H_Assimilation_button=მუხრუჭის აშვება
+H_Tightness_Test=ჰაერის ტესტი
 H_Horn_signal=სიგნალი
 H_Horn_Low=სიგნალი (დაბალი)
 H_Horn_High=სიგნალი (მაღალი)
@@ -132,12 +132,12 @@ H_Decouple=ჩახსნა
 H_Electric_train_supply=Electric bus
 H_Security_system_button=სიფხიზლის ღილაკი
 H_Etcs_button=ETCS
-H_Bypas_Emergency_Brake=Bypass emergency brake
-H_Reset_Fire_Alarm=Reset fire alarm
-H_LZB_Command=PZB command
-H_LZB_Free=Release PZB
-H_LZB_Alerter=PZB alerter
-H_LZB_Active=PZB active
+H_Bypas_Emergency_Brake=საავარიო მუხრუჭის გვრედის ავლა
+H_Reset_Fire_Alarm=ხანძრის განგაშის გადატვირთვა
+H_LZB_Command=PZB ბრძანება
+H_LZB_Free=PZB აშვება
+H_LZB_Alerter=PZB გაფრთხილება
+H_LZB_Active=PZB აქტივაცია
 
 # Front lights controls
 H_Light_pos=სინათლის რეჟიმი
@@ -281,8 +281,8 @@ NextStationInfo={0} {1}
 Speed_Limit=სიჩქარის შეზღუდვა
 Door=კარები
 Doors=კარები
-OpenTheDoor=Open the door
-CloseTheDoor=Close the door
+OpenTheDoor=კარების გაღება
+CloseTheDoor=კარების დაკეტვა
 
 # Animation transition keys
 Transition_ExitThroughTheDoor=Exit through the door
