@@ -103,16 +103,16 @@ Arrival=მისვლა
 Consent=ნებართვა
 
 #means switching on the devices associated with the neighboring station, making it possible to obtain permission from the dispatcher of the neighboring station to leave a train
-Lock_activation=Turn on interlocking
+Lock_activation=ურთიერთკავშირის ჩართვა
 
 #means a change of direction in which the line block allows the train to depart (from station B to station A, instead of from station A to B)
-Change_direction_of_blockade=Change interlocking direction
+Change_direction_of_blockade=შეცვალეთ ურთიერთკავშირის მიმართულება
 
 #means the confirmation that the train enters the station, thus clearing the line between stations and restoring the line block to its basic state
-Lock_release=Interlocking clearance
+Lock_release=ურთიერთკავშირის გასუფთავება
 
 #means the change of direction in which the line block allows the train to run in an emergency
-Emergency_change_direction_of_blockade=Emergency change of interlocking direction
+Emergency_change_direction_of_blockade=ურთიერთკავშირის მიმართულების გადაუდებელი შეცვლა
 Stop=გაჩერდი
 Substitute_signal=შემცვლელი სიგნალი
 
@@ -141,7 +141,7 @@ Emergency_dep_block=საავარიო გასვლის ბლოკ�
 Emergency_arrival_block=საავარიო შემოსვლის ბლოკი
 
 #line blockade power supply device
-Interlock_convert=Interlocking converter
+Interlock_convert=ურთიერთკავშირის კონვერტორი
 
 #emergency closing of the automatic passage
 Emergency_close_crossing=სარკინიგზო ლიანდაგის გადაკვეთის ავარიული დახურვა
@@ -217,13 +217,13 @@ Close_track_2=ლიანდაგის გადაკეტვა
 Open_track=ლიანდაგის გაღება
 
 #ignores the information about the occupancy of the switch, which would normally prevent it from being moved
-Ignore_point_occupy=Ignore point occupancy
+Ignore_point_occupy=წერტილის დაკავებულობის უგუნველყოფა
 
 #Moves the switch to the plus position, ignoring the information that it is occupied by a train
-Switch_pos_plus_ignore_occupy=Switch to “+” position and ignore occupancy
+Switch_pos_plus_ignore_occupy=გადართეთ “+” პოზიციაში და უგუნველყოფეთ დაკავებულობა
 
 #It moves the switch to the minus position, ignoring the information that it is occupied by a train
-Switch_pos_minus_ignore_occupy=Switch to “-” position and ignore occupancy
+Switch_pos_minus_ignore_occupy=გადართეთ “-” პოზიციაში და უგუნველყოფეთ დაკავებულობა
 
 #confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set
 Confirm__point_failure_init=Confirm point failure - initialization
@@ -256,9 +256,9 @@ Reset_axle_counter_init=Reset axle counter - initialization
 Reset_axle_counter_conf=Reset axle counter - confirmation
 Point_lock_plus=Point lock in “+” position
 Point_lock_minus=Point lock in “-” position
-Cancel_point_lock=Cancel point lock
-Close_track=Close track
-Open_track_2=Open track
+Cancel_point_lock=გააუქმეთ წერტილის საკეტი
+Close_track=ხაზის დაკეტვა
+Open_track_2=ხაზის გაღება
 
 #blocks the possibility of displaying the signal on all semaphores in the station
 Lock_all_semaphores=ყველა სემაფორის გადაკეტვა
@@ -373,8 +373,8 @@ Cancel_alarm=საავარიო სიგნალის გაუქმ�
 
 
 
-Signal_lock=Lock semaphore at STOP signal
-Signal_unlock=Unlock STOP signal
+Signal_lock=ჩაკეტეთ სემაფორი გაჩერების სიგნალზე
+Signal_unlock=განბლოკეთ გაჩერების სიგნალი
 Signal_sz=Init substitute signal
 Signal_szp=Show substitute signal
 Signal_nsz=Init substitute signal to enter the left track
