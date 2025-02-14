@@ -92,10 +92,10 @@ Incorrect_arrival=ჩამოსვლა მარცხენა ხაზი
 Opt_out_from_consent=ნებართვის გაუქმება
 
 #canceling the consent obtained earlier for the train to run (e.g. in a situation where the train will not run, e.g. because it broke down)
-Consent_return=Cancel interlocking
+Consent_return=გააუქმეთ ურთიერთკავშირი
 
 #blocks the possibility of sending several trains within one consent for a line block - a separate consent is required for each train
-Rotation_interlocking=Rotation interlocking
+Rotation_interlocking=ურთიერთკავშირის როტაცია
 Departure=გასვლა
 Arrival=მისვლა
 
@@ -226,11 +226,11 @@ Switch_pos_plus_ignore_occupy=გადართეთ “+” პოზიც�
 Switch_pos_minus_ignore_occupy=გადართეთ “-” პოზიციაში და უგუნველყოფეთ დაკავებულობა
 
 #confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set
-Confirm__point_failure_init=Confirm point failure - initialization
+Confirm__point_failure_init=დაამტკიცეთ წერტილის წარუმატებლობა - ინიციალიზაცია
 
 #confirms that the dispatcher has read the information about the train passing through the switch contrary to the direction in which it was set
-Confirm__point_failure_conf=Confirm point failure - confirmation
-Cancel_special_command2=Cancelling a special command
+Confirm__point_failure_conf=დაამტკიცეთ წერტილის წარუმატებლობა - დამტკიცება
+Cancel_special_command2=სპეციალური ბრძანების გაუქმება
 
 #locks the derailleur in the plus position
 Derailment_pos_lock_plus=Derailment lock on “+” position
@@ -244,16 +244,16 @@ Switch_point_to_plus_pos=Switch point to “+” position
 Switch_point_to_minus_pos=Switch point to “-” position
 
 #locks the translation of the turnout in its end position
-Point_lock_in_end_pos=Point lock in end position
+Point_lock_in_end_pos=წერტილის დაბლოკვა ბოლო მდგომარეობაში
 
 #cancels the interlock of the switch of the switch in its end position
-Cancel_point_lock_end_pos=Cancel point lock in end position
+Cancel_point_lock_end_pos=გააუქმეთ წერტილის დაბლოკვა საბოლოო მდგომარეობაში
 
 #axle counter reset in case of its failure - track occupancy device - initialization
-Reset_axle_counter_init=Reset axle counter - initialization
+Reset_axle_counter_init=ღერძის მთვლელის განულება - ინიციალიზაცია
 
 #axle counter reset in case of its failure - track occupancy device - confirmation
-Reset_axle_counter_conf=Reset axle counter - confirmation
+Reset_axle_counter_conf=ღერძის მთვლელის განულება - თანხმობა
 Point_lock_plus=Point lock in “+” position
 Point_lock_minus=Point lock in “-” position
 Cancel_point_lock=გააუქმეთ წერტილის საკეტი
@@ -273,28 +273,28 @@ Lock_all_points=ყველა პუნქტის გადაკეტვ�
 Unlock_all_points=ყველა პუნქტის გახსნა
 
 #cancellation of the substitute signal display
-Subs_signal_cancel=Substitute signal cancelation
+Subs_signal_cancel=მომწვევი სიგნალის გაუქმება
 
 #refreshing the status of all devices on the desktop
 Refresh_all_obj=ყველა ობიექტების განახლება
 
 #means changing the direction of a line block in order to obtain permission to run a train
-Choose_interlock_dir=Choose interlocking direction
+Choose_interlock_dir=აირჩიეთ კავშირის მიმართულება
 
 #means consent to change the direction of the linear blockade
-Permission_4_dir_change=Permission for direction change
+Permission_4_dir_change=მიმართულების შეცვლის ნებართვა
 
 #means resignation from activating the line block
-Cancel_turn_on_interlock=Cancel turning on interlocking
+Cancel_turn_on_interlock=გააუქმეთ ცვლილება კავშირზე
 
 #releases the set direction of the line lock
-Release_interlock_dir=Release interlocking direction
+Release_interlock_dir=კავშირის მიმართულების განულება
 
 #prevents the train from leaving the station in the selected direction
-Lock_dep_in_dir= Lock departure in the direction
+Lock_dep_in_dir=ჩაკეტეთ გამგზავრება მიმართულებით
 
 #enables the train to leave the station in the selected direction
-Unlock_dep_in_dir=Unlock departure in the direction
+Unlock_dep_in_dir=განბლოკეთ გამგზავრება მიმართულებით
 
 #emergency change of linear blockade direction - initialization
 Emer_interlock_dir_change_init=Emergency interlocking direction change - initialization
@@ -375,8 +375,8 @@ Cancel_alarm=საავარიო სიგნალის გაუქმ�
 
 Signal_lock=ჩაკეტეთ სემაფორი გაჩერების სიგნალზე
 Signal_unlock=განბლოკეთ გაჩერების სიგნალი
-Signal_sz=Init substitute signal
-Signal_szp=Show substitute signal
+Signal_sz=მომწვევი სიგნალის ინიციალიზაცია
+Signal_szp=მომწვევი სიგნალის ჩვენება
 Signal_nsz=Init substitute signal to enter the left track
 Signal_nszp=Show substitute signal to enter the left track
 Signal_sam=ავტომატური მართვის ჩართვა
@@ -398,7 +398,7 @@ EbiLabelDropdown_9=ყურადღება! მუშები ლიან�
 MultiplayerIntroduction_Driver_ExpressTrain=Today you will drive an express train.
 MultiplayerIntroduction_Driver_FastTrain=Today you will drive an express train.
 MultiplayerIntroduction_Driver_WelcomeDriver=კეთილი იყოს თქვენი მობრძანება SimRail multplayer-ში. დღეს პირველად მოირგებთ მემანქანის როლს.
-MultiplayerIntroduction_Driver_AI=Currently the train is under AI control. When you're ready, you can take control by pressing the button at the top of the screen at any time.
+MultiplayerIntroduction_Driver_AI=ამჟამად მატარებელი AI კონტროლის ქვეშ იმყოფება. როდესაც მზად ხართ, შეგიძლიათ კონტროლი აიღოთ ეკრანზე ზედა ღილაკზე დაჭერით ნებისმიერ დროს.
 MultiplayerIntroduction_Driver_AFK=If you will be inactive for a long time, the AI will take over the train for you automatically.
 MultiplayerIntroduction_Driver_Remember=Remember that you are cooperating with other players. Please pay attention to traffic lights and speed limits.
 MultiplayerIntroduction_Driver_Comm=To communicate with other players, you can use a radiotelephone as a voice chat (by default, a tilde on the keyboard) and text chat on the left side of the screen.
@@ -428,8 +428,8 @@ DominoPanel_DNSwitch_DayLabel=დღე
 DominoPanel_DNSwitch_NightLabel=ღამე
 Train_rdy=მატარებელი {0} გამგზავრება
 train_on_collision_course=მოთამაშემ {0} გაუშვა მატარებელი {1} შეჯახების კურსზე მატარებელთან ნომრით {2}
-keyboard=Keyboard
-disconnect_all=Disconnect all
-suspend_call=Suspend call
-tape_recorder=Tape recorder
-automatic_answering=Automatic answering
+keyboard=კლავიატურა
+disconnect_all=გათიშეთ ყველა
+suspend_call=შეაჩერე ზარი
+tape_recorder=ფირის ჩამწერი
+automatic_answering=ავტომატური პასუხი
