@@ -118,5 +118,17 @@
       "NEW_ACHIEVEMENT_1_3_NAME": "Nehéz vontató",
       "NEW_ACHIEVEMENT_1_3_DESC": "Teljesíts egy teherszállító küldetést."
     }
+  },
+  "georgian": {
+    "tokens": {
+      "NEW_ACHIEVEMENT_1_0_NAME": "მისია დასრულებულია",
+      "NEW_ACHIEVEMENT_1_0_DESC": "დაასრულეთ პირველი მისია.",
+      "NEW_ACHIEVEMENT_1_1_NAME": "დროულად",
+      "NEW_ACHIEVEMENT_1_1_DESC": "არ მიხვიდეთ გვიან ან არ გაემგზავროთ გვიან გვიდრე გრაფიკშია მოცემული.",
+      "NEW_ACHIEVEMENT_1_2_NAME": "ღამის მორბენალი",
+      "NEW_ACHIEVEMENT_1_2_DESC": "დაასრულეთ სამგზავრო მისია ღამით.",
+      "NEW_ACHIEVEMENT_1_3_NAME": "მძიმის გადამზიდავი",
+      "NEW_ACHIEVEMENT_1_3_DESC": "დაასრულეთ სატვირთო მისია."
+    }
   }
-}
+}

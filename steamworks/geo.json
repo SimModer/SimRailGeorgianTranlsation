@@ -1,10 +1,10 @@
 {
-    "NEW_ACHIEVEMENT_1_0_NAME": "Mission finished",
-    "NEW_ACHIEVEMENT_1_0_DESC": "Finish your first mission.",
-    "NEW_ACHIEVEMENT_1_1_NAME": "On time",
-    "NEW_ACHIEVEMENT_1_1_DESC": "Do not arrive late or depart too early from any station in the timetable.",
-    "NEW_ACHIEVEMENT_1_2_NAME": "Night run",
-    "NEW_ACHIEVEMENT_1_2_DESC": "Finish passenger mission at night.",
-    "NEW_ACHIEVEMENT_1_3_NAME": "Heavy hauler",
-    "NEW_ACHIEVEMENT_1_3_DESC": "Finish freight mission."
+    "NEW_ACHIEVEMENT_1_0_NAME": "მისია დასრულებულია",
+    "NEW_ACHIEVEMENT_1_0_DESC": "დაასრულეთ პირველი მისია.",
+    "NEW_ACHIEVEMENT_1_1_NAME": "დროულად",
+    "NEW_ACHIEVEMENT_1_1_DESC": "არ მიხვიდეთ გვიან ან არ გაემგზავროთ გვიან გვიდრე გრაფიკშია მოცემული.",
+    "NEW_ACHIEVEMENT_1_2_NAME": "ღამის მორბენალი",
+    "NEW_ACHIEVEMENT_1_2_DESC": "დაასრულეთ სამგზავრო მისია ღამით.",
+    "NEW_ACHIEVEMENT_1_3_NAME": "მძიმის გადამზიდავი",
+    "NEW_ACHIEVEMENT_1_3_DESC": "დაასრულეთ სატვირთო მისია."
 }
