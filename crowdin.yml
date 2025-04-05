@@ -1,0 +1,6 @@
+project_id: 778626
+api_token: 1361e9d40e56ca660181ed2c8670f51c890d8aa378f2a7df097ba3420ce8d72b0d7a971519c31549
+base_path: /path/to/your/files
+files:
+  - source: /locales/en/*.lang
+    translation: /locales/%two_letters_code%/%original_file_name%
