@@ -1,0 +1,729 @@
+drive_to_platform=Attendez l'apparition du feu blanc sur le signal, puis avancez vers le quai.
+startup_message=Bienvenue dans la démo de SimRail. Vous êtes à la gare de Dąbrowa Górnicza Ząbkowice.
+departure=40665, prêt pour le départ.
+mission_finished=Félicitations, mission terminée !
+substitute_signal=Dąbrowa Górnicza, 40665, demandant la permission d'entrer en gare.
+obey_train=Conduire le train selon l'horaire indiqué
+veh_reset_vigilance_system=Cliquez sur le bouton avec votre souris, ou appuyez sur {button=Train Driver|Alerter} pour réinitialiser le système de sécurité CA/SHP. Ces systèmes vérifieront régulièrement votre vigilance pendant la conduite.
+veh_enable_battery=Bien. Maintenant, mettez en service la batterie, puis refermez le couvercle.
+veh_turn_on_radio=Maintenant, allumez la radio. Elle vous permettra de communiquer avec l'aiguilleur pendant tout le trajet.
+veh_activate_cab=Activez la cabine en tournant l'interrupteur dans le sens des aiguilles d'une montre sur la première position.
+veh_raise_pantograph=Notre rame est alimentée en électricité par un système de lignes aériennes de contact, il est donc nécessaire de lever le pantographe.
+veh_turn_on_breaker=Maintenant, fermez le disjoncteur
+veh_wait_for_breaker=Attendez que le disjoncteur se ferme, et attendez aussi que le convertisseur et le compresseur démarrent. Le bon fonctionnement de ces appareils est indispensable pour alimenter le système de freinage du train (par exemple).
+veh_set_dir_forward=Maintenant, réglez le sens de la marche.
+veh_set_brake_drive=Placez le levier de frein en position de conduite.
+veh_hold_pipe_unlock=Maintenez enfoncé le bouton de desserrage du frein pneumatique.
+veh_close_doors=Désactivez la possibilité d'ouvrir les portes, en mettant l'interrupteur sur la bonne position.
+veh_release_spring=Maintenant, nous devons relâcher le frein d'immobilisation (à ressort).
+veh_push_main_to_drive=Poussez le manipulateur de traction vers l'avant pour accélérer. Vous pouvez utiliser la touche {button=Train Driver|Increase Throttle}. Contrôlez votre accélération pour ne pas dépasser la limite de vitesse qui est de <kmph>25</kmph>.
+veh_use_zew=Utilisez le bouton d'appel de votre radio pour confirmer votre disponibilité à l'aiguilleur.
+veh_set_main_handle_to_brake=Déplacez le levier vers l'arrière, ou utilisez la touche {button=Train Driver|Decrease Throttle}, pour freiner.
+veh_engage_spring=Engager le frein d'immobilisation.
+veh_allow_doors=Permettez aux passagers d'ouvrir les portes en tournant l'interrupteur du bon côté.
+veh_wait_for_pantograph=Attendez que le pantographe soit levé.
+veh_raise_flap=Nous devons d'abord commencer par préparer le train. Marchez vers le train et soulevez le panneau de protection à côté des portes.
+veh_lower_flap=Refermez le panneau de protection.
+veh_set_lights=Mettez les feux en position de conduite.
+veh_dim_lights=Pendant la journée, vous pouvez les atténuer pour ne pas aveugler les autres trains.
+use_zew_dabrowa=Utilisez le bouton d'appel de la radio pour appeler l'aiguilleur.
+finish_tutorial=Attendez l'heure du départ, fermez les portes une fois que le responsable du train est prêt, et conduisez le train conformément à l'horaire.
+mozna_wjez=40665, autorisé d'approcher le quai.
+dabrowa_zast=40665, approche de Dąbrowa Górnicza sur signal ouvert sur la voie numéro 1.
+veh_enter_cab=Il est temps d'entrer dans la cabine, utilisez la touche {button=In-Game Global Actions|Cabin camera}.
+finish_tutorial2=Vous pouvez voir les indications du signal et les limites de vitesse à venir, dans le coin supérieur droit de l'écran.
+finish_tutorial3=Votre compteur de vitesse vous indique la puissance réglée, la limite de vitesse actuelle et la puissance de freinage actuelle.
+finish_tutorial4=Votre train s'arrête dans chaque gare. Prêtez attention aux indicateurs et aux signaux, ainsi qu'aux instructions de l'aiguilleur.
+wjazd_bedzin=40665, allez à la voie numéro 2 en gare de Będzin.
+zastepczy_dabrowa_fin=Le signal de substitution permet de faire face à des situations d'urgence. La vitesse est limitée à <kmph>40</kmph>.
+ready_platform=Ząbkowice, 40665 prêt à s'approcher des quais.
+drive_train_relation=Aujourd'hui, vous allez faire circuler le train de voyageurs 40665 sur le tronçon Dąbrowa Górnicza Ząbkowice - Będzin. Vous utiliserez pour cela l'EMU 22WE.
+bedzin_prosze_wjazd=Będzin, 40665, demandant la permission d'entrer en gare.
+veh_push_main_to_drive_normal=Poussez le manipulateur de traction vers l'avant pour accélérer.
+can_speed_up=Après avoir quitté la gare, vous pouvez accélérer jusqu'à la vitesse limite.
+approaching_stop_caution=Vous vous approchez de la gare. Rappelez-vous que le train a besoin d'une longue distance pour s'arrêter. Après l'arrêt, pensez à activer l'autorisation d'ouverture des portes du bon côté.
+approaching_stop_next=Vous approchez du prochain arrêt.
+next_signal_stop_caution=Le signal visible indique que le prochain affichera un signal d'arrêt. Conduisez prudemment.
+tutorial_end=C'est la fin du tutoriel. Continuez à conduire le train jusqu'à Będzin. Bon voyage !
+veh_push_main_to_neutral=Le levier est en position de freinage. Poussez-le vers l'avant.
+use_zew_bedzin=Utilisez le bouton ZEW de la radio, pour appeler l'aiguilleur le plus proche.
+_M3_veh_enable_battery=Mettez en service la batterie en utilisant l'interrupteur situé sur la paroi arrière de la cabine puis installez vous dans le siège du conducteur.
+_M3_veh_activate_cab=Activez la cabine en tournant l'interrupteur dans le sens des aiguilles d'une montre.
+_M3_veh_release_spring=Avant de pouvoir partir, nous devons desserrer le frein d'immobilisation. Ce bouton est placé juste derrière vous, sur la paroi arrière de la cabine.
+_M3_veh_push_main_to_drive=Déplacez le levier vers l'avant, pour appliquer la puissance et partir.
+_M3_veh_enter_cab=Pour entrer dans la cabine, approchez-la et cliquez sur la porte ou appuyez sur la touche {button=In-Game Global Actions|Cabin camera}.
+start_1=Bienvenue dans le prologue de SimRail - The Railway Simulator. Vous êtes au cœur de la Haute-Silésie (située au sud de la Pologne) - la partie la plus industrialisée du pays. Le charbon extrait dans cette région a alimenté de nombreuses centrales électriques pendant des décennies, et l'acier produit dans les aciéries locales a servi de matériaux de construction pour de nombreuses installations.
+start_2=Devant vous, vous pouvez voir une locomotive Traxx avec un train de marchandises contenant du charbon pour l'une des centrales électriques de l'est de la Pologne. Vous la conduirez sur le tronçon allant de la mine de charbon "Staszic" de Katowice à la gare de Sosnowiec Dańdówka. Accomplissez votre tâche avec soin et admirez le paysage industriel.
+radio_brake_test_done=414018 d'accord, tous les freins sont prêts à fonctionner. Merci.
+radio_brake_test_engage=414018, serrer les freins.
+radio_brake_test_release=414018, desserrer les freins.
+radio_departure_2=414018 bonne liaison radio. Prêt pour réception des données du train.
+radio_departure_4=Compris, mon nom est Ferrant, préparation numéro 27. Tenez-vous prêt pour l'indication du signal.
+radio_departure_1=Train 414018, aiguilleur de la mine de charbon de Staszic, essai radio.
+radio_departure_3=J'ai 25 véhicules, 2000 tonnes, 370 mètres de long, une locomotive E186-134, conducteur Stephenson, prêt à partir.
+radio_staszic_1=414018 à la gare de Staszic, demandant l'autorisation d'entrer en gare.
+radio_staszic_2=Bonjour, vous allez entrer sur le signal de substitution en raison d'une défaillance d'aiguillage. Vous circulerez sur la voie de gauche vers KMB.
+radio_staszic_3=Merci, je vais suivre le signal de substitution vers KMB sur la voie de gauche.
+radio_kmb_1=KMB à 414018.
+radio_kmb_2=414018, je vous reçois.
+radio_kmb_3=Je vous enverrai à Stawiska par la voie de gauche.
+radio_kmb_4=Compris, direction Stawiska par la voie de gauche.
+radio_dandowka_1=Sosnowiec Dańdówka à 414018.
+radio_dandowka_2=414018, je vous reçois.
+radio_dandowka_3=À Sosnowiec Dańdówka, vous irez sur la voie 6, puis vous attendrez la sortie complète de SimRail. N'oubliez pas d'ajouter SimRail à votre liste de souhaits sur Steam.\nA bientôt.
+veh_set_brake_release=Placez le levier de frein en position de conduite.
+veh_set_brake_engage=Placez le levier de frein en position de serrage.
+veh_release_local_brake=Maintenez le levier du frein direct en position de desserrage.
+veh_set_lights_normal=Dans un instant, nous allons passer de la voie de gauche à la voie de droite, nous devons donc remettre la configuration des feux sur la position 0. (signalisation UIC en tête de train)
+veh_set_lights_reverse=Placez le sélecteur des feux sur la 5e position, en indiquant le signal Pc2. Le sélecteur est situé sur la paroi arrière de la cabine. Nous utilisons ce réglage des feux lors de chaque conduite sur la voie de gauche.
+brake_test_start=Le test de freinage du train va maintenant avoir lieu. Le technicien va vérifier si tous les wagons ont des freins qui fonctionnent. Suivez ses instructions par radio.
+use_zew=Utilisez le bouton d'appel de la radio pour appeler l'aiguilleur.
+veh_sit=Pour s'asseoir sur le siège du conducteur, cliquez dessus ou appuyez sur la touche 1.
+veh_leave=Cliquez sur votre chaise, ou appuyez sur la touche {button=In-Game Global Actions|Stand up / sit down} pour vous lever.
+_M1_veh_enter_cab=Il est temps d'entrer dans la cabine, utilisez la touche {button=In-Game Global Actions|Cabin camera}, ou cliquez sur la porte pour entrer dans le compartiment voyageur.
+veh_wait_brake_release=Le desserrage des freins peut prendre beaucoup de temps. Pour accélérer ce processus, vous pouvez maintenir le levier en position de grand débit.
+_M12_veh_enter_cab=Approchez de la locomotive et cliquez sur la porte pour y entrer ou appuyez sur la touche {button=In-Game Global Actions|Cabin camera}.
+_M4_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Katowice à Warszawa Wschodnia. Commencez par vérifier la liaison radio avec l'aiguilleur.
+Check_train_radio={L} à {T}, essai radio.
+Rec_loudnclear=Ici {L}, je vous reçois 5 sur 5.
+Ready_2_go={L}, {T} est prêt à partir.
+Thanku_semaph=Merci, patientez pour le signal.
+Ready_dep={T} prêt au départ.
+Req_entr={T} à {L}, demande autorisation d'entrer en gare.
+Req_exit={T} à {L}, demande autorisation de départ.
+Entrance_on_subst_on_line_no2=En raison d'une défaillance, l'entrée en gare se fera sur le signal de substitution voie 2.
+Copy=Bien reçu.
+Report_2_station2=Train {T}, annoncez-vous à la gare de {L}.
+Reporting=Je m'annonce.
+Further_ride_on_L_no1={T}, la suite de la circulation se fera sur la voie de gauche numéro 1.
+Go2_L_track=A {L} sur la voie de gauche.
+Entrance_given=Le signal d'autorisation d'entrer en gare du train {T} est transmis.
+Rec_hearu_well=Je vous reçois fort et clair, {T}.
+_M5_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Warszawa Wschodnia à Katowice. Commencez par vérifier la liaison radio avec l'aiguilleur.
+Further_ride_on_L_no2={T}, la suite de la circulation se fera sur la voie de gauche numéro 2.
+_M6_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Sędziszów à Katowice. Commencez par vérifier la liaison radio avec l'aiguilleur.
+Exit_on_subst_on_line_no1=En raison d'une défaillance, le départ se fera avec le signal de substitution voie 1.
+_M7_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Katowice à Sędziszów. Commencez par vérifier la liaison radio avec l'aiguilleur.
+_M8_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Warszawa Wschodnia à Katowice. Commencez par vérifier la liaison radio avec l'aiguilleur.
+Entrance_on_subst_on_line_no1=En raison d'une défaillance, l'entrée en gare se fera sur le signal de substitution voie 1.
+Exit_on_subst_on_line_no2=En raison d'une défaillance, le départ se fera sur le signal de substitution voie 2.
+_M13_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Katowice à Zawiercie. Commencez par vérifier la liaison radio avec l'aiguilleur.
+_M12_Start_pass_veh_from_to=Aujourd'hui, vous allez conduire un train de voyageurs de Zawiercie à Katowice. Commencez par vérifier la liaison radio avec l'aiguilleur.
+veh_eu_1=Déplacez vous en cabine A.
+veh_eu_2=Déplacez vous en cabine B.
+veh_eu_3=Le frein de stationnement est activé. Désactivez le en utilisant la commande sur la paroi arrière de la cabine.
+veh_eu_4=Ouvrez le couvercle sur le côté gauche du tableau de commandes et actionnez vers le haut l'interrupteur de la batterie.
+veh_eu_5=Activez la cabine en tournant l'interrupteur dans le sens des aiguilles d'une montre.
+veh_eu_6=Déplacez l'inverseur sur la marche avant ou arrière avant de procéder aux essais du système de contrôle de vigilance.
+veh_eu_7=Le système de contrôle de vigilance a déclenché le freinage d'urgence.
+veh_eu_8=Acquittez le signal de contrôle de vigilance.
+veh_eu_9=Déplacez le manipulateur de traction sur 0.
+veh_eu_10=Déplacez le manipulateur de shuntage sur 0.
+veh_eu_11=Le disjoncteur différentiel s'est déclenché.
+veh_eu_12=Le disjoncteur de surcharge de traction s'est déclenché. Vous avez dépassé le courant maximum admissible.
+veh_eu_13=Le disjoncteur de surcharge du compresseur s'est déclenché. Vous l'avez sans doute activé trop tôt.
+veh_eu_14=Réarmez le disjoncteur différentiel des moteurs.
+veh_eu_15=Réarmez le disjoncteur de surcharge de traction.
+veh_eu_16=Réarmez le disjoncteur du compresseur.
+veh_eu_17=Levez le pantographe.
+veh_eu_18=Attendez la montée de la tension sur le voltmètre.
+veh_eu_19=Fermez le disjoncteur général.
+veh_eu_20=Activez le transformateur.
+veh_eu_21=Activez le compresseur.
+veh_eu_22=Désactivez le transformateur.
+veh_eu_23=Désactivez le compresseur.
+veh_eu_24=Patientez pendant la stabilisation du courant.
+veh_eu_25=Patientez pendant le remplissage du réservoir principal.
+veh_eu_26=Relâchez le frein direct en poussant la poignée en avant.
+veh_eu_27=Allumez la radio et choisissez le canal adéquat.
+veh_eu_28=Actionnez le manipulateur de frein en position conduite ou desserrage.
+veh_eu_29=Actionnez le manipulateur de frein en position conduite.
+veh_eu_30=Actionnez le manipulateur de frein en position serrage.
+veh_eu_31=Le manipulateur de frein est en position d'isolement.
+veh_eu_32=Le manipulateur de frein est en position de serrage.
+veh_eu_33=Maintenez le bouton de desserrage pour remplir la conduite principale.
+veh_eu_34=Tirez le manipulateur de frein vers vous pour appliquer une force de freinage.
+veh_eu_35=Laissez le manipulateur de frein en position de desserrage pendant une trop longue période peut causer une surcharge de la conduite principale.
+veh_eu_36=Positionnez l'inverseur en marche avant.
+veh_eu_37=Pour fermer les contacteurs de ligne, déplacez le manipulateur de traction sur le premier cran (position 1).
+veh_eu_38=Déplacez les manipulateurs de traction et de shuntage sur 0 avant de freiner.
+veh_eu_39=Prenez soin de ne pas dépasser 600 ampères maximum sous peine de disjoncter.
+veh_eu_40=Augmenter progressivement la position du manipulateur de traction.
+veh_eu_41=Le manipulateur de traction est à présent en position stable. Cette position est appropriée pour les trajets sur de longues distances. Vous pouvez également utiliser le manipulateur de shuntage pour augmenter la puissance.
+veh_eu_42=Evitez autant que possible de rester sur d'autres positions que les deux crans de traction stables (28 et 43) pendant des trajets longues distances.
+veh_eu_43=Il n'est pas possible d'utiliser les crans de shuntage lorsque vous n'êtes pas sur des crans de traction stables.
+veh_battery_cabin=Mettez en service la batterie et activez la cabine en tournant l'interrupteur dans le sens des aiguilles d'une montre.
+veh_control_circuits=Allumez les circuits de contrôle.
+veh_battery=Mettez en service la batterie.
+_M11_Start_pass_veh_from_to=Aujourd'hui vous conduirez un train de fret de Sędziszów à Katowice Muchowiec Staszic. Commencez par un essai radio avec l'agent de circulation.
+veh_set_lights_shunt=Mettre les fanaux en configuration de manœuvre. Un fanal sur le côté droit. (Tb1)
+veh_steam_regulator_increase=Ouvrez légèrement le régulateur.
+veh_steam_regulator_decrease=Fermez légèrement le régulateur.
+veh_steam_reverser_full_front=Placez le levier de l'inverseur en position maximale vers l'avant.
+veh_brake_knorr_maintaining=Pour appliquer la force de freinage, tirer le levier de frein sur la position de freinage. Pour libérer les freins, pousser le levier de frein en position de conduite.
+veh_steam_reverser_decrease_too_much_steam=La consommation de vapeur est trop élevée, réduisez la position du levier de l'inverseur ou du régulateur.
+veh_steam_reverser_tutorial_1=Le levier de l'inverseur est utilisé à la fois pour déterminer la direction du mouvement et la quantité de vapeur envoyée aux cylindres. Un renversement plus élevé signifie plus de force de traction et de consommation de vapeur, mais une moindre économie.
+veh_steam_reverser_decrease_ty2_operating_range=Réduisez l'inverseur en dessous de 50% pour passer dans la plage de fonctionnement normale.
+veh_steam_reverser_increase=Augmentez légèrement l'inverseur.
+veh_steam_regulator_starting_ty2_1=Ouvrez légèrement le régulateur et attendez que la pression s'accumule dans la vanne.
+veh_steam_regulator_full_open=Vous pouvez maintenant ouvrir pleinement le régulateur.
+veh_steam_regulator_starting_ty2_3=En cas de patinage des roues, diminuez le levier de renverse et fermez le régulateur.
+veh_steam_regulator_full_close=Fermez le régulateur à zéro.
+veh_steam_reverser_full_back=Réglez le levier de l'inverseur en position maximale vers l'arrière.
+veh_brake_knorr_release=Déplacez le levier de frein en position de conduite pour relâcher les freins.
+veh_brake_knorr_brake=Placez le levier de frein du train en position de freinage.
+veh_steam_regulator_tutorial_1=Le régulateur est utilisé pour contrôler la pression dans les valves en réduisant le débit de vapeur. Plus le régulateur est ouvert, plus le débit de vapeur est élevé. Pendant la conduite, le régulateur doit être complètement ouvert afin de ne pas perdre l'énergie de la vapeur haute pression.
+veh_brake_knorr_braking=La force de freinage augmente. Vous pouvez ramener le levier en arrière pour maintenir la force de freinage.
+veh_steam_reverser_to_zero=Réduisez l'inverseur à zéro.
+veh_steam_regulator_full_close_vmax=Vous roulez plus vite que la vitesse autorisée. Fermez le régulateur à zéro.
+veh_steam_regulator_decrease_vmax=Vous êtes proche de la vitesse autorisée, soyez prêt à fermer le régulateur.
+veh_steam_regulator_starting_ty2_2=Utilisez le régulateur pour maintenir la pression dans la vanne en dessous de 12 atm. Une pression excessive pourrait entraîner un patinage des roues.
+veh_steam_waterlevel_low=Le niveau d'eau diminue trop rapidement, réduisez la consommation de vapeur en diminuant le levier de renverse et le régulateur.
+veh_steam_reverser_tutorial_2=Le "cutoff" (ou renversement) est un pourcentage qui représente le mouvement du piston lorsque le cylindre est rempli de vapeur. Par exemple, pour 60%, cela signifie que pendant 60% de la course, la vapeur s'écoule et pendant les 40% restants, la vapeur se dilate en utilisant son énergie interne. Pour les locomotives à vapeur classiques, le renversement minimal pour la conduite est de 20%.
+veh_steam_reverser_full_front_tutorial=Placez le levier de l'inverseur en position maximale vers l'avant. Avant chaque démarrage, il est nécessaire de le régler ainsi pour obtenir un effort de traction maximal, indépendamment des positions des pistons et des bielles, qui peuvent se trouver dans des positions mortes.
+veh_steam_reverser_ty2_operating_range=Maintenez l'inverseur entre 20% et 50%. Si l'effort de traction est toujours trop élevé, diminuez ou fermez le régulateur.
+veh_steam_reverser_decrease=Réduisez légèrement l'inverseur.
+veh_steam_regulator_tutorial_2=Le régulateur permet un écoulement régulier de la vapeur lors du démarrage d'un train, lorsque la pleine pression de la vapeur avec une valeur de renversement élevé pourrait provoquer un patinage des roues. De plus, on peut l'utiliser lorsqu'il est nécessaire de réduire l'effort de traction pendant la conduite avec un renversement minimal.
+veh_steam_boiler_pressure_low=La pression de la chaudière diminue trop rapidement, réduisez la consommation de vapeur en diminuant le levier de renverse et le régulateur.
+veh_steam_fireman_off=Au cours de ce trajet, vous devez également effectuer les tâches du chauffeur vous-même, ce qui comprend : le remplissage en eau de la chaudière, l'ajout de charbon dans le foyer, ainsi que le fonctionnement du souffleur et des registres d'admission d'air.
+veh_steam_open_injector1=Ouvrez la vanne de l'injecteur droit.
+veh_steam_open_injector2=Ouvrez la vanne de l'injecteur gauche.
+veh_steam_open_generator=Ouvrez la vanne du turbogénérateur.
+veh_steam_bolier_injector_nathan=La locomotive à vapeur est équipée d'un injecteur de vapeur vive, qui alimente la chaudière en une grande quantité d'eau légèrement chauffée.
+veh_steam_bolier_injector_metcalf=La locomotive à vapeur est équipée d'un injecteur à vapeur d'échappement, qui alimente la chaudière en une quantité moyenne d'eau, qui est très chaude pendant le fonctionnement de la machine à vapeur.
+veh_steam_open_compressor=Ouvrez la vanne du compresseur à air.
+veh_steam_bolier_injector_strube=La locomotive à vapeur est équipée d'un injecteur de vapeur vive à élévation, qui aspire l'eau du tender et doit être utilisé en deux étapes.
+veh_steam_boiler_water_add=Alimenter la chaudière en eau en utilisant l'un des injecteurs.
+veh_steam_boiler_water_stop=Fermer l'injecteur.
+veh_steam_boiler_water_maybe=Pensez à alimenter la chaudière en eau.
+veh_steam_bolier_water_bot=Regardez le niveau d'eau sur la jauge. Vous pouvez donner vos conseils au chauffeur sur l'alimentation de la chaudière en eau.
+veh_steam_grate_coal_stop=Arrêter d'ajouter du charbon.
+veh_steam_grate_coal_bot=Regardez la grille du foyer. Vous pouvez donner des conseils au chauffeur sur la combustion du charbon.
+veh_steam_boiler_flaps_close=Fermez les régulateurs de tirage pour affaiblir le feu.
+veh_steam_blower_on=Activez le souffleur pour amplifier le feu.
+veh_steam_fireman_operating_range=La chaudière ne nécessite pas d'intervention pour le moment, mais gardez un œil sur les instruments et l'état du feu pendant la conduite.
+veh_steam_blower_off=Arrêter le souffleur.
+veh_steam_fireman_on=Au cours de ce trajet, le mécanicien se chargera de manière autonome des paramètres de fonctionnement de la chaudière, du remplissage en eau et de l'ajout de charbon dans le foyer. Votre tâche consistera uniquement à conduire la locomotive. Vous pouvez lui donner vos conseils. Passez votre souris sur le manomètre de pression de la chaudière, le manomètre d'eau et la porte du foyer pour voir de possibles conseils.
+veh_steam_blower_water=Activez le souffleur tout en alimentant la chaudière en eau.
+veh_steam_cocks_open=Ouvrez les robinets des cylindres pour évacuer l'eau des cylindres.
+veh_steam_cocks_close=Fermez les robinets des cylindres pour économiser de la vapeur et augmenter l'effort de traction.
+veh_steam_grate_coal_add=Ajoutez davantage de charbon sur la grille du foyer.
+veh_steam_boiler_flaps_open=Ouvrez les régulateurs de tirage pour amplifier le feu.
+drive_train_relation_34we=Aujourd'hui, vous allez faire circuler le train de voyageurs 40665 sur le tronçon Dąbrowa Górnicza Ząbkowice - Będzin. Vous utiliserez pour cela l'EMU 34WE.
+veh_en57_battery=Activer la batterie dans l'armoire électrique.
+veh_en57_groundrelay1=Relais de mise à la terre activé.
+veh_en57_activatecab=Activer la cabine.
+veh_en57_handbrake=Libérer le frein à main à l'aide de la poignée située du côté gauche de la cabine.
+veh_en57_buzzer=Avant de fermer les portes, utilisez le buzzer.
+veh_en57_start_slow=Pour conduire, déplacez la poignée de commande vers la première position. C'est suffisant pour une conduite lente à une vitesse de manœuvre.
+veh_go_to_scnd_cab=Aller dans l'autre cabine.
+veh_en57_release_ep2=Diminuez la force du freinage électropneumatique (ep).
+veh_en57_brake_ep2=Augmentez la force du freinage électropneumatique (ep).
+veh_electrical_cabinet=Allez à l'armoire électrique dans la motrice.
+veh_en57_enter_cab=Il est temps d'entrer dans la cabine. Utilisez la touche {button=In-Game Global Actions|Cabin camera}, ou appuyez sur la porte.
+veh_en57_groundrelay2=Déverrouiller le relais de mise à la terre dans l'armoire électrique.
+veh_en57_close_doors=Fermez les portes en utilisant l'interrupteur.
+veh_en57_release_pn=Déplacez la poignée de frein à la position de conduite pneumatique.
+veh_en57_radiosupply=Allumez la radio en utilisant l'interrupteur sur le panneau de contrôle.
+veh_en57_release_ep=Libérez le frein électropneumatique en déplaçant et en maintenant le levier aussi loin que possible vers l'avant. Remarque : après la libération, le levier revient automatiquement à la position de conduite électropneumatique (EP) !
+veh_en57_start_full=Pour conduire, déplacez la poignée de commande à la position choisie. Le véhicule passera automatiquement à travers les résistances et les positions de manœuvre.
+veh_en57_coast=Déplacez la poignée de commande à la position zéro - cela éteindra les moteurs.
+veh_en57_brake_ep=Pour freiner, déplacez brièvement le levier de frein à la position de freinage électropneumatique (EP). Plus vous le maintenez, plus la force de freinage est importante. La vanne ne revient pas automatiquement à la position de conduite électropneumatique (EP) !
+veh_en57_open_doors=Ouvrez les portes en utilisant l'interrupteur.
+veh_en57_lights_normal=Réglez les fanaux pour la conduite du train à l'aide des interrupteurs.
+veh_en57_lights_left=Réglez les fanaux pour conduire le train sur la voie de gauche à l'aide des interrupteurs.
+veh_en57_lights_shunt=Réglez les fanaux pour les manœuvres à l'aide des interrupteurs.
+startup_message_M12_tutorial_en57=Aujourd'hui, vous allez conduire le train de voyageurs 40665 sur la section Zawiercie - Dąbrowa Górnicza Ząbkowice. Vous utiliserez l'EN57 pour ce trajet. Ce tutoriel vous montrera comment démarrer et conduire le véhicule.
+veh_en57_enter_vehicle=Il est temps d'entrer dans le véhicule. Utilisez la touche {button=In-Game Global Actions|Cabin camera}, ou appuyez sur la porte du train, mais n'oubliez pas de la refermer par la suite.
+veh_set_dir_neutral=Mettez l'inverseur en position neutre.
+Passenger_Train=Train de voyageurs
+veh_fv4a_decrease_force=Pousser la poignée du frein de service vers l'avant pour diminuer la force de freinage.
+veh_fv4a_decrease_force_short=Diminuer la force de freinage.
+veh_fv4a_increase_force_short=Augmenter la force de freinage.
+veh_fv4a_increase_force=Tirer la poignée du frein de service vers vous pour appliquer la force de freinage.
+startup_message_M12_tutorial_et22=Aujourd'hui, vous ferez circuler le train de voyageurs 40665 sur la section Zawiercie - Dąbrowa Górnicza Ząbkowice. Vous utiliserez l'ET22 pour le faire circuler. Ce tutoriel vous montrera comment démarrer et conduire le véhicule.
+veh_et22_cabinet_doors=Vous avez oublié de fermer la porte gauche de l'armoire électrique, qui bloque la sortie de la cabine. Dans ce tutoriel, nous les avons fermées pour vous, mais n'oubliez pas de le faire dans le jeu. Sinon, vous serez obligé de sortir du véhicule par l'autre côté.
+veh_electrical_cabinet_et22=Rendez-vous dans l'armoire électrique basse tension de la salle des machines A.
+veh_electrical_cabinet_et22_open=Ouvrir la porte de l'armoire électrique.
+veh_electrical_cabinet_et22_close=Fermer la porte de l'armoire électrique.
+veh_pneumatic_container_et22=Aller sur le compartiment pneumatique dans la salle des machines A. Utiliser la porte derrière le siège du conducteur.
+veh_et22_closevalve1=Fermer le robinet du réservoir principal.
+veh_et22_closevalve2=Fermer le robinet du compresseur auxiliaire.
+veh_wait_for_pant_press=Attendez que le pantographe se lève.
+veh_et22_groundrelay_aux=Le disjoncteur des circuits auxiliaires est actif.
+veh_radmor_splitter=Allumer le transmetteur radio. Il est situé sur la paroi arrière de la cabine, du côté droit.
+veh_radmor_splitter_cab=Régler la cabine requise sur le sélecteur.
+veh_radmor_adapter=Mettre en service le bloc d'alimentation de la radio.
+veh_et22_openvalve1=Ouvrir le robinet du réservoir principal.
+veh_et22_openvalve2=Ouvrir le robinet du compresseur auxiliaire.
+veh_local_brake=Serrer le frein direct, en tirant sa poignée vers vous.
+veh_et22_small_compressor=Mettre le compresseur en marche à l'aide du bouton situé sur la paroi latérale droite de l'armoire électrique.
+01_ir_kat_waw_et22_Hello=Bienvenue dans le scénario InterRegio de Katowice à Varsovie. Préparez-vous au départ, attendez l'appel du répartiteur pour l'autre train, puis utilisez le bouton ZEW 3 de la radio pour commencer les manœuvres.
+01_ir_kat_waw_et22_LoadingVD=Le scénario est en cours de chargement, veuillez patienter un moment avant d'appeler l'aiguilleur.
+01_ir_kat_waw_et22_B_Kato_Hello_1=<color="orange">[KO]</color> 43128 Demande de vérification de la communication avec KO.
+01_ir_kat_waw_et22_B_Kato_Hello_2=<color="yellow">[43128]</color> Katowice, ici 43128, je vous reçois cinq sur cinq. Au fait, y a-t-il une autorisation d'entrée ?
+01_ir_kat_waw_et22_B_Kato_Hello_3=<color="orange">[KO]</color> Affirmatif, nous procédons à l'entrée en gare 43128.
+01_ir_kat_waw_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, train 41130 prêt à manœuvrer vers les quais depuis la voie 12.
+01_ir_kat_waw_et22_P_Kato_Start_2=<color="orange">[KO]</color> 41130, Katowice, reçu. Préparez-vous pour la manœuvre en voie 3, qui est dégagée. Vous pousserez le train.
+03_kwk_sta_laz_et22_P_St_Ready_4=<color="orange">[StA]</color> Merci, la préparation numéro 31, transmission faite.
+03_kwk_sta_laz_et22_P_Sta_Hello_2=<color="green">[Ty]</color> Reçu, de Staszic à KMB, en voie gauche.
+01_ir_kat_waw_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, ici le train 41130, qui se présente pour un test radio après un changement de canal.
+03_kwk_sta_laz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 444020, contrôle radio après avoir basculé sur le canal 3.
+03_kwk_sta_laz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 444020, haut et fort sur Dorota.
+03_kwk_sta_laz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 444020, Contrôle radio sur le canal 4.
+03_kwk_sta_laz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 444020, haut et fort à Dąbrowa Górnicza Wschodnia. Ouverture du signal, départ sur la voie de gauche en direction de Kozioł.
+03_kwk_sta_laz_et22_P_LC_Hello_1=<color="green">[Ty]</color> Łazy ŁC 444020, Contrôle radio sur le canal 2.
+02_kat_sedz_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, train 423042 prêt au sémaphore d'entrée T après réparation de la locomotive.
+02_kat_sedz_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, Compte rendu du 423042 demande confirmation du test radio après le changement de canal.
+02_kat_sedz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 423042, Test radio après passage sur le canal 3.
+01_ir_kat_waw_et22_P_Char_Hello_1=<color="green">[Ty]</color> Charsznica, 41130 demandant l'accès.
+02_kat_sedz_et22_P_Sd_Hello_2=<color="orange">[Sd]</color> Sędziszów reçoit.
+01_ir_kat_waw_et22_P_Char_Hello_2=<color="green">[Ty]</color> Charsznica à 41130, signaler.
+02_kat_sedz_et22__Sd_Hello_4=<color="orange">[Sd]</color> Sędziszów compris, l'entrée est accordée à la voie 55.
+01_ir_kat_waw_et22_P_Spr_Info_0=<color="orange">[Spr]</color> 41130, pour Sprowa à vous.
+01_ir_kat_waw_et22_P_Spr_Info_1=<color="green">[Ty]</color> 41130 rapport
+01_ir_kat_waw_et22_P_Spr_Info_2=<color="orange">[Spr]</color> 41130, Nous avons un dysfonctionnement dans l'équipement SRK. D'ici à Starzyny, nous utiliserons la voie de gauche, en suivant le signal de substitution en raison de l'absence de contrôle de position sur l'aiguillage.
+01_ir_kat_waw_et22_P_Psa_Hello_1=<color="green">[Ty]</color> Psary, 41130, Bonjour. Contrôle radio sur le canal 1.
+01_ir_kat_waw_et22_P_Psa_Hello_2=<color="orange">[Ps]</color> Communication parfaite aujourd'hui à Psary.
+01_ir_kat_waw_et22_P_Gro_Hello_2=<color="orange">[Gr]</color> Je vous reçois haut et fort à Grodzisk.
+01_ir_kat_waw_et22_P_Waw_Man_2=<color="orange">[WZD]</color> 41130, Dans un instant, le signal de manoeuvre sera ouvert pour la voie 201. Vous allez refouler le train sur la voie libre.
+01_ir_kat_waw_et22_P_Waw_Man_3=<color="yellow">[Conducteur]</color> Le mécanicien du train 41130 s'adresse au pilote. Le signal de manœuvre à l'arrière a été prévu - vous pouvez refouler sur la voie 201, libre.
+01_ir_kat_waw_et22_P_Ready=<color="yellow">[Kierownik]</color> 41130, départ.
+03_kwk_sta_laz_et22_Hello=Bienvenue dans le scénario de fret du KWK Staszic. Préparez-vous au départ, le dispatcheur vous ouvrira le signal sous peu.
+03_kwk_sta_laz_et22_P_Start=<color="orange">[St]</color> 443021, autorisation accordée pour l'entrée dans Stawiska. C'est parti !
+03_kwk_sta_laz_et22_P_Kmb_Hello_2=<color="orange">[Ssc]</color> Fort et clair à Staszic.
+03_kwk_sta_laz_et22_P_St_Man1_1=<color="green">[Ty]</color> Staszic Kopalnia, La locomotive du 443021 a été détachée du train et est prête pour les manœuvres.
+03_kwk_sta_laz_et22_P_St_Man2_0=<color="orange">[StA]</color> Locomotive du 443021 rapport à Mine de Staszic.
+03_kwk_sta_laz_et22_P_St_Man2_1=<color="green">[Ty]</color> Rapport, loc du 443021.
+03_kwk_sta_laz_et22_P_St_Man2_2=<color="orange">[StA]</color> Le signal de manœuvre a été ouvert. Au repère W5, nous changerons de cabine et nous nous engagerons sur la voie occupée par la rame 444020. Attention à l'inclinaison de la voie lors du changement de cabine !
+03_kwk_sta_laz_et22_P_St_Man3_1=<color="orange">[StA]</color> Locomotive du 443021 à Staszic, vous pouvez maintenant changer de cabine et vous engager sur la voie occupée par la rame du 444020.
+03_kwk_sta_laz_et22_P_St_Ready_2=<color="orange">[StA]</color> 444020, pourriez-vous fournir le détail de ce train ?
+03_kwk_sta_laz_et22_P_St_Ready_3=<color="green">[Ty]</color> 31 wagons, 3000 tonnes, 437 mètres de long, locomotive ET22-911, mécanicien Enzo, train prêt au départ.
+03_kwk_sta_laz_et22_P_Sta_Hello_1=<color="orange">[Ssc]</color> 444020 de Staszic à KMB, sur la voie de gauche.
+03_kwk_sta_laz_et22_P_Ssc_Hello_1=<color="green">[Ty]</color> Katowice Muchowiec KMB, 444020, contrôle radio après passage sur le canal 5.
+03_kwk_sta_laz_et22_P_Ssc_Hello_2=<color="orange">[KMB]</color> Fort et clair sur KMB. Continuer jusqu'à Stawiska sur la voie de gauche, 444020.
+03_kwk_sta_laz_et22_P_DGW_Hello_3=<color="green">[Ty]</color> 444020 A Kozioł sur la voie de gauche, reçu.
+03_kwk_sta_laz_et22_P_LA_Man_0=<color="orange">[ŁA]</color> 444020 à Łazy ŁA. Vous terminez votre service et garez la locomotive dans le dépôt, n'est-ce pas ?
+03_kwk_sta_laz_et22_P_LA_Man_1=<color="green">[Ty]</color> 444020, je confirme.
+03_kwk_sta_laz_et22_P_LA_Man_2=<color="orange">[ŁA]</color> 444020, Après l'arrêt, veuillez vous décrocher du train et signaler que vous êtes prêt pour la manœuvre. Après avoir changé de cabine, vous vous rendrez au dépôt de locomotives dans la zone ŁB.
+03_kwk_sta_laz_et22_P_LA_Man2_1=<color="green">[Ty]</color> 444020 Prêt pour la manœuvre.
+03_kwk_sta_laz_et22_P_LA_Man2_2=<color="orange">[ŁA]</color> 444020, Un moment.
+03_kwk_sta_laz_et22_P_Ack=<color="green">[Ty]</color> Compris.
+03_kwk_sta_laz_et22_StaticNoise=[bruit]
+02_kat_sedz_et22_Hello=Bienvenue dans le scénario de fret Katowice-Sędziszów. Préparez-vous à rouler, préparez votre train et contactez l'aiguilleur à Katowice.
+02_kat_sedz_et22_Loading=Chargement du scénario en cours. Rappelez le dispatcher dans un instant.
+02_kat_sedz_et22_P_Kato_Start_2=<color="orange">[KO]</color> 423042, Katowice, Compris. Départ à l'ouverture.
+02_kat_sedz_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Fort et clair à Sosnowiec Południowy 423042, vérification radio réussie.
+02_kat_sedz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 423042, fort et clair à Dorota.
+02_kat_sedz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 423042, Test radio sur le canal 4.
+02_kat_sedz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 423042, haut et fort à Wschodniej.
+02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Ty]</color> Sędziszow du 424032
+02_kat_sedz_et22_P_Ack=<color="green">[Ty]</color> Reçu.
+02_kat_sedz_et22_StaticNoise=[bruit]
+02_kat_sedz_et22_ZewHelper=N'oubliez pas d'appeler le dispatcheur lorsque vous changez de canal pour vérifier la communication.
+01_ir_kat_waw_et22_P_Kato_Man_0=<color="yellow">[Pilot]</color> Le mécanicien du 41130 à l'attention du pilote - veuillez vous présenter.
+01_ir_kat_waw_et22_P_Kato_Man_1=<color="green">[Ty]</color> Mécanicien du 41130 à l'écoute.
+01_ir_kat_waw_et22_P_Kato_Man_2=<color="yellow">[Pilot]</color> Le signal de manœuvre arrière a été donné - nous pouvons refouler vers les quais sur la voie 3, qui est libre. Veuillez vous arrêter dès que la locomotive aura passé le sémaphore.
+01_ir_kat_waw_et22_P_Kato_Ready=<color="green">[Ty]</color> Katowice, train 41130 prêt à partir. Vous pouvez ouvrir le signal.
+01_ir_kat_waw_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Vous êtes bien reçu à Sosnowiec Południowy, 41130. Test réussi.
+01_ir_kat_waw_et22_P_Kaz_Hello_1=<color="green">[Ty]</color> Sosnowiec Kazimierz, ici 41130, comment me recevez-vous après être passé sur le canal 4 ?
+01_ir_kat_waw_et22_P_Kaz_Hello_2=<color="orange">[SKz]</color> A Kazimierz, nous vous recevons haut et fort, 41130. Autorisation accordée pour la voie numéro 5 - croisement avec le train 94302.
+01_ir_kat_waw_et22_P_DGW_Info_1=<color="orange">[DGW]</color> Le 41130 pour Dąbrowa Wschodnia.
+01_ir_kat_waw_et22_P_DGW_Info_2=<color="green">[Ty]</color> 41130, continuez.
+01_ir_kat_waw_et22_P_DGW_Info_3=<color="orange">[DGW]</color> 41130, compris. Nous attendrons sur le quai pendant 3-4 minutes que le train de marchandises dégage.
+01_ir_kat_waw_et22_P_DGW_Info_4=<color="orange">[DGW]</color> 41130, autorisation de départ vers Sławków.
+01_ir_kat_waw_et22_P_Sla_Info_1=<color="orange">[Sla]</color> 41130, faire un rapport à Sławków.
+01_ir_kat_waw_et22_P_Sla_Info_2=<color="green">[Ty]</color> 41130, au rapport.
+01_ir_kat_waw_et22_P_Sla_Info_3=<color="orange">[Sla]</color> De Sławków à Bukowno, nous utiliserons la voie de gauche. Sur la voie de droite, près de la gare de Bukowno Przymiarki, se trouve un train de marchandises en panne. Veuillez utiliser le sifflet à proximité et procéder avec prudence.
+01_ir_kat_waw_et22_P_Char_Hello_3=<color="orange">[Chr]</color> 41130, A Charsznica, nous avons une panne d'électricité dans le poste d'enclenchement. Nous essaierons de vous accorder l'entrée sous peu.
+01_ir_kat_waw_et22_P_Koz_Hello_1=<color="green">[Ty]</color> Sprowa 41130, Contrôle radio après passage sur le canal 5.
+01_ir_kat_waw_et22_P_Koz_Hello_2=<color="orange">[Spr]</color> Fort et clair. Terminé.
+01_ir_kat_waw_et22_P_Spr_Info_3=<color="green">[Ty]</color> Reçu, à Starzyny sur le signal de substitution sur la voie de gauche. Vous pouvez donner un signal de substitution pour 41130.
+01_ir_kat_waw_et22_P_Gro_Hello_1=<color="green">[Ty]</color> Rapport sur Grodzisk de 41130 après le changement de canal.
+01_ir_kat_waw_et22_P_Waw_Man_1=<color="green">[Ty]</color> Warszawa Zachodnia, 41130 prêt à se rendre sur les voies de garage.
+01_ir_kat_waw_et22_P_Ack=<color="green">[Ty]</color> Reçu.
+01_ir_kat_waw_et22_StaticNoise=[bruit]
+01_ir_kat_waw_et22_ZewHelper=N'oubliez pas d'appeler le dispatcheur lorsque vous changez de canal pour vérifier la communication.
+03_kwk_sta_laz_et22_P_Kmb_Hello_1=<color="green">[Ty]</color> Staszic à 443021, contrôle radio après passage sur le canal 3.
+03_kwk_sta_laz_et22_P_St_Hello_1=<color="green">[Ty]</color> Mine de Staszic, 443021 demande d'entrée, veuillez également noter que la locomotive sera réutilisée pour le train 444020.
+03_kwk_sta_laz_et22_P_St_Man1_2=<color="orange">[StB]</color> La locomotive du 443021 se dirige vers la voie de triage 26, puis change de cabine et passe par la voie libre numéro 6 pour se rendre de l'autre côté de la gare.
+03_kwk_sta_laz_et22_P_St_Hello_2=<color="orange">[StA]</color> La mine de Staszic a accusé réception et l'entrée vous a été accordée. Veuillez vous arrêter juste avant le signal de sortie et, une fois la locomotive décrochée du train, signalez à la radio que vous êtes prêts à effectuer des manœuvres.
+03_kwk_sta_laz_et22_P_St_Ready_1=<color="green">[Ty]</color> Mine de Staszic pour le train 444020, le train est raccordé après les manœuvres et est prêt à circuler en tant que train 444020.
+tut_etcs1_WelcomeText2=L'ETCS est un des sous-systèmes de l'ERTMS (European Rail Traffic Management System), qui permet aux trains de tous les exploitants du Vieux Continent d'opérer sur un réseau ferroviaire Européen unique et commun sans avoir besoin de changer de conducteur ou de matériel roulant aux frontières. Rejoignez le train et activez la cabine.
+tut_etcs1_InputLevel=Avant de commencer votre trajet, vous devez le niveau ETCS sous lequel opérer ce train. Il y a deux scénarios. Dans le premier scénario, votre train est sur une voie non supervisée par le système et entrer le domaine supervisé au cours de son trajet. Dans le second scénario, le train est déjà dans le domaine supervisé par le système. Aujourd'hui, nous serons dans le premier cas : nous entrerons dans le domaine supervisé dans peu de temps, donc actuellement, nous sommes sous le contrôle du système SHP. Sélectionnez le niveau SHP en utilisant les boutons autour de l'écran, puis appuyez sur ENTREE.
+tut_etcs1_WelcomeText=Bienvenue sur la voie expérimentale de Węglewo ! Aujourd'hui, vous ferez votre premier parcours avec l'automotrice ED250 sous le contrôle du système ETCS. L'ETCS est un ensemble de composants informatiques qui contrôle la vitesse du train, vérifie la bonne conduite du train par le conducteur, et fournit une signalisation en cabine, en présentant ses indications sur un écran informatique.
+tut_etcs1_InputDriverNumber=Au milieu du pupitre de conduite, vous trouvez l'écran DMI (Driver Machine Interface ou Interface Conducteur Machine). Cet écran est utilisé pour gérer le système ETCS. La première étape après avoir allumé le véhicule est d'entrer l'identifiant du conducteur. Aujourd'hui, vous serez le conducteur numéro 9022. Utilisez les boutons autour de l'écran pour entrer le numéro, puis appuyez sur le bouton ENTREE.
+tut_etcs1_InputFixedTrainData=Dans le cas des éléments automoteurs, la situation est simplifiée : ils ont une longueur et une masse fixes. Par conséquent, un ensemble prêt à l'emploi est disponible. Sélectionnez la première option, puis appuyez sur ENTRÉE. Ensuite, confirmez les données saisies à l'aide de la touche OUI et appuyez sur ENTRÉE.
+tut_etcs1_InputTrainNumber=Chaque train de la circulation de ligne a un numéro qui lui est attribué. L'entrée du numéro dans le système permet aux contrôleurs du trafic d'identifier facilement le train et sa position. Notre train effectuant un parcours d'essai, il faudra entrer le numéro 60901.
+tut_etcs1_ETCSDataConfirmFinish=Il est temps de mettre la théorie en pratique. Le système ETCS dispose déjà de toutes les données nécessaires pour entrer dans le domaine supervisé et le changement de mode a été approuvé. Maintenant, conduisez le train en fonction de l'indication du signal.
+tut_etcs1_L1AnnouncementSign=Vous vous approchez de l'indicateur annonçant un changement de niveau ETCS. Un panneau jaune indique le changement à venir, un panneau blanc indique le lieu du changement et un panneau barré indique la fin de la zone de supervision ETCS.
+tut_etcs1_L1AnnouncementConfirm=Le train a lu le groupe de balise suivant indiquant un changement de niveau. Une demande de confirmation du changement de niveau est apparue à l'écran.
+tut_etcs1_L1AnnouncementConfirm2=Confirmez-la - comme précédemment - à l'aide de la touche ENTRÉE de l'écran ou sur la touche {button=Train Driver|ETCS Ack button}. L'absence de réponse entraîne un freinage d'urgence.
+tut_etcs1_SelectTrainData=Bon travail ! Vous êtes maintenant face au menu principal du DMI. Pour commencer le voyage, vous devez sélectionner l'option DEBUT. Cependant, veuillez noter que cette option n'est pas disponible pour le moment. Vous devez encore entrer les données détaillées du train dans l'ordinateur - sa longueur, sa masse et le pourcentage de masse freinée. Sélectionnez l'option numéro 3.
+tut_etcs1_ConfirmAcknowledgeFirstTime=Vous êtes maintenant sur l'écran principal de conduite. Sous le compteur de vitesse, vous voyez un cadre jaune clignotant - il s'agit d'une demande de confirmation de la part du système ETCS. Il peut s'agir d'un changement de mode, d'un changement de niveau ou du franchissement de certains indicateurs de sécurité. Pour confirmer la demande, utilisez la touche ENTRÉE de l'écran ou sur la touche {button=Train Driver|ETCS Ack button}.
+03_kwk_sta_laz_et22_P_LC_Hello_2=<color="orange">[ŁC]</color> 444020, Fort et clair à ŁC.
+02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Ty]</color> Aiguilleur, mes heures de travail se terminent, je vais garer le train chez vous.
+tut_etcs1_InputFixedTrainDataConfirm=Ensuite, confirmez les données saisies à l'aide de la touche YES et appuyez sur ENTREE.
+tut_etcs1_SelectStart=Comme vous pouvez le voir, l'option DEBUT est maintenant disponible. Il est temps de commencer notre voyage - appuyez sur la touche 1 du clavier autour de l'écran.
+tut_etcs1_FullSupervisionExplanation=Nous avons réussi ! Le système ETCS est passé en mode de supervision totale. Cela signifie qu'il contrôle désormais la vitesse autorisée et les indications des signaux. Actuellement, la vitesse autorisée est affichée dans un cadre circulaire autour du compteur de vitesse. Comme vous pouvez le constater, elle est actuellement de <kmph>120</kmph>. Continuez à rouler. Lorsque vous passez devant certains indicateurs de bord de piste, leur contenu est répété à l'écran sous la forme d'un message textuel. N'oubliez pas que le dépassement de la vitesse autorisée déclenche une alarme sonore. Si le conducteur ne réagit pas, le train sera ralenti.
+tut_etcs1_PassingFirstSpeedLimitIncrease=Vous approchez de la fin de la section de limitation de vitesse. Au-delà de cet indicateur, vous pouvez augmenter la vitesse jusqu'à <kmph>140</kmph>. Notez que le système n'augmentera la vitesse autorisée que lorsque l'ensemble du train sortira de la section de restriction - c'est pourquoi le système a besoin de connaître la longueur du train.
+tut_etcs1_PassingW24=Certains messages textuels ont un impact significatif sur la sécurité de la conduite. C'est pourquoi ils nécessitent une confirmation de la part du conducteur du train. C'est le cas de l'indicateur W24. Vous approchez d'un signal affichant cet indicateur. De plus, au prochain signal, une confirmation supplémentaire vous sera demandée - confirmez votre compréhension du message comme précédemment.
+tut_etcs1_StopingAtS1=Vous approchez d'un signal affichant un ARRÊT. Il est visible dans la zone de planification de l'itinéraire. Ajustez la vitesse du train pour ne pas dépasser la courbe de freinage et arrêtez le train avant le signal.
+tut_etcs1_StoppedAtS1_1=Vous avez atteint le point où l'autorisation de circuler prend fin. Ce point est lié au signal indiquant un arrêt.
+tut_etcs1_StoppedAtS1_2=Utilisez l'appel radio ZEW3 pour contacter l'aiguilleur.
+tut_etcs1_PassingW28=Voici un autre indicateur qui nécessite une confirmation de la part du conducteur du train. L'indicateur concerne le canal radio actuel W28 - confirmez votre compréhension du message comme précédemment, puis continuez à rouler en suivant les indications du système.
+tut_etcs1_StoppedBeforePassingSubstitudeSignal=Vous avez arrêté le train avant le signal affichant STOP. La poursuite du mouvement se fera sur le signal de substitution. En 1er niveau, l'ETCS passe automatiquement en mode "ON SIGHT" lorsque le train se trouve au-delà du signal affichant un signal de substitution.
+tut_etcs1_EndScenario2=Toutefois, si vous rencontrez un problème que vous ne pouvez pas résoudre, vous trouverez le commutateur EVC sur la paroi arrière de la cabine du conducteur. En l'utilisant, vous isolerez le système ETCS pour ce scénario spécifique. Si vous ne souhaitez jamais utiliser le système, vous pouvez le désactiver dans les options de simulation. N'oubliez pas qu'au premier niveau, les données relatives à l'état du sémaphore ne sont mises à jour que lorsque le train passe au-dessus de la balise. Cela peut entraîner des divergences dans les indications si le signal change avant que l'avant du train ne l'atteigne.
+tut_etcs1_PassedSubstitudeSignal=Le signal suivant indique l'autorisation de circuler. En niveau 1, l'ETCS passe automatiquement en mode de SURVEILLANCE TOTALE lorsque le train se trouve au-delà du signal indiquant l'autorisation de circuler.
+tut_etcs1_PassingFirstSpeedLimitDecrease=Faites attention à la partie droite de l'écran du DMI. Il s'agit de la zone de planification de l'itinéraire. Actuellement, le train s'approche d'une limite de vitesse de <kmph>70</kmph>, indiquée sur le graphique. Ajustez la vitesse du train pour ne pas dépasser la vitesse autorisée - qui diminuera progressivement jusqu'à <kmph>70</kmph>. Vous pouvez également utiliser les boutons PLUS et MOINS de l'écran pour agrandir la vue de la zone de planification de l'itinéraire et voir d'autres limitations de vitesse.
+tut_etcs1_StoppingBeforeSBLPassingAtOS=Une fois de plus, vous approchez du point où l'autorisation de circuler prend fin. Cette fois, le signal SBL indique un signal STOP en raison d'un dysfonctionnement du système de contrôle du trafic ferroviaire. Les dispositifs de contrôle du trafic ferroviaire ne savent pas si la section de voie est libre. Par conséquent, la suite du voyage se déroulera en mode "ON SIGHT". Dans ce mode, le système contrôle la vitesse autorisée, mais le conducteur est responsable de l'arrêt du train devant tout obstacle. Confirmez le changement de mode et continuez à rouler à une vitesse limitée à <kmph>20</kmph>.
+tut_etcs1_PassingOpenCrossing=Vous vous approchez d'un panneau d'avertissement de passage à niveau. Son indication - deux feux orange - informe le conducteur du train que le passage à niveau peut être ouvert ! En cas de danger, l'ETCS introduit une limitation temporaire de la vitesse au passage à niveau à <kmph>20</kmph>. Sur le tableau de planification de l'itinéraire, vous verrez la limite de vitesse réduite à zéro, car vous devez être prêt à arrêter brusquement le train avant le passage à niveau si la situation l'exige.
+tut_etcs1_EndScenario=Voilà qui conclut le voyage sur la piste expérimentale. Au cours des trois circuits, vous vous êtes familiarisé avec les fonctions de base du système dans différentes situations. Si vous souhaitez approfondir l'ETCS pour comprendre toutes les icônes et fonctions, utilisez le menu en haut à gauche pour accéder à la présentation détaillée. N'oubliez pas non plus que les indications de l'ETCS sont prioritaires sur celles des sémaphores, sauf si le sémaphore interdit la poursuite du mouvement. Consultez l'aiguilleur pour toutes les transitions vers le mode "STAFF RESPONSIBILITY".
+tut_etcs2_StoppedAtS1_2=Utilisez l'appel radio ZEW3 pour contacter l'aiguilleur.
+tut_etcs2_PassingW28=Voici un autre indicateur qui nécessite une confirmation de la part du conducteur du train. L'indicateur concerne le canal radio actuel W28 - confirmez votre compréhension du message comme précédemment, puis continuez à rouler en suivant les indications du système.
+tut_etcs2_StoppedAtS1_1=Vous avez atteint le point où l'autorisation de circuler prend fin. Ce point est lié au signal indiquant un arrêt.
+tut_etcs2_L2AnnouncementConfirm=Le train a lu le groupe de balise suivant - indiquant un changement de niveau. Une demande de confirmation du changement de niveau est apparue à l'écran.
+tut_etcs2_WelcomeText=Bienvenue sur la piste expérimentale de Węglewo ! Aujourd'hui, vous allez effectuer votre premier cours avec l'unité de traction ED250 sous le contrôle du système ETCS. Le système européen de contrôle des trains est un ensemble de dispositifs informatiques qui contrôlent la vitesse du train, surveillent le travail en cours du conducteur et assurent la signalisation en cabine - en présentant l'état des indicateurs et des signaux sur l'écran de l'ordinateur.
+tut_etcs2_WelcomeText2=L'ETCS fait partie du système européen de gestion du trafic ferroviaire, qui permet aux trains de tous les transporteurs du Vieux Continent de circuler sur un réseau européen unique et commun de lignes ferroviaires sans devoir changer de conducteur ou de matériel roulant aux passages de frontières. Veuillez vous diriger vers le train et activer la cabine.
+tut_etcs2_InputDriverNumber=Au milieu du tableau de bord, vous trouverez l'écran DMI (Driver Machine Interface). Cet écran est utilisé pour faire fonctionner le système ETCS. La première étape après le démarrage du véhicule consiste à saisir l'identifiant du conducteur. Aujourd'hui, vous opérez en tant que 9022. Utilisez les boutons autour de l'écran pour saisir le numéro, puis appuyez sur ENTER.
+tut_etcs2_InputLevel=Avant de commencer le voyage, vous devez sélectionner le niveau d'ETCS pour la conduite du train. Il existe deux scénarios. Dans le premier scénario, le train se trouve sur une voie non surveillée par le système et entrera dans une zone surveillée au cours du voyage. Dans le second scénario, le train se trouve déjà dans la zone d'exploitation du système. Aujourd'hui, nous sommes dans le premier cas - nous entrerons bientôt dans la zone surveillée, nous sommes donc actuellement sous le contrôle du système SHP. Sélectionnez le niveau du SHP à l'aide des boutons situés autour de l'écran et appuyez sur ENTER.
+tut_etcs2_SelectTrainData=Bon travail ! Vous êtes maintenant face au menu principal du DMI. Pour commencer le voyage, vous devez sélectionner l'option DEBUT. Cependant, veuillez noter que cette option n'est pas disponible pour le moment. Vous devez encore entrer les données détaillées du train dans l'ordinateur - sa longueur, sa masse et le pourcentage de la masse de freinage. Sélectionnez l'option numéro trois.
+tut_etcs2_InputFixedTrainDataConfirm=Ensuite, confirmez les données saisies à l'aide de la touche YES et appuyez sur ENTER.
+tut_etcs2_InputFixedTrainData=Dans le cas des éléments automoteurs, la situation est simplifiée : ils ont une longueur et une masse fixes. Par conséquent, un ensemble prêt à l'emploi est disponible. Sélectionnez la première option, puis appuyez sur ENTER. Ensuite, confirmez les données saisies à l'aide de la touche OUI et appuyez sur ENTRÉE.
+tut_etcs2_InputTrainNumber=Chaque train en circulation de ligne dispose d'un numéro qui lui est attribué. L'entrée du numéro dans le système permet aux contrôleurs du trafic d'identifier facilement le train et sa position. Notre train est en cours d'essai, il faut donc entrer 60901.
+tut_etcs2_SelectStart=Comme vous pouvez le voir, l'option DEBUT est maintenant disponible. Il est temps de commencer notre voyage - appuyez sur la touche 1 du clavier autour de l'écran.
+tut_etcs2_L2AnnouncementSign=Vous vous approchez de l'indicateur annonçant un changement de niveau ETCS. Un panneau jaune indique le changement à venir, un panneau blanc indique le lieu du changement et un panneau barré indique la fin de la zone de supervision ETCS.
+tut_etcs2_L2AnnouncementConfirm2=Confirmez-la - comme précédemment - à l'aide de la touche ENTER de l'écran ou de la touche {button=Train Driver|ETCS Ack button}. L'absence de réponse entraîne un freinage d'urgence.
+tut_etcs2_PassingFirstSpeedLimitIncrease=Vous approchez de la fin de la section de limitation de vitesse. Au-delà de cet indicateur, vous pouvez augmenter la vitesse jusqu'à <kmph>140</kmph>. Notez que le système n'augmentera la vitesse autorisée que lorsque l'ensemble du train sortira de la section de restriction - c'est pourquoi le système a besoin de connaître la longueur du train.
+tut_etcs2_PassingW24=Certains messages textuels ont un impact significatif sur la sécurité de la conduite. C'est pourquoi ils nécessitent une confirmation de la part du conducteur du train. C'est le cas de l'indicateur W24. Vous approchez d'un signal affichant cet indicateur. De plus, au prochain signal, une confirmation supplémentaire vous sera demandée - confirmez votre compréhension du message comme précédemment.
+tut_etcs2_StopingAtS1=Vous approchez d'un signal affichant un STOP. Il est visible dans la zone de planification de l'itinéraire. Ajustez la vitesse du train pour ne pas dépasser la courbe de freinage et arrêtez le train avant le signal.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal3=Passez maintenant en mode SR (Staff Responsible). Pour ce faire, appuyez sur le bouton FRANCHIR, puis sur EoA - End Of Authority - ce qui signifie la fin de l'autorisation de circuler. Continuez ensuite à rouler jusqu'au signal à la vitesse de - <kmph>20</kmph>, puis <kmph>40</kmph> en raison de la conduite sur le signal de substitution. N'oubliez pas que l'appel de cette fonction n'est possible que lorsque le train est à l'arrêt.
+tut_etcs2_EndScenario=Voilà qui conclut le voyage sur la piste expérimentale. Au cours des trois circuits, vous vous êtes familiarisé avec les fonctions de base du système dans différentes situations. Si vous souhaitez approfondir l'ETCS pour comprendre toutes les icônes et fonctions, utilisez le menu en haut à gauche pour accéder à la présentation détaillée. N'oubliez pas non plus que les indications de l'ETCS sont prioritaires sur celles des sémaphores, sauf si le sémaphore interdit la poursuite du mouvement. Demandez l'avis de l'aiguilleur pour tous les passages en mode STAFF RESPONSIBILITY (RESPONSABILITÉ DU PERSONNEL).
+tut_etcs2_EndScenario2=Toutefois, si vous rencontrez un problème que vous ne pouvez pas résoudre, vous trouverez le commutateur EVC sur la paroi arrière de la cabine du conducteur. En l'utilisant, vous isolerez le système ETCS pour ce scénario spécifique. Si vous ne souhaitez jamais utiliser le système, vous pouvez le désactiver dans les options de simulation.
+tut_etcs2_ConfirmAcknowledgeFirstTime=Vous êtes maintenant sur l'écran principal de conduite. Sous le compteur de vitesse, vous voyez un cadre jaune clignotant - il s'agit d'une demande de confirmation de la part du système ETCS. Il peut s'agir d'un changement de mode, d'un changement de niveau ou du franchissement de certains indicateurs de sécurité. Pour confirmer la demande, utilisez la touche ENTER du moniteur ou la touche {bouton=Train Driver|ETCS Ack button}.
+tut_etcs2_ETCSDataConfirmFinish=Il est temps de mettre la théorie en pratique. Le système ETCS dispose déjà de toutes les données nécessaires pour entrer dans la zone surveillée et le changement de mode a été approuvé. Maintenant, conduisez le train en fonction de l'indication du signal.
+tut_etcs2_RBCConnection=Le train a franchi le premier groupe de balise situé sur la voie. Les données qui y sont stockées ont été lues par l'ordinateur de bord. Dans ce groupe particulier, les données relatives au centre de contrôle radio (RBC) ont été stockées. Le système a établi une connexion avec le RBC, symbolisée par l'icône du casque sur le côté gauche de l'écran DMI.
+tut_etcs2_StoppingBeforeSBLPassingAtOS=Une fois de plus, vous approchez du point où l'autorisation de circuler prend fin. Cette fois, le signal SBL indique un signal STOP en raison d'un dysfonctionnement du système de contrôle du trafic ferroviaire. Adaptez votre vitesse de manière à vous arrêter avant le signal.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal=Vous avez arrêté le train avant le signal affichant STOP. La circulation se poursuivra avec le signal de substitution. Le niveau 2 de l'ETCS nécessite de passer manuellement en mode "STAFF RESPONSIBILITY" (responsabilité du personnel). Dans ce mode, le système ne contrôle pas les signaux, l'occupation des voies ou la vitesse des véhicules. Le conducteur du train assume l'entière responsabilité de la conduite du train en fonction des indications des dispositifs en bordure de voie. Le passage à ce mode nécessite l'approbation de l'aiguilleur sous la forme d'un ordre écrit.
+tut_etcs2_StoppedBeforeSBLPassingAtOS=Les dispositifs de contrôle du trafic ferroviaire ne disposent pas d'informations permettant de savoir si la section de voie est libre. Par conséquent, la suite du voyage se déroulera en mode "ON SIGHT". Dans ce mode, le système contrôle la vitesse autorisée, mais le conducteur est responsable de l'arrêt du train devant tout obstacle. Confirmez le changement de mode et continuez à rouler à une vitesse limitée à <kmph>20</kmph>.
+tut_etcs2_PassingOpenCrossing=Vous vous approchez d'un panneau d'avertissement de passage à niveau. Son indication - deux feux orange - informe le conducteur du train que le passage à niveau peut être ouvert ! En cas de danger, l'ETCS introduit une limitation temporaire de la vitesse au passage à niveau à <kmph>20</kmph>. Sur le tableau de planification de l'itinéraire, vous verrez la limite de vitesse réduite à zéro, car vous devez être prêt à arrêter brusquement le train avant le passage à niveau si la situation l'exige.
+tut_etcs2_FullSupervisionExplanation=Nous avons réussi ! Le système ETCS est passé en mode "full supervision". Cela signifie qu'il contrôle désormais la vitesse autorisée et les indications des signaux. Actuellement, la vitesse autorisée est affichée dans un cadre circulaire autour du compteur de vitesse. Comme vous pouvez le constater, elle est actuellement de <kmph>120</kmph>. Continuez à rouler. Lorsque vous passez devant certains indicateurs de bord de piste, leur contenu est répété à l'écran sous la forme d'un message textuel. N'oubliez pas que le dépassement de la vitesse autorisée déclenche une alarme sonore. Si le conducteur ne réagit pas, le train sera ralenti.
+tut_etcs2_PassingFirstSpeedLimitDecrease=Faites attention à la partie droite de l'écran du DMI. Il s'agit de la zone de planification de l'itinéraire. Actuellement, le train s'approche d'une limite de vitesse de <kmph>70</kmph>, indiquée sur le graphique. Ajustez la vitesse du train pour ne pas dépasser la vitesse autorisée - qui diminuera progressivement jusqu'à <kmph>70</kmph>. Vous pouvez également utiliser les boutons PLUS et MOINS de l'écran pour agrandir la vue de la zone de planification de l'itinéraire et voir d'autres limitations de vitesse.
+tut_etcs2_PassedSubstitudeSignal=Le signal suivant indique l'autorisation de circuler. Il est donc possible de reprendre la conduite sous la supervision du système ETCS. Pour quitter le mode SR, sélectionnez MENU sur l'écran, puis DEBUT à une distance d'environ <meter>150</meter> du sémaphore. L'appel de cette fonction est possible lorsque la vitesse du train est inférieure à <kmph>20</kmph>.
+veh_steam_fireman_start2=Le travail du chauffeur consiste à s'occuper de la chaudière afin qu'elle produise autant de vapeur que le conducteur en a besoin pour faire avancer le train. Pendant la conduite, vous devez ajouter du charbon dans le foyer, réguler la puissance du feu et alimenter la chaudière en eau.
+veh_steam_fireman_start_injectors=La locomotive à vapeur est équipée de deux injecteurs indépendants pour le remplissage en eau : l'injecteur de gauche à faible capacité et l'injecteur de droite à capacité plus élevée.
+veh_steam_bolier_injector_strube2=Lorsque l'injecteur aspire de l'eau, le son qu'il émet change. Déplacez ensuite la poignée complètement vers la gauche.
+veh_steam_fireman_start_dampers2=Le second se trouve du côté droit (côté conducteur).
+veh_steam_fireman_start=Vous êtes dans la cabine du conducteur. Dans la partie avant se trouve la chaudière, autour de laquelle se trouvent divers instruments, et à l'arrière, la réserve de charbon du tender. Regardez autour de vous un moment avant de poursuivre le tutoriel.
+veh_steam_fireman_start_waterlevel=Au fur et à mesure que la machine à vapeur consomme de la vapeur, le niveau d'eau dans la chaudière diminue. Ce phénomène est indiqué par les jauges d'eau. Un niveau d'eau trop bas endommagera la machine à vapeur.
+veh_steam_bolier_injector_strube1=Démarrez l'injecteur en plaçant la poignée en position d'aspiration.
+veh_steam_fireman_start_firebox=Vous ajouterez du charbon dans le foyer par la porte située au bas de la cabine.
+veh_steam_firebox_open=Ouvrez la porte du foyer.
+veh_steam_fireman_start_coal1=Le charbon se trouve à l'arrière de la cabine. Prenez une pelle de charbon en cliquant sur la réserve de charbon.
+veh_steam_fireman_start_coal2=Ajoutez le charbon par la porte en cliquant sur la grille.
+veh_steam_fireman_start_coal3=N'oubliez pas qu'une couche de charbon trop épaisse brûle plus difficilement !
+veh_steam_fireman_start_fire1=L'intensité du feu dans la chaudière varie au cours du trajet. Les coups de vapeur des pistons créent un tirage dans la chaudière, ce qui renforce le feu.
+veh_steam_fireman_start_dampers1=La quantité d'air entrant dans le foyer peut être modifiée à l'aide de volets latéraux. Les volets ouverts renforcent le feu, les volets fermés l'éteignent. Ils sont actionnés par deux leviers. L'un se trouve à gauche (côté chauffeur).
+veh_steam_fireman_start_dampers3=Lors d'un trajet, les volets sont généralement ouverts lorsque le moteur fonctionne.
+veh_steam_fireman_start_blower=Si la machine à vapeur ne fonctionne pas, le débit dans la chambre de combustion peut être augmenté par une soufflerie. Mettez la soufflerie en marche et observez comment la puissance du feu augmente.
+veh_steam_firebox_close=Fermez la porte du foyer.
+veh_steam_fireman_start_finish1=Toutes vos actions influencent sur la pression de la vapeur dans la chaudière, qui peut être vérifiée sur un manomètre situé dans la partie supérieure de la cabine.
+veh_steam_fireman_start_finish2=L'eau du tender est très froide, c'est pourquoi l'alimentation de la chaudière avec cette eau peut entraîner une chute de pression. Vous pouvez l'éviter en utilisant la soufflerie lorsque vous conduisez avec peu de puissance ou en roue libre.
+veh_steam_fireman_start_finish4=La chaudière a un meilleur rendement lorsque le feu est faible. Lors d'une conduite avec peu de puissance ou d'un train léger, la couche de charbon peut être plus mince. Profitez de cette situation pour alimenter la chaudière en eau ou pour augmenter la pression.
+veh_steam_fireman_start_finish5=Le foyer fonctionne avec un peu d'inertie et de retard dans l'allumage des morceaux de charbon. Essayez de prévoir la consommation de vapeur et de préparer le charbon pour un usage ultérieur.
+veh_steam_fireman_start_finish3=Si la chaudière n'est pas alimentée en eau pendant que la locomotive à vapeur fonctionne, la pression peut augmenter.
+veh_steam_fireman_start_finish6=Lorsque la pression dépasse la valeur autorisée, les soupapes de sécurité s'ouvrent. Elles rejettent l'excès de vapeur dans l'atmosphère.
+veh_steam_fireman_start_finish7=Votre train quittera bientôt la gare.
+veh_steam_fireman_start_shovel=Le pelletage du charbon du tender à la chambre de combustion s'effectue en position debout.
+veh_steam_fireman_start_shovel1=Prenez la pelle en cliquant dessus.
+veh_steam_fireman_start_shovel2=Déposez la pelle en cliquant sur le côté droit de la réserve de charbon.
+veh_steam_bolier_injector_strube3=Arrêtez l'injecteur en déplaçant la poignée complètement vers la droite.
+veh_steam_bolier_injector_nathan_open_water=Ouvrir le robinet d'alimentation de l'injecteur d'eau.
+veh_steam_bolier_injector_nathan_open_output=Ouvrir la vanne de trop-plein de l'injecteur.
+veh_steam_bolier_injector_nathan_open=Ouvrir l'injecteur.
+veh_steam_bolier_injector_nathan_close_output=Fermer la vanne de trop-plein de l'injecteur.
+veh_steam_bolier_injector_nathan_close_water=Fermer la vanne d'alimentation de l'injecteur d'eau.
+Ty2_Cargo_Dialog1_Q_Function=Choisissez votre rôle
+Ty2_Cargo_Dialog1_1_Driver=Mécanicien
+Ty2_Cargo_Dialog1_2_Fireman=Chauffeur
+Ty2_Cargo_Dialog2_Q_CarsNo=Choisir la masse du train (niveau de difficulté)
+Ty2_Cargo_Dialog2_1_14Easy=750 t (facile)
+Ty2_Cargo_DGW_no_wyjazd_normal=4365, nous attendons la voie libre.
+Ty2_Cargo_3_Welcome=Le tutoriel vous montrera comment faire avancer le train et vous donnera de petits conseils sur la conduite d'une locomotive à vapeur.
+Ty2_Cargo_Tutorial_Skipped=Le tutoriel est terminé, vous pouvez maintenant conduire seul.
+Ty2_Cargo_Dialog2_2_20Medium=1050 tonnes (moyenne)
+Ty2_Cargo_Dialog3_Q_Przeszkadzajka=Choisir une difficulté supplémentaire
+Ty2_Cargo_Dialog3_1_Dark=Nuit
+Ty2_Cargo_Dialog2_3_24Hard=1250 t (difficile)
+Ty2_Cargo_Dialog3_2_Cold=Neige
+Ty2_Cargo_Dialog3_3_Wet=Pluie
+Ty2_Cargo_Last_station=Il s'agit de la dernière station du tutoriel. Veuillez conduire jusqu'au signal de sortie à la fin de la piste pour terminer la mission.
+Ty2_Cargo_Warning_high_inclination=Le train s'approche d'une pente très élevée, ce qui nécessite une puissance très élevée de la machine à vapeur. Conduisez prudemment et évitez le patinage pour franchir la colline - le sablage peut être utile. Votre vitesse peut diminuer, mais soyez patient et précis dans votre conduite.
+Ty2_Cargo_Warning_high_inclination2=Après cette gare, il y a une très forte inclinaison, où le conducteur a besoin d'une très grande puissance de la machine à vapeur. Assurez-vous que le feu est fort et qu'il y a suffisamment de charbon sur la grille.
+Ty2_Cargo_Finish_saved_coal=Voici la fin du tutoriel. Au cours de la mission, la locomotive a consommé {0} kg de charbon, ce qui représente une économie de {1} kg par rapport à la valeur nominale. Pour réaliser davantage d'économies, mettez en pratique une fois de plus la bonne technique d'utilisation du régulateur, de l'inverseur et de la chaudière.
+Ty2_Cargo_Finish_too_much_coal=Voici la fin de la mission du tutoriel. Au cours de la mission, la locomotive a brûlé {0} kg de charbon, soit {1} kg de plus que la valeur nominale. Pour réaliser des économies, essayez encore une fois et mettez en pratique la bonne technique d'utilisation du régulateur, de l'inverseur et de la chaudière.
+Ty2_Cargo_DGW_no_wyjazd_slip=4365, nous attendons la voie libre. Je vous garde sur le signal d'entrée pour vous donner une opportunité de monter jusqu'à Sławków.
+Ty2_Cargo_1_Welcome=Aujourd'hui, vous conduirez un train de marchandises tiré par une locomotive Ty2 de Sosnowiec Dańdówka à Sławków.
+Ty2_Cargo_2_Welcome=Le tutoriel vous guidera dans l'utilisation de la locomotive à vapeur. Vous pouvez le sauter à tout moment en utilisant le bouton ZEW de la radio.
+Ty2_Cargo_Finish_well_saved_coal=Voici la fin du tutoriel. Pendant la mission, la locomotive a brûlé {0} kg de charbon, quelle est l'économie de {1} kg par rapport à la valeur nominale. C'est un très bon résultat, mais essayez encore d'en obtenir un meilleur !
+Snowy_Winter=Neige (hiver)
+M_Weather=Choisir la météo
+Sunny_Summer=Ensoleillé (été)
+Rainy_Autumn=Pluie (automne)
+Choose_your_train=Choisissez votre train
+Krk_01_ska_KrkSedz_Ready=32804, prêt au départ.
+Krk_01_ska_KrkSedz_Tun1=Tunel vers 32804, test radio après le changement de canal.
+Krk_01_ska_KrkSedz_Tun4=Il n'y a pas de quoi.
+StaticNoise=[zzzzkszkksszszzkkkszzzz]
+Tutorial_Skipped=Tutoriel ignoré
+Krk_01_ska_KrkSedz_Roger=Compris.
+Krk_01_ska_KrkSedz_Krk0=32804, signal de manœuvre ouvert pour la voie 3.
+Caller_You=Vous
+Krk_01_ska_KrkSedz_Sd1=32804, signal de manœuvre ouvert pour la voie 302.
+Caller_Shunter=Aiguilleur
+Krk_02_ska_SedzKrk_Start1=Agent de manœuvre pour le 23815, train prêt pour le contrôle des freins.
+Krk_01_ska_KrkSedz_Tun2=Son clair à Tunel 32804.
+Caller_Auditor=Narrateur
+Krk_01_ska_KrkSedz_Tun3=Merci.
+Caller_Conductor=Conducteur
+Krk_01_ska_KrkSedz_Hello=Bienvenue dans le scénario Regio Kraków-Sędziszów sur la ligne SKA2. Préparez-vous au départ et attendez le signal de manœuvre vers le quai.
+Krk_02_ska_SedzKrk_Hello=Bienvenue dans le scénario Regio Sędziszów-Kraków sur la ligne SKA2. Préparez-vous au départ et signalez vous à l'agent de manœuvre pour la vérification des freins.
+Krk_02_ska_SedzKrk_Sd1=Sędziszów à 23815, train prêt à évoluer en gare.
+Krk_02_ska_SedzKrk_KG0=23815 à KGB.
+Krk_02_ska_SedzKrk_Mi3=Merci !
+Krk_02_ska_SedzKrk_KG1=23815, j'écoute.
+Krk_02_ska_SedzKrk_Sd2=Sędziszów reçu, ouverture du signal sous peu.
+Krk_02_ska_SedzKrk_Mi1=Miechow 23815, contrôle radio.
+Krk_02_ska_SedzKrk_Mi2=Poste de Miechów, son clair.
+Krk_02_ska_SedzKrk_KG2=Attendez un peu avant l'entrée, il y a un train qui part pour Mydlniki.
+Krk_02_ska_SedzKrk_KG3=Reçu.
+Krk_02_ska_SedzKrk_KGdep=34102, prêt au départ.
+Krk_02_ska_SedzKrk_KG4=23815, ouverture de la voie. Dès que l'échange de passagers est terminé, tu passes à la voie 7.
+Krk_02_ska_SedzKrk_KG_M1=23815, passage à la voie 7, signal de manœuvre vers Płaszów. Je vous ferai savoir par radio quand vous pourrez vous arrêter.
+Krk_02_ska_SedzKrk_KG_M2=23815, vous pouvez vous arrêter et changer de cabine.
+Krk_02_ska_SedzKrk_Roger=Compris.
+Krk_02_ska_SedzKrk_Ready=23815, prêt au départ.
+23815_CheckBrakes1=23815, bien reçu. Je suis en position.
+34520_CheckBrakes2=34520, desserrez complètement les freins.
+34520_CheckBrakes4=34520, relâchez.
+34520_CheckBrakes1=34520, bien reçu, je suis prêt.
+34520_CheckBrakes3=34520, serrez.
+23815_CheckBrakes5=23815, essais de frein terminés. Vous pouvez vous annoncer.
+23815_CheckBrakes2=23815, desserrer complètement les freins.
+23815_CheckBrakes3=23815, serrez.
+23815_CheckBrakes4=23815, relâchez.
+34520_CheckBrakes5=34520, essais de freins terminés. Vous pouvez vous annoncer.
+Krk_03_ir_KrkOlk_Hello=Bienvenue dans le scénario Interregio Kraków-Olkusz. Préparez-vous au départ et signalez vous à l'agent de manœuvre pour la vérification des freins.
+Krk_03_ir_KrkOlk_KG2=34520, allez vers le signal tm308. Ensuite, changez de cabine et entrez sur la voie 2. Je vous ouvre bientôt.
+Krk_03_ir_KrkOlk_KG_Man1=34520, vous pouvez arrêter maintenant.
+Krk_03_ir_KrkOlk_KG3=KGB, 34520 prêt après le changement de cabine.
+Krk_03_ir_KrkOlk_KG_Man2=34520, vous pouvez arrêter maintenant, signalez vous quand vous serez prêt.
+Krk_03_ir_KrkOlk_KG5=KGB, 34520 prêt au départ.
+Krk_03_ir_KrkOlk_Kz0a=34520 je te reçoit.
+Krk_03_ir_KrkOlk_Kz1=Kozlow 34520, prêt.
+Krk_03_ir_KrkOlk_Kz2=34520 Bien reçu, j'ouvre le signal dès que le bloc sera libéré.
+Krk_03_ir_KrkOlk_Roger=Compris.
+Krk_03_ir_KrkOlk_KG6=34520, vous êtes annoncé à KGB, je vous ouvre bientôt.
+Krk_03_ir_KrkOlk_Tun1=Tunel à 34520, vérification de la radio.
+Krk_03_ir_KrkOlk_Tun2=Reçu 5/5.
+Krk_03_ir_KrkOlk_Kz0=34520 pour Kozlow.
+63103_CheckBrakes1=63103 à l'agent de formation, prêt pour les essais de freins.
+63103_CheckBrakes2=Relâchez complètement les freins.
+63103_CheckBrakes3=63103, serrez.
+63103_CheckBrakes4=63103, relâchez.
+63103_CheckBrakes5=63103, essais de freins terminés, train prêt au départ.
+Krk_03_ir_KrkOlk_Kz0b=Veuillez changer de cabine et signalez vous dès que vous êtes prêt.
+Krk_03_ir_KrkOlk_Ready=34520, prêt au départ.
+Krk_03_ir_KrkOlk_Start1=Agent de manœuvre pour le 34520, train prêt pour les essais de freins.
+Krk_03_ir_KrkOlk_KG1=KGB à 34520, prêt pour la manœuvre.
+CarsSelection_BarrelsWithFuel=Citernes de carburant (Cargo DLC)
+Krk_04_tlk_KatoKrk_Kz1=63102 j'écoute.
+Krk_04_tlk_KatoKrk_Kz5=J'ai appris que Jaworzno est impraticable en raison de l'affaissement d'un talus. Le régulateur a ordonné un détour par Olkusz avec un arrêt à Kozłów. Le prochain arrêt sera à Szopienice - en correspondance avec le bus de remplacement. Le répartiteur vous apportera un nouvel horaire et un ordre écrit avec les détails.
+Krk_04_tlk_KatoKrk_Kz6=Compris, détour par Olkusz. Quand puis-je espérer partir ?
+Krk_04_tlk_KatoKrk_DWG2=63102, la connexion est claire. Nous allons attendre un peu que le train de marchandises arrive.
+Krk_04_tlk_KatoKrk_Bo0=63102 pour Bukowno.
+Krk_04_tlk_KatoKrk_Bo4=63102 signal de substitution sur la voie gauche présenté.
+Krk_04_tlk_KatoKrk_O1=Olkusz pour le 63102.
+Krk_04_tlk_KatoKrk_Koz2=Vous vous êtes un peu égaré au nord, n'est-ce pas ? L'accès aux quais a été accordé, veuillez dételer du train et vous présenter pour la manœuvre.
+Krk_04_tlk_KatoKrk_Koz5=Compris, mise en place du contournement. Aller vers le signal de manœuvre n°4 et changer de cabine.
+Krk_04_tlk_KatoKrk_Koz7=D'accord, passez de la voie n° 3 à la voie 3a en terminant par un arrêt tampon et changez à nouveau de cabine. Attention, une courte section de la voie se trouve sous la caténaire.
+Krk_04_tlk_KatoKrk_Koz10=Agent de formation à 63103, train accouplé, les essais peuvent commencer.
+Krk_04_tlk_KatoKrk_Koz12=63103, bien reçu, je t'ouvre le signal tout de suite.
+Krk_04_tlk_KatoKrk_Mi2=Miechów compte rendu, 63103 son clair.
+Krk_04_tlk_KatoKrk_Ready=63102, départ.
+Krk_08_eip_WawKrk_WC4=Heureusement, ce n'est pas grave : il s'agit d'une défaillance du capteur d'incendie. Le S1a devrait bientôt se dégager - vous pourrez alors poursuivre votre route.
+Krk_04_tlk_KatoKrk_Hello=Bienvenue dans le scénario TLK Katowice-Kraków. Aujourd'hui, vous allez porter le secours à un train en provenance de Jelenia Góra et continuer avec elles en direction de Cracovie. Allez à la locomotive de réserve sur la voie en face du poste d'aiguillage de Katowice. Préparez votre engin et signalez à l'agent de circulation que vous êtes prêt pour la manœuvre.
+Krk_04_tlk_KatoKrk_K1_1=Katowice pour la locomotive sur la voie 11a.
+Krk_04_tlk_KatoKrk_K1_2=Katowice pour la locomotive sur la voie 12a.
+Krk_04_tlk_KatoKrk_K1_3=Katowice pour la locomotive sur la voie 40.
+Krk_04_tlk_KatoKrk_K1_4=Katowice pour la locomotive sur la voie 26.
+Krk_04_tlk_KatoKrk_K1_5=Katowice pour la locomotive sur la voie 200.
+Krk_04_tlk_KatoKrk_K2=Katowice reçoit.
+Krk_04_tlk_KatoKrk_K3=Locomotive démarrée et prête à être manœuvrée vers les quais.
+Krk_04_tlk_KatoKrk_K4=Bien reçu, passez le signal de manœuvre 22. L'aiguilleur vous indiquera quand vous pourrez vous arrêter.
+Krk_08_eip_WawKrk_St1=1310 à l'écoute.
+Krk_04_tlk_KatoKrk_K4_4=Bien reçu, continuez sur la voie 10, puis changez de direction et passez le signal de manœuvre 22. L'aiguilleur vous indiquera quand vous pourrez vous arrêter.
+Krk_04_tlk_KatoKrk_K4_5=Bien reçu... attends, 200 ? Wacek, tu veux aller à Cracovie dans une locomotive à vapeur ? D'accord... Passe le signal de manœuvre 22.
+Krk_04_tlk_KatoKrk_K5=La locomotive à Katowice, tu peux t'arrêter et changer de direction.
+Krk_04_tlk_KatoKrk_K6=La locomotive de secours, l'itinéraire est tracé. Un collègue t'apportera les papiers quand tu atteleras.
+Krk_04_tlk_KatoKrk_K7=Katowice, 63102 prêt au départ après vérification des freins.
+Krk_04_tlk_KatoKrk_K8=63102, Katowice en a pris acte. Le départ sera donné sous peu.
+Krk_04_tlk_KatoKrk_Kz0=63102 pour Zawodzie.
+Krk_04_tlk_KatoKrk_Kz2=Tu seras retenu un instant.
+Krk_04_tlk_KatoKrk_Kz3=63102 pour Zawodzie.
+Krk_04_tlk_KatoKrk_Kz4=63102 j'écoute.
+Krk_08_eip_WawKrk_St5=Ordre écrit S numéro 7 pour le train 1310 avec la date du jour. Deuxième section : autorisation de passer le sémaphore d'entrée B - comme Bartłomiej - donnant le signal "Stop". Le reste est facultatif. Gare de Strzałki, poste St, 8h15, répartiteur Kowalski.
+Krk_08_eip_WawKrk_St7=L'ordre est correct. Vous pouvez poursuivre votre route.
+Krk_09_tow_Krk_Tl1=Tunel 324040, vérification de la radio après le changement de canal.
+Choose_train_cars=Choisir les wagons du train
+CarsSelection_PlatformsWithContainers=Plats avec conteneurs
+Krk_04_tlk_KatoKrk_Kz7=Immédiatement après un ED250 qui se rend à Warszawa.
+Krk_04_tlk_KatoKrk_SG1=63102, la déviation vers Sosnowiec Południowy a été tracée.
+Krk_04_tlk_KatoKrk_SPł1=Sosnowiec Południowy, 63102 contrôle radio.
+Krk_04_tlk_KatoKrk_SPł2=63102, la liaison radio est claire. Je vais préparer le départ pour Dańdówka dans un instant.
+Krk_04_tlk_KatoKrk_Dra1=Dorota, 63102 contrôle radio.
+Krk_04_tlk_KatoKrk_Dra2=63102, son clair à Dorota.
+Krk_04_tlk_KatoKrk_DWG1=Dąbrowa Górnicza Wschodnia, 63102 vérification de la radio.
+Krk_04_tlk_KatoKrk_Bo1=63102 j'écoute.
+Krk_04_tlk_KatoKrk_Bo2=Départ vers Olkusz sur la voie de gauche, au signal de substitution. Voie de droite fermée en raison d'un accident de voiture sur le passage à niveau au kilomètre 48. Veuillez limiter la vitesse à 20km/h dans la zone et siffler.
+Krk_04_tlk_KatoKrk_Bo3=Voie gauche au signal de substitution, compris. Vous pouvez l'activer maintenant.
+Krk_04_tlk_KatoKrk_O2=63102 Olkusz reçoit.
+Krk_04_tlk_KatoKrk_O3=En attente de l'entrée sur SzN1.
+Krk_04_tlk_KatoKrk_O4=Compris, mise en place d'un signal de substitution sur la voie 2.
+Krk_04_tlk_KatoKrk_JO0=63102 pour Jaroszowiec.
+Krk_04_tlk_KatoKrk_JO1=63102 j'écoute.
+Krk_04_tlk_KatoKrk_JO2=Nous allons faire demi-tour en raison d'une caténaire endommagée. Veuillez siffler en entrant en gare - l'équipe caténaire est sur place.
+Krk_04_tlk_KatoKrk_Koz0=63102, pour Kozlow.
+Krk_04_tlk_KatoKrk_Koz1=63102 j'écoute.
+Krk_04_tlk_KatoKrk_Koz3=Eh oui, c'est comme ça ! Compris.
+Krk_04_tlk_KatoKrk_Koz4=Kozłów, la locomotive du 63102 prête à rouler.
+Krk_04_tlk_KatoKrk_Koz6=Kozłów, locomotive du 63102 près du signal 6, prête pour la manœuvre.
+Krk_04_tlk_KatoKrk_Koz8=Kozłów, locomotive seule prête à manœuvrer sur le signal Tm26.
+Krk_04_tlk_KatoKrk_Koz9=Le signal s'ouvre pour ta voie.
+Krk_04_tlk_KatoKrk_Koz11=Kozłów, 63103 prêt pour le départ vers Cracovie.
+Krk_04_tlk_KatoKrk_Koz13=Merci.
+Krk_04_tlk_KatoKrk_Mi1=Miechow 63103, contrôle radio.
+Krk_04_tlk_KatoKrk_Mi3=Merci à toi.
+Krk_04_tlk_KatoKrk_Roger=Bien reçu.
+Krk_05_tlk_StaKrk_Hello=Bienvenue au scénario TLK Starzyny-Kraków. Préparez le train pour le départ et mettez le cap sur le poste d'embranchement de Starzyny.
+Krk_05_tlk_StaKrk_St0=73100 pour Starzyny.
+Krk_05_tlk_StaKrk_St1=Je t'écoute du 73100.
+Krk_05_tlk_StaKrk_St2=Prenez la voie de gauche vers Kozłów, le Pendolino vous dépassera sur la voie de droite.
+Krk_05_tlk_StaKrk_St3=Voie de gauche vers Kozłów, entendu.
+Krk_05_tlk_StaKrk_Koz1=Kozlow 73100, contrôle radio.
+Krk_05_tlk_StaKrk_Koz2=Kozłów rapport 73100, son clair, très bon.
+Krk_05_tlk_StaKrk_Koz3=Merci, à vous aussi.
+Krk_05_tlk_StaKrk_Mi1=Miechow 73101, contrôle radio.
+Krk_05_tlk_StaKrk_Mi2=Rapport de Miechów, son clair.
+Krk_05_tlk_StaKrk_Mi3=Compris, merci. Bien reçu de Miechów aussi.
+Krk_05_tlk_StaKrk_Ready=73101, départ.
+Krk_06_ic_KrkSedz_Hello=Bienvenue au scénario IC Kraków-Sędziszów. Préparez le train pour le départ et mettez le cap sur Kraków Główny.
+Krk_06_ic_KrkSedz_Zs0=3120, rapport à Zastów.
+Krk_06_ic_KrkSedz_Zs1=Prêt à recevoir.
+Krk_06_ic_KrkSedz_Zs2=Prenez la voie de gauche jusqu'à Niedźwiedź.
+Krk_06_ic_KrkSedz_Zs3=La voie de gauche vers Niedźwiedź, bien sûr.
+Krk_06_ic_KrkSedz_Tl2=Tunel rapporte pour le 3120, la connectivité radio est bonne.
+Krk_06_ic_KrkSedz_Tl3=Merci.
+Krk_06_ic_KrkSedz_Ready=3120, départ.
+Krk_06_ic_KrkSedz_Tl1=Tunel 3120, vérification de la radio après le changement de canal.
+Krk_07_eip_KrkWaw_Hello=Bienvenue dans le scénario EIP Kraków-Warszawa Wschodnia. Préparez le train pour le départ et signalez au dispatcheur que le train est prêt pour la manœuvre.
+Krk_07_eip_KrkWaw_KG1=KGA à 3510.
+Krk_07_eip_KrkWaw_KG2=KGA, je vous écoute.
+Krk_07_eip_KrkWaw_KG3=3510, je me tiens près du Tm244 dans le garage sud. ED250-018, conducteur Pawlak.
+Krk_07_eip_KrkWaw_KG4=Je suis Kargul, compris. Écoutez - j'ouvre le signal tm315 pour l'instant - laissez passer l'express.
+Krk_07_eip_KrkWaw_KG5=3510, itinéraire vers les quais sur la voie 12 tracé.
+Krk_07_eip_KrkWaw_KG6=Bien reçu, j'arrive.
+Krk_07_eip_KrkWaw_KG7=3510 à KGB, comment ça se passe ?
+Krk_07_eip_KrkWaw_KG8=Cabine changée, train prêt à partir.
+Krk_07_eip_KrkWaw_KG9=Compris, préparation du départ.
+Krk_07_eip_KrkWaw_KG10=Merci.
+Krk_07_eip_KrkWaw_Tl1=Tunnel du 3510, vérification radio.
+Krk_07_eip_KrkWaw_Tl2=Rapport Tunel pour 3510, connectivité radio bonne.
+Krk_07_eip_KrkWaw_Sp1=Sprowa 3511, vérification après le changement de canal.
+Krk_07_eip_KrkWaw_Sp2=3511, je vous entends très bien.
+Krk_07_eip_KrkWaw_Ps1=Psary, 3510 comment est le son après le changement de canal ?
+Krk_07_eip_KrkWaw_Ps2=3510 - Je vous entends bien, et vous avez l'autorisation d'accès au réseau.
+Krk_07_eip_KrkWaw_BR0=3510, rapport à Biała Rawska.
+Krk_07_eip_KrkWaw_BR1=3510 en réception.
+Krk_07_eip_KrkWaw_BR2=Allez à Szeligi sur la voie de gauche.
+Krk_07_eip_KrkWaw_BR3=Voie de gauche vers Szeligi, compris, merci.
+Krk_07_eip_KrkWaw_Gr1=Grodzisk Bonjour, le 3510 vérifie la connectivité.
+Krk_07_eip_KrkWaw_Gr2=Grodzisk 3510 rapport, la connectivité est excellente.
+Krk_07_eip_KrkWaw_Ready=3510, prêt au départ.
+Krk_07_eip_KrkWaw_Roger=Compris.
+Krk_08_eip_WawKrk_Hello=Bienvenue au scénario EIP Warszawa Wschodnia-Kraków. Préparez le train pour le départ et présentez-vous au dispatcheur pour les manœuvres.
+Krk_08_eip_WawKrk_Ready=1310, prêt à partir.
+Krk_08_eip_WawKrk_Roger=Bien reçu.
+Krk_08_eip_WawKrk_Wwa1=Wschodnia, j'appelle de la voie 18.
+Krk_08_eip_WawKrk_Wwa2=Réception de Wschodnia.
+Krk_08_eip_WawKrk_Wwa3=Nous sommes prêt pour la manœuvre.
+Krk_08_eip_WawKrk_Wwa4=Bien reçu. Il faut aller sur la voie 10 et revenir sur la voie 70 pour aller vers le second élément.
+Krk_08_eip_WawKrk_Wwa5=Wschodnia, près du sémaphore K10, prêt.
+Krk_08_eip_WawKrk_Wwa6=Ouverture du signal sur la voie 70 - elle est occupée. Attention à ne pas pousser la deuxième unité hors de la voie. Rapport après l'attelage.
+Krk_08_eip_WawKrk_Wwa7=Wschodnia, deux unités ED250 couplées sur la voie 70, prêtes à entrer en gare sur le 1310.
+Krk_08_eip_WawKrk_Wwa8=Compris, j'ouvre le signal.
+Krk_08_eip_WawKrk_WC1=Varsovie Central du 1310.
+Krk_08_eip_WawKrk_WC2=Central j'écoute.
+Krk_08_eip_WawKrk_Kr1=Korytów, 1310 Comment est le son après le changement de canal ?
+Krk_08_eip_WawKrk_Kr2=1310 - Je vous entends bien.
+Krk_08_eip_WawKrk_St0=1310 rapport à Strzałki
+Krk_08_eip_WawKrk_St2=Il y a une panne de sémaphore, l'entrée sera possible après réception d'un ordre écrit S. Veuillez vous présenter lorsque vous êtes prêt.
+Krk_08_eip_WawKrk_St3=Compris.
+Krk_08_eip_WawKrk_St4=Strzałki, vous pouvez transmettre l'ordre écrit.
+Krk_08_eip_WawKrk_St6=Répétition de l'ordre : Ordre écrit S mon numéro 3, le vôtre 7 pour le train 1310, avec la date du jour. Deuxième section : permission de passer entrée sémaphore B - comme Bartłomiej - donnant le signal « Stop ». Gare de Strzałki, poste St, 8h15, répartiteur Kowalski. Conducteur du train Wróbel.
+Krk_08_eip_WawKrk_Str1=Starzyny, contrôle radio 1310.
+Krk_08_eip_WawKrk_Str2=1310, je vous entends haut et fort.
+Krk_08_eip_WawKrk_Koz1=Kozłów, 1310 vérification de la connectivité.
+Krk_08_eip_WawKrk_Koz2=Bonjour 1310, je vous entends bien.
+Krk_08_eip_WawKrk_Mi1=Miechów, contrôle radio 1310.
+Krk_08_eip_WawKrk_Mi2=1310, vérification réussie.
+Krk_08_eip_WawKrk_WC3=Je me suis arrêté avant le double rouge S1a, qu'est-ce qui se passe ?
+Krk_09_tow_Krk_Hello=Bienvenue dans le scénario du train de marchandises de Kraków. Votre tâche consistera à transporter des wagons de train contenant du carburant de la gare de Kraków Główny Towarowy à Sędziszów. Mettez le cap sur Cracovie et faites votre rapport au répartiteur.
+Krk_09_tow_Krk_KGB1=KGB, 336020 au rapport avant l'entrée.
+Krk_09_tow_Krk_KGB2=336020, je prépare un itinéraire vers le sémaphore L. Veuillez vous présenter à KGA quand vous y serez.
+Krk_09_tow_Krk_KGB3=Bien reçu, je passe au sémaphore L, merci.
+Krk_09_tow_Krk_KGA1=KGA, 336020 en attente au sémaphore L pour la manœuvre.
+Krk_09_tow_Krk_KGA2=336020, bonjour. Je vais bientôt mettre le signal sur la voie 110, prise. L'agent de formation vous attend.
+Krk_09_tow_Krk_KGA3=110 pris, merci !
+Krk_09_tow_Krk_KGA_Rev=Agent formation pour le 324040.
+Krk_09_tow_Krk_KGA4=KGA, 324040 prêt à partir, 3 200 tonnes au crochet. Conducteur du train Balcerek.
+Krk_09_tow_Krk_KGA5=324040, départ pour Przedmieście, nous ferons un petit arrêt pour attendre l'express et nous continuerons comme prévu.
+Krk_09_tow_Krk_KPm1=324040, à destination de Batowice sur la voie de gauche. Nous devons laisser passer l'express sur la voie principale.
+Krk_09_tow_Krk_KPm2=Bien reçu. Vers Batowice sur la voie de gauche.
+Krk_09_tow_Krk_Bt1=324040 veuillez vous garer sur le côté à Batowice. Le régional passera et nous pourrons continuer normalement.
+Krk_09_tow_Krk_Sm0=324040 arrêt à Słomniki, le train de passagers doit passer.
+Krk_09_tow_Krk_Tl2=Tunel au 324040, je vous entends bien.
+Krk_09_tow_Krk_Sd0=324040, vous pouvez vous arrêter à Sędziszów. Découplez et laissez la locomotive sur la voie 53.
+Krk_09_tow_Krk_Roger=Compris.
+324040_CheckBrakes1=324040, agent de formation, prêt pour la vérification des freins.
+324040_CheckBrakes2=324040, desserrer complètement les freins du train.
+324040_CheckBrakes3=324040, serrez.
+324040_CheckBrakes4=324040, relâchez.
+324040_CheckBrakes5=324040, essais de freins terminés, train prêt au départ.
+Rozpinamy=Découplage
+Krk_03_ir_KrkOlk_KG4=34520, reçu, je t'ouvre le signal de manœuvre sur la voie 2.
+Scenario_10_Carg_GrPr_Pr10=13 occupé, reçu.
+Scenario_10_Carg_GrPr_Gr1=192349 j'écoute.
+Scenario_10_Carg_GrPr_CheckBrakes3=192349, serrer.
+Scenario_10_Carg_GrPr_CheckBrakes4=192349, desserrer les freins.
+Scenario_10_Carg_GrPr_Pr11=Pruszków, 192349 prêt au départ.
+Scenario_10_Carg_GrPr_Pr1=912210 à l'écoute.
+Scenario_10_Carg_GrPr_Pr3=Reçu
+Scenario_10_Carg_GrPr_CheckBrakes2=Desserrer les freins.
+Scenario_10_Carg_GrPr_Gr0=192349 pour Grodzisk.
+Scenario_10_Carg_GrPr_Gr3=Reçu.
+Scenario_10_Carg_GrPr_Pr8=Le 52, affirmatif.
+Scenario_10_Carg_GrPr_Pr0=912210 pour Pruszków.
+Scenario_10_Carg_GrPr_Pr2=Laissez les wagons sur la voie 7 - veillez à ce que l'arrière ne dépasse pas le sémaphore. Ensuite, veuillez annoncer que vous êtes prêt à effectuer des manœuvres. Les wagons attendent sur la voie 13.
+Scenario_10_Carg_GrPr_Pr5=Compris, nous passons à la voie 1b, derrière le signal de manœuvre 27.
+Scenario_10_Carg_GrPr_Pr6=Derrière le signal de manœuvre 27, compris.
+Scenario_10_Carg_GrPr_Pr9=Loc, c'est bon. Changement de direction - nous allons sur la piste 13 - occupée. Veuillez vous atteler, vérifier les freins et signaler que vous êtes prêts.
+Scenario_10_Carg_GrPr_CheckBrakes0=Agent formation au 192349, train prêt pour les essais de freins.
+Scenario_10_Carg_GrPr_CheckBrakes5=192349, freins ok, train prêt à partir.
+Scenario_10_Carg_GrPr_Gr2=Il y aura un arrêt temporaire sur la voie 11 pour laisser passer des express.
+Scenario_10_Carg_GrPr_Hello=Bienvenue dans le scénario de transport intermodal de marchandises. Aujourd'hui, vous livrerez des wagons vides à Pruszkow, puis vous prendrez des wagons pleins au retour. Préparez le train et dirigez-vous vers Grodzisk Mazowiecki.
+Scenario_10_Carg_GrPr_Pr4=Pruszków, loc du 912210 prête pour les manœuvres.
+Scenario_10_Carg_GrPr_Pr7=Loc, vous pouvez changer le sens de marche. Passez par la voie 11 pour atteindre le signal de manœuvre 52.
+Scenario_10_Carg_GrPr_CheckBrakes1=192349, Agent formation reçu.
+Scenario_10_Carg_GrPr_Pr12=Pruszków reçu, je vous donne le signal dans une seconde.
+Scenario_10_Carg_GrPr_Decouple=Decouple locomotive from wagons.

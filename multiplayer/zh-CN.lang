@@ -1,0 +1,6 @@
+train_derailed={0}次因脱轨将被删车。
+train_missrouted_remove={0}次因运行方向错误删车。
+map_border_reached=您已达到可游玩区域边界，接下来车辆将由AI接管。
+train_missrouted=从信号机{0}开通的进路会导致{1}次运行方向错误。 进路已取消！
+trains_head-on_remove=由于{1}次之间产生敌对进路，{0}次将被删车。
+force_enabled_bot=管理员已强制启动AI驾驶。

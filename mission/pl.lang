@@ -1,0 +1,729 @@
+drive_to_platform=Zaczekaj na pojawienie się białego światła na semaforze, które pozwoli Ci na jazdę manewrową do peronu.
+startup_message=Witamy w wersji demonstracyjnej SimRail. Znajdujesz się na stacji Dąbrowa Górnicza Ząbkowice.
+departure=40665, gotów do odjazdu.
+mission_finished=Misja ukończona. Gratulacje!
+substitute_signal=Dąbrowa Górnicza, 40665, proszę o wjazd.
+obey_train=Prowadź pociąg zgodnie z rozkładem jazdy
+veh_reset_vigilance_system=Użyj przycisku do skasowania systemu bezpieczeństwa CA/SHP (lub {button=Train Driver|Alerter}). Systemy te będą regularnie sprawdzać Twoją czujność podczas jazdy.
+veh_enable_battery=Świetnie, teraz załącz baterię, a następnie zamknij pokrywę.
+veh_turn_on_radio=Teraz załącz radiotelefon. Posłuży Ci on do komunikacji z dyżurnym ruchu podczas całego przejazdu.
+veh_activate_cab=Aktywuj kabinę, obracając przełącznik w prawo na I pozycję.
+veh_raise_pantograph=Nasz pojazd zasilany jest energią elektryczną z sieci trakcyjnej. Podnieś pantograf.
+veh_turn_on_breaker=Zamknij wyłącznik szybki
+veh_wait_for_breaker=Zaczekaj na zamknięcie wyłącznika szybkiego, uruchomienie przetwornicy oraz sprężarki zasilającej m.in. układ hamulcowy pociągu.
+veh_set_dir_forward=Teraz ustaw kierunek jazdy do przodu.
+veh_set_brake_drive=Przesuń kran hamulca w pozycję jazdy.
+veh_hold_pipe_unlock=Przytrzymaj przycisk odblokowania przewodu głównego.
+veh_close_doors=Zabierz zgodę na otwarcie drzwi, przekręcajac przełącznik na właściwą pozycję.
+veh_release_spring=Na końcu musimy zwolnić hamulec sprężynowy (postojowy).
+veh_push_main_to_drive=Przestaw nastawnik do przodu (klawisz {button=Train Driver|Increase Throttle}), aby zadać moc i ruszyć. Operuj nastawnikiem tak, aby nie przekroczyć prędkości manewrowej <kmph>25</kmph>.
+veh_use_zew=Użyj przycisku wywoływania na radiotelefonie, aby zgłosić gotowość dyżurnemu ruchu.
+veh_set_main_handle_to_brake=Przestaw nastawnik do tyłu, aby zadać siłę hamowania (klawisz {button=Train Driver|Decrease Throttle}).
+veh_engage_spring=Załącz hamulec sprężynowy.
+veh_allow_doors=Zezwól na otwarcie drzwi przez pasażerów, obracając przełącznik we właściwą stronę.
+veh_wait_for_pantograph=Zaczekaj na podniesienie pantografu.
+veh_raise_flap=Musimy rozpocząć od przygotowania składu do drogi. Podejdź do niego i unieś pokrywę panelu przy drzwiach wejściowych.
+veh_lower_flap=Zamknij pokrywę.
+veh_set_lights=Przełącz reflektory w pozycję jazda właściwa.
+veh_dim_lights=W ciągu dnia, możesz je przyciemnić, aby nie oślepiać innych pociągów.
+use_zew_dabrowa=Użyj przycisku wywoływania na radiotelefonie, aby wywołać dyżurnego ruchu.
+finish_tutorial=Zaczekaj do godziny odjazdu, po sygnale gotowości od kierownika pociągu, zamknij drzwi i prowadź pociąg zgodnie z rozkładem jazdy.
+mozna_wjez=40665, można wjeżdżać w perony.
+dabrowa_zast=40665, wjazd do Dąbrowy Górniczej odbędzie się na sygnał zastępczy na tor nr 1.
+veh_enter_cab=Pora na wejście do kabiny, użyj do tego klawisza {button=In-Game Global Actions|Cabin camera}.
+finish_tutorial2=Przybliżone wskazania semaforów oraz ograniczenia prędkości znajdziesz w prawym górnym rogu.
+finish_tutorial3=Prędkościomierz wskaże Ci z kolei aktualną dozwoloną prędkość, moc zadaną, czy siłę hamowania.
+finish_tutorial4=Twój pociąg zatrzymuje się na każdej stacji i przystanku. Bacznie obserwuj wskaźniki i semafory oraz zwracaj uwagę na komunikaty od dyżurnych ruchu.
+wjazd_bedzin=40665, wjazd w Będzinie podany na tor nr 2.
+zastepczy_dabrowa_fin=Sygnał zastępczy pozwala na wjazd w awaryjnych sytuacjach z prędkością do <kmph>40</kmph>.
+ready_platform=Ząbkowice, 40665 gotowy w perony.
+drive_train_relation=Dziś poprowadzisz pociąg osobowy 40665 na odcinku Dąbrowa Górnicza Ząbkowice - Będzin. Do jego obsługi wykorzystasz elektryczny zespół trakcyjny 22WE.
+bedzin_prosze_wjazd=Będzin, 40665, proszę o wjazd.
+veh_push_main_to_drive_normal=Przestaw nastawnik do przodu, aby zadać moc i ruszyć.
+can_speed_up=Po wyjeździe ze stacji możesz przyśpieszyć do prędkości rozkładowej.
+approaching_stop_caution=Zbliżasz się do przystanku. Pamiętaj że pociąg potrzebuje dużej odległości, aby się zatrzymać. Po zatrzymaniu się, daj zgodę na otwarcie drzwi.
+approaching_stop_next=Zbliżasz się do kolejnego przystanku.
+next_signal_stop_caution=Widoczny semafor wskazuje, że kolejny semafor wyświetla sygnał stój. Jedź ostrożnie.
+tutorial_end=To już koniec samouczka. Kontynuuj prowadzenie pociągu do Będzina. Powodzenia!
+veh_push_main_to_neutral=Nastawnik znajduje się w pozycji hamowania. Popchnij go do przodu.
+use_zew_bedzin=Użyj przycisku wywoływania na radiotelefonie, aby wywołać dyżurnego ruchu.
+_M3_veh_enable_battery=Uruchom baterię oraz aktywuj stanowisko maszynisty przełącznikiem na tylnej ścianie kabiny.
+_M3_veh_activate_cab=Aktywuj kabinę, obracając przełącznik w prawo.
+_M3_veh_release_spring=Na końcu musimy zwolnić hamulec sprężynowy (postojowy). Te przyciski znajdziesz na tylnej ścianie kabiny.
+_M3_veh_push_main_to_drive=Przestaw nastawnik do przodu, aby zadać moc i ruszyć.
+_M3_veh_enter_cab=Aby wejść do lokomotywy, podejdź do niej i kliknij na drzwi, lub wciśnij klawisz {button=In-Game Global Actions|Cabin camera}.
+start_1=Witamy w prologu gry SimRail - The Railway Simulator. Znajdujesz się w sercu Górnego Śląska, najbardziej uprzemysłowionej części kraju. Wydobywany w tym rejonie węgiel przez dziesiątki lat zasilał wiele elektrowni, a stal produkowana w miejscowych hutach posłużyła jako budulec wielu obiektów.
+start_2=Przed sobą widzisz lokomotywę Traxx z pociągiem towarowym z węglem dla jednej z elektrowni na wschodzie Polski. Poprowadzisz go na odcinku z Kopalni Węgla Kamiennego „Staszic” w Katowicach do stacji Sosnowiec Dańdówka. Wypełniaj rzetelnie swoje zadanie i podziwiaj industrialne widoki.
+radio_brake_test_done=414018 hamulce w porządku, dziękuję.
+radio_brake_test_engage=414018, zahamować.
+radio_brake_test_release=414018, odhamować.
+radio_departure_2=414018 słychać dobrze, poproszę o analizę.
+radio_departure_4=Moje nazwisko Kowalski, nr gotowości 27, podaję semafor.
+radio_departure_1=Staszic Kopalnia dla pociągu 414018 w celu sprawdzenia radiołączności.
+radio_departure_3=25 wagonów, 2000 ton, 370 metrów, lokomotywa E186-134, maszynista Orzechowski, pociąg gotowy do odjazdu.
+radio_staszic_1=Staszic odgałęźny do 414018, dzień dobry, będzie wjazd?
+radio_staszic_2=Dzień dobry, wjazd odbędzie się na sygnał zastępczy z powodu usterki rozjazdu i pojedziemy po torze lewym do KMB.
+radio_staszic_3=Dziękuje, można podawać sygnał zastępczy i do KMB po torze lewym.
+radio_kmb_1=414018 proszę się zgłosić do KMB.
+radio_kmb_2=414018 zgłaszam się.
+radio_kmb_3=Do Stawisk pojedziemy po torze lewym.
+radio_kmb_4=Przyjąłem, do Stawisk po torze lewym.
+radio_dandowka_1=414018 dla Sosnowca Dańdówki.
+radio_dandowka_2=414018 zgłaszam się.
+radio_dandowka_3=W Dańdówce wjazd na tor szósty i czekamy do wydania pełnej wersji gry.\nNie zapomnij dodać SimRail do swojej listy życzeń na Steam.
+veh_set_brake_release=Przestaw dźwignię hamulca w pozycję jazdy.
+veh_set_brake_engage=Przestaw dźwignię hamulca w pozycję hamowania.
+veh_release_local_brake=Przytrzymaj kran hamulca pomocnicznego w pozycji luzowania.
+veh_set_lights_normal=Za chwilę będziemy zjeżdżać z toru lewego na tor prawy. Przestaw programator reflektorów na pozycję 0. (oznaczenie czoła pociągu UIC)
+veh_set_lights_reverse=Przestaw programator reflektorów na pozycję piątą, sygnał Pc2. Takie ustawienie reflektorów stosujemy podczas każdej jazdy po torze lewym.
+brake_test_start=Teraz odbędzie się próba hamulca pociągu. Rewident sprawdzi, czy wszystkie wagony mają sprawny hamulec. Wykonuj jego polecenia przekazywane radiotelefonem.
+use_zew=Użyj przycisku wywoływania na radiotelefonie, aby wywołać dyżurnego ruchu.
+veh_sit=Aby usiąść na fotelu maszynisty, naciśnij na niego.
+veh_leave=Naciśnij na swój fotel lub użyj klawisza {button=In-Game Global Actions|Stand up / sit down}, aby z niego wstać.
+_M1_veh_enter_cab=Pora na wejście do kabiny, użyj do tego klawisza {button=In-Game Global Actions|Cabin camera}, lub naciśnij na drzwi aby wejść do przedziału pasażerskiego.
+veh_wait_brake_release=Wyluzowanie składu towarowego może zająć dłuższy czas. Aby to przyśpieszyć, możesz przytrzymać kran w pozycji napełniania zwiększonym przekrojem.
+_M4_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Katowic do Warszawy Wschodniej. Na początku, sprawdź łączność z dyżurnym ruchu.
+Check_train_radio={L} do {T}, próba łączności.
+Rec_loudnclear={L} na odbiorze, słychać dobrze.
+Ready_2_go={L}, {T} jest gotowy do drogi.
+Thanku_semaph=Dziękuję, podaję semafor.
+Ready_dep={T} gotów do odjazdu.
+Req_entr={T} do {L}, będzie wjazd.
+Req_exit={T} do {L}, będzie wyjazd.
+Entrance_on_subst_on_line_no2=Wjazd odbędzie się sygnał zastępczy na tor 2 z powodu usterki.
+Copy=Zrozumiałem.
+Report_2_station2=Pociąg {T} zgłoś się do stacji {L}.
+Reporting=Zgłaszam się.
+Further_ride_on_L_no1={T} dalsza jazda odbędzie się po torze lewym numer 1.
+Go2_L_track=Do {L} po torze lewym.
+Entrance_given=Wjazd dla pociągu {T} podany.
+Rec_hearu_well=Na odbiorze, słychać dobrze {T}.
+_M5_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Warszawy Wschodniej do Katowic. Na początku, sprawdź łączność z dyżurnym ruchu.
+Further_ride_on_L_no2={T} dalsza jazda odbędzie się po torze lewym numer 2.
+_M6_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Sędziszowa do Katowic. Na początku, sprawdź łączność z dyżurnym ruchu.
+Exit_on_subst_on_line_no1=Wyjazd odbędzie się sygnał zastępczy na tor 1 z powodu usterki.
+_M7_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Katowic do Sędziszowa. Na początku, sprawdź łączność z dyżurnym ruchu.
+_M8_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Warszawy Wschodniej do Katowic. Na początku, sprawdź łączność z dyżurnym ruchu.
+Entrance_on_subst_on_line_no1=Wjazd odbędzie się sygnał zastępczy na tor 1 z powodu usterki.
+Exit_on_subst_on_line_no2=Wyjazd odbędzie się sygnał zastępczy na tor 2 z powodu usterki.
+_M13_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Katowic do Zawiercia. Na początku, sprawdź łączność z dyżurnym ruchu.
+_M12_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg osobowy z Zawiercia do Katowic. Na początku, sprawdź łączność z dyżurnym ruchu.
+veh_eu_10=Ustaw nastawnik bocznikowania na pozycję zerową.
+veh_eu_13=Aktywny jest przekaźnik nadmiarowy sprężarki. Mogło to zostać spowodowane zbyt wczesnym jej uruchomieniem.
+veh_eu_15=Użyj przycisku odblokowania przekaźnika nadmiarowego silników trakcyjnych.
+veh_eu_16=Użyj przycisku odblokowania przekaźnika nadmiarowego sprężarki.
+veh_eu_21=Włącz sprężarkę.
+veh_eu_33=Przytrzymaj przycisk odluźniacza w celu napełnienia przewodu głównego.
+veh_eu_38=Aby zahamować, najpierw ustaw nastawnik bocznikowania i jazdy na pozycję zerową.
+veh_eu_39=Uważaj aby nie przekroczyć maksymalnego natężenia prądu 600 A.
+_M12_veh_enter_cab=Aby wejść do lokomotywy, podejdź do niej i kliknij na drzwi, lub wciśnij klawisz {button=In-Game Global Actions|Cabin camera}.
+veh_eu_1=Przejdź do kabiny A.
+veh_eu_2=Przejdź do kabiny B.
+veh_eu_3=Aktywny jest hamulec postojowy. Zwolnij go używając korby na tylnej ścianie kabiny.
+veh_eu_4=Otwórz szafkę po lewej stronie pulpitu i przesuń w górę hebelek włącznika baterii.
+veh_eu_5=Przekręć klucz rozrządu w prawo aby aktywować kabinę.
+veh_eu_6=Przed zbiciem testu systemów bezpieczeństwa, przesuń nawrotnik w przód lub w tył.
+veh_eu_7=System bezpieczeństwa wdrożył hamowanie nagłe.
+veh_eu_8=Zbij czuwak.
+veh_eu_9=Ustaw nastawnik jazdy na pozycję zerową.
+veh_eu_11=Aktywny jest przekaźnik różnicowy.
+veh_eu_12=Aktywny jest przekaźnik nadmiarowy silników trakcyjnych. Przekroczony został maksymalny prąd rozruchu.
+veh_eu_14=Użyj przycisku odblokowania przekaźnika różnicowego.
+veh_eu_17=Podnieś pantograf.
+veh_eu_18=Poczekaj na pojawienie się napięcia.
+veh_eu_19=Włącz wyłącznik szybki.
+veh_eu_20=Włącz przetwornicę.
+veh_eu_22=Wyłącz przetwornicę.
+veh_eu_23=Wyłącz sprężarkę.
+veh_eu_24=Poczekaj na ustabilizowanie się prądu ładowania.
+veh_eu_25=Poczekaj na napełnienie się zbiornika głównego.
+veh_eu_26=Zwolnij hamulec pomocniczy, pchając rączkę kranu do przodu.
+veh_eu_27=Włącz radiotelefon i ustaw żądany kanał.
+veh_eu_28=Przestaw kran hamulca zespolonego w pozycję jazdy lub napełniania.
+veh_eu_29=Przestaw kran hamulca zespolonego w pozycję jazdy.
+veh_eu_30=Przestaw kran hamulca zespolonego w pozycję hamowania.
+veh_eu_31=Kran hamulca zespolonego znajduje się w pozycji odcięcia.
+veh_eu_32=Kran hamulca zespolonego znajduje się w pozycji hamowania.
+veh_eu_34=Pociągnij rączkę kranu hamulca zespolonego do siebie, aby zadać siłę hamowania.
+veh_eu_35=Dłuższe pozostawienie kranu hamulca w pozycji napełniania może doprowadzić do przeładowania przewodu głównego.
+veh_eu_36=Przesuń nawrotnik w przód.
+veh_eu_37=Aby zamknąć styczniki liniowe, ustaw nastawnik jazdy na pierwszą pozycję.
+veh_eu_40=Kolejno zwiększaj pozycję nastawnika jazdy.
+veh_eu_41=Nastawnik znajduje się na pozycji bezoporowej, jest to odpowiednia pozycja do długotrwałej jazdy. Możesz też użyć nastawnika bocznikowania w celu zwiększenia mocy.
+veh_eu_42=Unikaj dłuższej jazdy na pozycjach oporowych.
+veh_eu_43=Niemożliwe jest użycie bocznikowania na pozycjach oporowych.
+veh_battery_cabin=Włącz baterie i aktywuj kabinę, przekręcając pokrętło w prawo.
+veh_control_circuits=Włącz obwody sterowania.
+veh_battery=Załącz baterię.
+_M11_Start_pass_veh_from_to=Dzisiaj poprowadzisz pociąg towarowy z Sędziszowa do Katowice Muchowiec Staszic. Na początku, sprawdź łączność z dyżurnym ruchu.
+veh_set_lights_shunt=Ustaw światła w tryb jazdy manewrowej. Pojedyncze białe światło po prawej stronie. (Tb1)
+veh_brake_knorr_maintaining=Aby zahamować, przesuń rękojeść zaworu maszynisty w pozycję hamowania. Aby wyluzować hamulce, przesuń rękojeść zaworu maszynisty w pozycję jazdy.
+veh_steam_reverser_decrease_too_much_steam=Zmniejsz zużycie pary, skręcając nastawnicę lub przepustnicę.
+veh_steam_reverser_tutorial_1=Nastawnica służy do zadawania kierunku jazdy (do przodu albo w tył) i jednocześnie odpowiada za regulowanie napełnienia cylindrów parą. Im wyższe napełnienie, tym większa siła pociągowa i zużycie pary, a gorsza ekonomia jazdy.
+veh_steam_reverser_tutorial_2=Napełnienie podaje się w procentach długości skoku tłoka, np. dla nastawy 60% przez 60% cylinder jest zasilany parą, a przez 40% para rozpręża się i następuje wykorzystanie jej energii wewnętrznej. Dla typowych parowozów nie powinno się używać napełnienia poniżej 20%.
+veh_steam_reverser_full_front_tutorial=Przestaw nastawnicę w położenie pełnego napełniania do przodu. Przed każdym ruszeniem należy tak ją ustawiać, żeby zapewnić maksymalną siłę pociągową parowozu, niezależnie od pozycji tłoków i korbowodów, które mogą znajdować się w martwym położeniu.
+veh_steam_reverser_full_front=Aby ruszyć do przodu, przestaw nastawnicę w położenie pełnego napełniania do przodu.
+veh_brake_knorr_release=Aby wyluzować hamulce, przesuń rękojeść zaworu maszynisty w pozycję jazdy.
+veh_brake_knorr_brake=Aby zahamować, przesuń rękojeść zaworu maszynisty w pozycję hamowania.
+veh_steam_reverser_full_back=Aby ruszyć do tyłu, przestaw nastawnicę w położenie pełnego napełniania do tyłu.
+veh_brake_knorr_braking=Siła hamowania zwiększa się. Cofnij rękojeść zaworu maszynisty w pozycję utrzymania, aby utrzymać siłę hamowania.
+veh_steam_reverser_to_zero=Zmniejsz napełnienie do zera.
+veh_steam_reverser_decrease=Zmniejsz napełnienie, cofając nastawnicę.
+veh_steam_reverser_decrease_ty2_operating_range=Zmniejsz napełnienie poniżej 50%, aby przejść do zakresu normalnej pracy.
+veh_steam_reverser_ty2_operating_range=Utrzymuj napełnienie w zakresie od 20% do 50%. Jeśli siła pociągowa będzie wciąż za duża, przymknij lub zamknij całkowicie przepustnicę.
+veh_steam_reverser_increase=Zwiększ napełnienie, odkręcając nastawnicę.
+veh_steam_regulator_increase=Otwórz nieco przepustnicę.
+veh_steam_regulator_decrease=Przymknij nieco przepustnicę.
+veh_steam_regulator_decrease_vmax=Za chwilę osiągniesz dozwoloną prędkość, przygotuj się do przymknięcia przepustnicy.
+veh_steam_regulator_starting_ty2_1=Otwórz nieco przepustnicę i poczekaj na wzrost ciśnienia w komorze suwakowej.
+veh_steam_regulator_tutorial_1=Przepustnica służy do regulacji ciśnienia w komorze suwakowej poprzez ograniczenie przepływu pary (dławienie). Im bardziej otwarta przepustnica, tym szerszy i mniej zaburzony przepływ pary. Podczas jazdy powinna być ona otwarta jak najszerzej, aby nie tracić energii pary pod dużym ciśnieniem.
+veh_steam_regulator_tutorial_2=Przepustnica pozwala na powolne wpuszczanie pary przy ruszaniu, gdy pełne ciśnienie pary spowodowałoby poślizg kół przy dużym napełnieniu. Dodatkowo można jej użyć, gdy potrzebne jest zmniejszenie siły parowozu przy minimalnym napełnieniu.
+veh_steam_regulator_full_open=Możesz w pełni otworzyć przepustnicę.
+veh_steam_regulator_starting_ty2_3=W przypadku poślizgu, cofaj nastawnicę i przymykaj przepustnicę.
+veh_steam_regulator_full_close=Zamknij całkowicie przepustnicę.
+veh_steam_regulator_full_close_vmax=Przekraczasz dozwoloną prędkość. Zamknij całkowicie przepustnicę.
+veh_steam_regulator_starting_ty2_2=Operuj przepustnicą tak, aby ciśnienie w komorze suwakowej nie przekraczało 12 atmosfer. Zbyt duże ciśnienie powoduje poślizg kół przy ruszaniu.
+veh_steam_waterlevel_low=Poziom wody w kotle zbytnio spada. Zmniejsz zużycie pary, skręcając nastawnicę lub przepustnicę.
+veh_steam_boiler_pressure_low=Ciśnienie w kotle zbytnio spada. Zmniejsz zużycie pary, skręcając nastawnicę lub przepustnicę.
+veh_steam_boiler_flaps_close=Zamknij klapy popielnika, aby stłumić ogień.
+veh_steam_fireman_operating_range=Kocioł nie wymaga teraz interwencji, mimo to zwracaj regularnie uwagę na przyrządy i stan ognia w czasie jazdy.
+veh_steam_fireman_on=W czasie tej podróży palacz samodzielnie będzie troszczyć się o parametry pracy kotła, uzupełnianie wody i dorzucanie węgla do paleniska. Twoim zadaniem będzie skupienie się wyłącznie na prowadzeniu parowozu. Możesz mu przekazywać swoje wskazówki. Najedź myszką na manometr kotła, wodowskaz i drzwi paleniska, żeby zapoznać się z możliwymi wskazówkami.
+veh_steam_fireman_off=W czasie tej podróży dodatkowo musisz wykonywać samodzielnie obowiązki palacza, na które składają się: uzupełnianie wody w kotle, dorzucanie węgla do paleniska oraz operowanie dmuchawką i klapami popielnika.
+veh_steam_open_injector1=Otwórz zawór prawego inżektora.
+veh_steam_open_injector2=Otwórz zawór lewego inżektora.
+veh_steam_open_generator=Otwórz zawór turbogeneratora.
+veh_steam_bolier_injector_nathan=Parowóz jest wyposażony w inżektor zasilany parą świeżą, który zasila niezawodnie kocioł dużą ilością lekko podgrzanej wody.
+veh_steam_bolier_injector_metcalf=Parowóz jest wyposażony w inżektor zasilany parą odlotową, który zasila kocioł przeciętną ilością wody, która jest mocno podgrzana podczas pracy silników parowozu.
+veh_steam_open_compressor=Otwórz zawór sprężarki powietrza.
+veh_steam_bolier_injector_strube=Parowóz wyposażony jest w inżektor ssąco-tłoczący zasilany parą świeżą, który sam zasysa wodę z tendra i wymaga dwuetapowej obsługi.
+veh_steam_boiler_water_add=Zasil kocioł wodą przy pomocy jednego z inżektorów.
+veh_steam_boiler_water_stop=Wyłącz inżektor.
+veh_steam_boiler_water_maybe=Rozważ zasilenie kotła wodą.
+veh_steam_bolier_water_bot=Spójrz na wodowskaz. Możesz przekazać palaczowi swoje wskazówki dotyczące zasilania kotła wodą.
+veh_steam_grate_coal_add=Dorzuć węgiel do paleniska.
+veh_steam_grate_coal_stop=Przestań dorzucać węgiel.
+veh_steam_grate_coal_bot=Spójrz na palenisko. Możesz przekazać palaczowi swoje wskazówki co do opalania węglem.
+veh_steam_blower_on=Uruchom dmuchawkę, aby wzmocnić ogień.
+veh_steam_blower_off=Wyłącz dmuchawkę.
+veh_steam_blower_water=Uruchom dmuchawkę na czas zasilania kotła wodą.
+veh_steam_cocks_open=Otwórz kurki podcylindrowe, by pozbyć się wody z cylindrów.
+veh_steam_cocks_close=Zamknij kurki podcylindrowe, by oszczędzać parę i zwiększyć siłę pociągową.
+veh_steam_boiler_flaps_open=Otwórz klapy popielnika, aby wzmocnić ogień.
+veh_en57_battery=Załącz baterie w szafie elektrycznej.
+veh_en57_groundrelay1=Zadziałał przekaźnik różnicowy.
+veh_en57_activatecab=Załącz rozrząd w kabinie.
+veh_en57_buzzer=Przed zamknięciem drzwi podaj sygnał odjazdu.
+veh_en57_close_doors=Zamknij drzwi przełącznikiem.
+veh_en57_groundrelay2=Odblokuj przekaźnik różnicowy w szafie elektrycznej.
+veh_en57_handbrake=Wyluzuj hamulec ręczny przy pomocy rękojeści po lewej stronie kabiny.
+veh_en57_release_ep=Wyluzuj hamulec elektropneumatyczny, przesuwając i trzymając rękojeść zaworu maszynisty maksymalnie do przodu. Uwaga - po puszczeniu zawór samoczynnie wraca w pozycję jazdy ep!
+veh_en57_start_slow=Aby ruszyć, przestaw nastawnik w pozycję przetoku. Jest ona wystarczająca do wolnej jazdy z prędkością manewrową.
+veh_en57_start_full=Aby ruszyć, przestaw nastawnik w wybraną pozycję jazdy. Pojazd samoczynnie będzie przechodzić przez kolejne pozycje rozruchu oporowego i bocznikowania.
+veh_en57_coast=Przestaw nastawnik jazdy w pozycję 0 - spowoduje to wyłączenie napędu.
+veh_en57_brake_ep=Aby zahamować, przestaw rękojeść zaworu maszynisty na chwilę w pozycję hamowania ep. Im dłużej będziesz trzymać, tym większa siła hamowania. Zawór sam nie wraca w pozycję jazdy ep!
+veh_en57_open_doors=Otwórz drzwi przełącznikiem.
+veh_en57_lights_normal=Ustaw przełącznikami oświetlenie do jazdy pociągowej.
+veh_en57_lights_left=Ustaw przełącznikami oświetlenie do jazdy pociągowej po torze lewym.
+veh_en57_lights_shunt=Ustaw przełącznikami oświetlenie do jazdy manewrowej.
+veh_en57_release_pn=Przestaw rękojeść zaworu maszynisty w pozycję jazdy pneumatycznej.
+veh_go_to_scnd_cab=Przejdź do drugiej kabiny.
+veh_en57_radiosupply=Włącz zasilanie radiotelefonu przełącznikiem na pulpicie.
+veh_en57_release_ep2=Zmniejsz siłę hamowania ep.
+veh_en57_brake_ep2=Zwiększ siłę hamowania ep.
+startup_message_M12_tutorial_en57=Dziś poprowadzisz pociąg osobowy 40665 na odcinku Zawiercie - Dąbrowa Górnicza Ząbkowice. Do jego obsługi wykorzystasz elektryczny zespół trakcyjny EN57. Ten samouczek pokaże Ci, jak uruchomić i prowadzić ten pojazd.
+veh_en57_enter_vehicle=Pora na wejście do środka, użyj do tego klawisza {button=In-Game Global Actions|Cabin camera}, lub naciśnij na drzwi kierownika pociągu. Pamiętaj, żeby zamknąć je za sobą.
+drive_train_relation_34we=Dziś poprowadzisz pociąg osobowy 40665 na odcinku Dąbrowa Górnicza Ząbkowice - Będzin. Do jego obsługi wykorzystasz elektryczny zespół trakcyjny 34WE.
+veh_electrical_cabinet=Podejdź do szafy elektrycznej w członie silnikowym.
+veh_en57_enter_cab=Pora na wejście do kabiny, użyj do tego klawisza {button=In-Game Global Actions|Cabin camera}, lub naciśnij na drzwi.
+veh_set_dir_neutral=Ustaw kierunek jazdy na neutralny.
+Passenger_Train=Pasażerski
+veh_et22_cabinet_doors=Zapomniałeś zamknąć lewe drzwi szafy elektrycznej, które blokują wyjście z kabiny. W tym samouczku zamknęliśmy je za Ciebie, ale w grze musisz o tym pamiętać. Inaczej będziesz zmuszony wychodzić z pojazdu po drugiej stronie.
+veh_electrical_cabinet_et22=Podejdź do szafy niskiego napięcia w przedziale maszynowym A.
+veh_electrical_cabinet_et22_open=Otwórz drzwi szafy elektrycznej.
+veh_electrical_cabinet_et22_close=Zamknij drzwi szafy elektrycznej.
+veh_pneumatic_container_et22=Podejdź do ramy pneumatycznej w przedziale maszynowym A. Użyj do tego drzwi za fotelem maszynisty.
+veh_et22_closevalve1=Zamknij zawór zbiornika głównego.
+veh_et22_closevalve2=Zamknij zawór sprężarki pantografów.
+veh_wait_for_pant_press=Poczekaj na napełnienie się zbiornika pantografów.
+veh_fv4a_decrease_force=Popchnij rączkę kranu hamulca zespolonego do przodu, aby zmniejszyć siłę hamowania.
+veh_fv4a_increase_force_short=Zwiększ siłę hamowania.
+veh_fv4a_increase_force=Pociągnij rączkę kranu hamulca zespolonego do siebie, aby zadać siłę hamowania.
+startup_message_M12_tutorial_et22=Dziś poprowadzisz pociąg osobowy 40665 na odcinku Zawiercie - Dąbrowa Górnicza Ząbkowice. Do jego obsługi wykorzystasz lokomotywę ET22. Ten samouczek pokaże Ci, jak uruchomić i prowadzić ten pojazd.
+veh_local_brake=Zaciągnij hamulec pomocniczy, ciągnąc rękojeść do siebie.
+veh_fv4a_decrease_force_short=Zmniejsz siłę hamowania.
+veh_et22_groundrelay_aux=Zadziałał przekaźnik różnicowy obwodów pomocniczych.
+veh_radmor_splitter=Załącz rozdzielacz radiotelefonu. Znajduje się on na tylnej ścianie kabiny, po prawej stronie.
+veh_radmor_splitter_cab=Ustaw właściwą kabinę na rozdzielaczu radiotelefonu.
+veh_radmor_adapter=Załącz zasilacz radiotelefonu.
+veh_et22_openvalve1=Otwórz zawór zbiornika głównego.
+veh_et22_openvalve2=Otwórz zawór sprężarki pantografów.
+veh_et22_small_compressor=Włącz sprężarkę przyciskiem na prawej ścianie szafy elektrycznej.
+01_ir_kat_waw_et22_Hello=Witaj w scenariuszu InterRegio Katowice-Warszawa. Przygotuj się do jazdy i poczekaj, aż dyżurny ruchu wywoła inny pociąg. Zgłoś po nim gotowość do rozpoczęcia manewrów.
+01_ir_kat_waw_et22_LoadingVD=Trwa ładowanie scenariusza, poczekaj na wywołanie przez dyżurnego ruchu.
+01_ir_kat_waw_et22_B_Kato_Hello_1=<color="orange">[KO]</color> 43128 do KO, proszę się zgłosić.
+01_ir_kat_waw_et22_B_Kato_Hello_2=<color="yellow">[43128]</color> 43128 na odbiorze.
+01_ir_kat_waw_et22_B_Kato_Hello_3=<color="orange">[KO]</color> Semafor wjazdowy zaraz się wyświetli, zwalnia się tor dla pana.
+01_ir_kat_waw_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, pociąg 41130 gotowy do manewru w perony z toru 12.
+01_ir_kat_waw_et22_P_Kato_Start_2=<color="orange">[KO]</color> 41130, zrozumiałem, za moment poda się przebieg manewrowy na tor 3 wolny, będzie pan spychał skład.
+01_ir_kat_waw_et22_P_Kato_Man_0=<color="yellow">[Pilot]</color> Maszynista 41130 do pilota - proszę się zgłosić.
+01_ir_kat_waw_et22_P_Kato_Man_1=<color="green">[Ty]</color> Maszynista 41130 zgłaszam się.
+01_ir_kat_waw_et22_P_Kato_Man_2=<color="yellow">[Pilot]</color> Tarcza manewrowa podana - możemy spychać w perony na tor 3 wolny. Proszę się zatrzymać gdy lokomotywa minie semafor.
+01_ir_kat_waw_et22_P_Kato_Ready=<color="green">[Ty]</color> Katowice, pociąg 41130 gotowy do drogi. Można wyświetlać semafor.
+01_ir_kat_waw_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, zgłoś się do pociągu 41130 do próby radiołączności po zmianie kanału.
+01_ir_kat_waw_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Słychać dobrze w Południowym 41130, próba udana.
+01_ir_kat_waw_et22_P_Kaz_Hello_1=<color="green">[Ty]</color> Sosnowiec Kazimierz tu 41130, jak mnie słychać po zmianie kanału na 4?
+01_ir_kat_waw_et22_P_Kaz_Hello_2=<color="orange">[SPł]</color> W Kazimierzu słychac dobrze 41130, wjazd podany na tor nr 5 - krzyżowanie z pociągiem 94302.
+01_ir_kat_waw_et22_P_DGW_Info_1=<color="orange">[DGW]</color> 41130 do Dąbrowy Wschodniej.
+01_ir_kat_waw_et22_P_DGW_Info_2=<color="green">[Ty]</color> 41130, zgłaszam się.
+01_ir_kat_waw_et22_P_DGW_Info_3=<color="orange">[DGW]</color> 41130, w peronie poczekamy 3-4 minutki na dojście po pociągu towarowym.
+01_ir_kat_waw_et22_P_DGW_Info_4=<color="orange">[DGW]</color> 41130, wyjazd do Sławkowa podany.
+01_ir_kat_waw_et22_P_Sla_Info_1=<color="orange">[Sla]</color> 41130 zgłoś się do Sławkowa.
+01_ir_kat_waw_et22_P_Sla_Info_2=<color="green">[Ty]</color> 41130, zgłaszam się.
+01_ir_kat_waw_et22_P_Sla_Info_3=<color="orange">[Sla]</color> Od Sławkowa do Bukowna jazda odbędzie się po torze lewym, na torze prawym w okolicy przystanku Bukowno Przymiarki stoi rozerwany pociąg towarowy. Proszę podawać sygnał baczność w jego okolicy i zachować ostrożność.
+01_ir_kat_waw_et22_P_Char_Hello_1=<color="green">[Ty]</color> Charsznica, wjazd dla 41130 proszę.
+01_ir_kat_waw_et22_P_Char_Hello_2=<color="green">[Ty]</color> Charsznica do 41130, zgłoś się.
+01_ir_kat_waw_et22_P_Char_Hello_3=<color="orange">[Chr]</color> 41130, w Charsznicy na nastawni wykonawczej mamy zanik zasilania. Za moment postaramy się podać panu wjazd.
+01_ir_kat_waw_et22_P_Koz_Hello_1=<color="green">[Ty]</color> Sprowa 41130, próba radia po zmianie na 5.
+01_ir_kat_waw_et22_P_Koz_Hello_2=<color="orange">[Spr]</color> Słychać w porządku. Zielonego.
+01_ir_kat_waw_et22_P_Spr_Info_0=<color="orange">[Spr]</color> 41130, zgłoś do Sprowy.
+01_ir_kat_waw_et22_P_Spr_Info_1=<color="green">[Ty]</color> 41130 zgłasza się
+01_ir_kat_waw_et22_P_Spr_Info_2=<color="orange">[Spr]</color> 41130, mamy awarię urządzeń SRK. Do Starzyn jazda odbędzie się po torze lewym, na sygnał zastępczy, z powodu braku kontroli położenia na rozjeździe.
+01_ir_kat_waw_et22_P_Spr_Info_3=<color="green">[Ty]</color> Do Starzyn na sygnał zastępczy po torze lewym, przyjąłem. Można podawać sygnał zastępczy dla 41130.
+01_ir_kat_waw_et22_P_Psa_Hello_1=<color="green">[Ty]</color> Psary 41130, dzień dobry, próba łączności na kanale 1.
+01_ir_kat_waw_et22_P_Psa_Hello_2=<color="orange">[Ps]</color> Łączność dobra w Psarach.
+01_ir_kat_waw_et22_P_Gro_Hello_1=<color="green">[Ty]</color> Grodzisk zgłoś się do 41130 po zmianie kanału.
+01_ir_kat_waw_et22_P_Gro_Hello_2=<color="orange">[Gr]</color> Słychać bardzo dobrze w Grodzisku.
+01_ir_kat_waw_et22_P_Waw_Man_1=<color="green">[Ty]</color> Warszawa Zachodnia, 41130 gotowy do zjazdu na tory postojowe.
+01_ir_kat_waw_et22_P_Waw_Man_2=<color="orange">[WZD]</color> 41130, za chwilę poda się tarcza manewrowa na tor 201, będzie pan spychał skład na tor wolny.
+01_ir_kat_waw_et22_P_Waw_Man_3=<color="yellow">[Ustawiacz]</color> Mechanik 41130 do pilota, tarcza manewrowa z tyłu podana - można spychać na tor 201 wolny.
+01_ir_kat_waw_et22_P_Ready=<color="yellow">[Kierownik]</color> 41130, odjazd.
+01_ir_kat_waw_et22_P_Ack=<color="green">[Ty]</color> Przyjąłem.
+01_ir_kat_waw_et22_StaticNoise=[zzzzkszkksszszzkkkszzzz]
+01_ir_kat_waw_et22_ZewHelper=Pamiętaj by wywoływać dyżurnego przy zmianie kanału - celem sprawdzenia łączności.
+03_kwk_sta_laz_et22_Hello=Witaj w scenariuszu towarowym KWK Muchowiec Staszic. Przygotuj się do jazdy, dyżurny za chwilę poda semafor dla Twojego pociągu.
+03_kwk_sta_laz_et22_P_Start=<color="orange">[St]</color> 443021, w Stawiskach wjazd podany, jedziemy mechaniku!
+03_kwk_sta_laz_et22_P_Kmb_Hello_1=<color="green">[Ty]</color> Staszic do 443021, próba radia po zmianie kanału na 3.
+03_kwk_sta_laz_et22_P_Kmb_Hello_2=<color="orange">[Ssc]</color> Słychać poprawnie w Staszicu.
+03_kwk_sta_laz_et22_P_St_Hello_1=<color="green">[Ty]</color> Staszic Kopalnia, wjazd dla 443021 proszę. I od razu taka informacja - lokomotywa przejdzie na pociąg 444020.
+03_kwk_sta_laz_et22_P_St_Hello_2=<color="orange">[StA]</color> Staszic Kopalnia przyjęła, wjazd dla pana podany. Proszę ciągnać pod sam semafor wyjazdowy a po rozłączeniu lokomotywy od składu zgłosić gotowość do manewrów na radiu.
+03_kwk_sta_laz_et22_P_St_Man1_1=<color="green">[Ty]</color> Staszic Kopalnia, lokomotywa od 443021 urwana od składu i gotowa do manewrów.
+03_kwk_sta_laz_et22_P_St_Man1_2=<color="orange">[StB]</color> Lokomotywa od 443021, jedziemy na tor uporowy 26, następnie zmieni pan kabinę i po torze wolnym nr 6 na druga stronę stacji.
+03_kwk_sta_laz_et22_P_St_Man2_0=<color="orange">[StA]</color> Lokomotywa od 443021 do Kopalni Staszic zgłoś się.
+03_kwk_sta_laz_et22_P_St_Man2_1=<color="green">[Ty]</color> Zgłaszam się, lok od 443021.
+03_kwk_sta_laz_et22_P_St_Man2_2=<color="orange">[StA]</color> Tarcza manewrowa podana, przy wskaźniku W5 zmieniamy kabinę i zjeżdżamy na tor zajęty na skład pociągu 444020. Proszę uważać na spadek toru przy zmianie kabiny!
+03_kwk_sta_laz_et22_P_St_Man3_1=<color="orange">[StA]</color> Lokomotywa na Staszicu od 443021, można już zmienić kabinę i zjeżdżamy na tor zajęty na skład pociągu 444020.
+03_kwk_sta_laz_et22_P_St_Ready_1=<color="green">[Ty]</color> Staszic Kopalnia dla pociągu 444020, skład podczepiony po manewrach i gotowy do drogi jako pociągi 444020.
+03_kwk_sta_laz_et22_P_St_Ready_2=<color="orange">[StA]</color> 444020, poproszę o analizę pociągu.
+03_kwk_sta_laz_et22_P_St_Ready_3=<color="green">[Ty]</color> 31 wagonów, 3000 ton, 437 metrów, lokomotywa ET22-911, maszynista Krzechowicz, pociąg gotowy do odjazdu.
+03_kwk_sta_laz_et22_P_St_Ready_4=<color="orange">[StA]</color> Dziękuję, nr gotowości 31, podaję semafor.
+03_kwk_sta_laz_et22_P_Sta_Hello_1=<color="orange">[Ssc]</color> 444020 od Staszica do KMB jazda po torze lewym.
+03_kwk_sta_laz_et22_P_Sta_Hello_2=<color="green">[Ty]</color> Przyjąłem, od Staszica do KMB jazda po torze lewym.
+03_kwk_sta_laz_et22_P_Ssc_Hello_1=<color="green">[Ty]</color> Katowice Muchowiec KMB, 444020, próba radia po zmianie na 5.
+03_kwk_sta_laz_et22_P_Ssc_Hello_2=<color="orange">[KMB]</color> Słychać poprawnie na KMB, do Stawisk jazda po torze lewym 444020.
+03_kwk_sta_laz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 444020, próba radia po zmianie na kanał 3.
+03_kwk_sta_laz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 444020, słychać dobrze na Dorocie.
+03_kwk_sta_laz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 444020, próba radia na kanale 4.
+03_kwk_sta_laz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 444020, słychać dobrze na Wschodniej. Podaję przelot z wyjazdem po lewym torze do Kozioła.
+03_kwk_sta_laz_et22_P_DGW_Hello_3=<color="green">[Ty]</color> 444020 do Kozioła po torze lewym, przyjąłem.
+03_kwk_sta_laz_et22_P_LC_Hello_1=<color="green">[Ty]</color> Łazy ŁC 444020, próba radia na kanale 2.
+03_kwk_sta_laz_et22_P_LC_Hello_2=<color="orange">[ŁC]</color> 444020, słuchać dobrze na ŁC.
+03_kwk_sta_laz_et22_P_LA_Man_0=<color="orange">[ŁA]</color> 444020 do Łaz ŁA. Pan kończy bieg i zjeżdża do szopy lokomotywą, tak?
+03_kwk_sta_laz_et22_P_LA_Man_1=<color="green">[Ty]</color> Zgłaszam się, 444020. Wszystko się zgadza.
+03_kwk_sta_laz_et22_P_LA_Man_2=<color="orange">[ŁA]</color> 444020, po zatrzymaniu proszę urwać się od składu i zgłosić gotowość do manewrowania. Po zmianie kabiny pojedzie pan do lokomotywowni w rejonie ŁB.
+03_kwk_sta_laz_et22_P_LA_Man2_1=<color="green">[Ty]</color> 444020 gotów do manewrów.
+03_kwk_sta_laz_et22_P_LA_Man2_2=<color="orange">[ŁA]</color> 444020, już podaję.
+03_kwk_sta_laz_et22_P_Ack=<color="green">[Ty]</color> Przyjąłem.
+03_kwk_sta_laz_et22_StaticNoise=[zzzzkszkksszszzkkkszzzz]
+02_kat_sedz_et22_Hello=Witaj w scenariuszu towarowym Katowice-Sędziszów. Przygotuj się do jazdy, popełnij skład i skontaktuj się z dyżurnym w Katowicach.
+02_kat_sedz_et22_Loading=Ładowanie scenariusza w toku. Wywołaj dyżurnego ponownie za chwilę.
+02_kat_sedz_et22_P_Kato_Start_1=<color="green">[Ty]</color> Katowice KO, pociąg 423042 gotowy pod semaforem wjazdowym T po naprawie usterki.
+02_kat_sedz_et22_P_Kato_Start_2=<color="orange">[KO]</color> 423042, Katowice zrozumiały, podaję semafor.
+02_kat_sedz_et22_P_Sos_Hello_1=<color="green">[Ty]</color> Sosnowiec Południowy, zgłoś się do pociągu 423042 do próby radiołączności po zmianie kanału.
+02_kat_sedz_et22_P_Sos_Hello_2=<color="orange">[SPł]</color> Słychać dobrze w Południowym 423042, próba udana.
+02_kat_sedz_et22_P_Dra_Hello_1=<color="green">[Ty]</color> Dorota 423042, próba radia po zmianie na kanał 3.
+02_kat_sedz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 423042, słychać dobrze na Dorocie.
+02_kat_sedz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> Dąbrowa Górnicza Wschodnia 423042, próba radia na kanale 4.
+02_kat_sedz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 423042, słychać dobrze na Wschodniej.
+02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Ty]</color> Sędziszów zgłoś się do 423042.
+02_kat_sedz_et22_P_Sd_Hello_2=<color="orange">[Sd]</color> Sędziszów na odbiorze.
+02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Ty]</color> Panie dyżurny, kończą mi się godziny pracy i będę zamykał u Pana pociąg.
+02_kat_sedz_et22__Sd_Hello_4=<color="orange">[Sd]</color> Sędziszów zrozumiał, wjazd podany na tor 55.
+02_kat_sedz_et22_P_Ack=<color="green">[Ty]</color> Przyjąłem.
+02_kat_sedz_et22_StaticNoise=[zzzzkszkksszszzkkkszzzz]
+02_kat_sedz_et22_ZewHelper=Pamiętaj by wywoływać dyżurnego przy zmianie kanału - celem sprawdzenia łączności.
+tut_etcs1_WelcomeText=Witaj na torze doświadczalnym w Węglewie koło Żmigrodu! Dziś poprowadzisz swój pierwszy kurs jednostką trakcyjną ED250 pod kontrolą systemu ETCS. Europejski system sterowania pociągiem to zespół urządzeń komputerowych, które kontrolują prędkość pociągu, bieżącą pracę maszynisty, a także zapewniają sygnalizację kabinową - czyli prezentują stan wskaźników i semaforów na ekranie komputera.
+tut_etcs1_WelcomeText2=ETCS jest częścią Europejskiego Systemu Zarządzania Ruchem Kolejowym, który zapewnia możliwość jazdy pociągów wszystkich przewoźników Starego Kontynentu w jednej, wspólnej europejskiej sieci linii kolejowych bez wymiany maszynistów i taboru na przejściach granicznych. Przejdź do pociągu i uruchom kabinę.
+tut_etcs1_InputDriverNumber=W środkowej części pulpitu znajduje się ekran DMI – tak zwany Driver Machine Interface. To ten ekran służy do obsługi systemu ETCS. Pierwszym krokiem po uruchomieniu pojazdu jest wprowadzenie identyfikatora maszynisty. Dziś wykonujesz kurs jako 9022. Użyj przycisków wokół ekranu, aby wprowadzić numer, a następnie naciśnij przycisk ENTER.
+tut_etcs1_InputLevel=Przed rozpoczęciem jazdy musisz wybrać poziom ETCS, w których uruchamiamy pociąg. Istnieją dwa scenariusze. W pierwszym z nich pociąg znajduje się na torze niebędącym pod nadzorem systemu i znajdzie się w nim podczas jazdy. W drugim scenariuszu pociąg znajduje się już na obszarze działania systemu. Dziś realizujemy pierwszy przypadek – wjedziemy do obszaru nadzoru za chwilę, więc aktualnie jesteśmy pod kontrolą systemu SHP. Wybierz poziom SHP używając klawiszy wokół ekranu i naciśnij ENTER.
+tut_etcs1_SelectTrainData=Dobra robota! Przed Tobą główne menu DMI. Aby rozpocząć przejazd musisz wybrać opcję START. Zauważ jednak, że pozycja ta nie jest dostępna. Musisz jeszcze wprowadzić do komputera szczegółowe dane pociągu - jego długość, masę, procent masy hamującej. Wybierz opcję numer trzy.
+tut_etcs1_InputFixedTrainData=W przypadku zespołów trakcyjnych sytuacja jest uproszczona - posiadają one stałą długość i masę. Dlatego dostępny jest gotowy zestaw. Wybierz pierwszą pozycję, a następnie naciśnij ENTER.
+tut_etcs1_InputTrainNumber=Każdy pociąg w ruchu liniowym posiada przypisany numer. Wprowadzenie numeru do systemu pozwala łatwo identyfikować pociąg i jego położenie przez dyżurnych ruchu. Nasz pociąg to kurs testowy, numer 60 901.
+tut_etcs1_ConfirmAcknowledgeFirstTime=Przed Tobą główny ekran jazdy. Pod prędkościomierzem widzisz migającą żółtą ramkę - to żądanie potwierdzenia systemu ETCS. Może ono dotyczyć zmiany trybu, zmiany poziomu lub minięcia niektórych wskaźników związanych z bezpieczeństwem jazdy. Aby zatwierdzić żądanie użyj klawisza ENTER wokół monitora lub klawisza {button=Train Driver|ETCS Ack button}.
+tut_etcs1_ETCSDataConfirmFinish=Czas przejść do praktyki. System ETCS posiada już wszystkie dane niezbędne do wjazdu w obszar nadzoru, a zmiana trybu została zatwierdzona. Teraz prowadź pociąg zgodnie ze wskazaniem semafora.
+tut_etcs1_L1AnnouncementSign=Zbliżasz się do wskaźnika zapowiadającego zmianę poziomu ETCS. Żółta tabliczka oznacza zapowiedź zmiany, biała - miejsce zmiany, a skreślona - koniec obszaru nadzoru ETCS.
+tut_etcs1_L1AnnouncementConfirm=Pociąg odczytał kolejną grupę balis - zmieniającą poziom. Na ekranie pojawiło się żądanie zatwierdzenia zmiany poziomu.
+tut_etcs1_L1AnnouncementConfirm2=Zatwierdź - podobnie jak wcześniej - przyciskiem ENTER na ekranie lub klawiszem {button=Train Driver|ETCS Ack button}. Brak reakcji spowoduje wdrożenie hamowania awaryjnego.
+tut_etcs1_InputFixedTrainDataConfirm=Następnie zatwierdź wprowadzone dane przyciskiem TAK i ENTER.
+tut_etcs1_SelectStart=Jak widzisz, teraz opcja START jest dostępna. Czas rozpocząć nasz przejazd - naciśnij jedynkę na klawiaturze wokół ekranu.
+tut_etcs1_FullSupervisionExplanation=Udało się, system ETCS przeszedł w tryb pełnego nadzoru. Oznacza to, że od tej chwili kontroluje on dozwoloną prędkość i wskazania semaforów. Aktualnie dozwolona prędkość prezentowana jest w formie okrągłej ramki wokół prędkościomierza. Jak widzisz, w tej chwili to <kmph>120</kmph>. Kontynuuj dalszą jazdę. Podczas mijania wybranych wskaźników przytorowych ich treść zostanie powtórzona na ekranie w formie komunikatu tekstowego. Pamiętaj, że przekroczenie dozwolonej prędkości uruchomi alarm dźwiękowy. Brak reakcji maszynisty spowoduje hamowanie pociągu.
+tut_etcs1_PassingFirstSpeedLimitIncrease=Zbliżasz się do końca odcinka ograniczenia prędkości. Za tym wskaźnikiem możesz rozwinąć prędkość drogową, która wynosi <kmph>140</kmph>. Zauważ, że system podniesie dozwoloną prędkość dopiero wtedy, gdy cały pociąg wyjdzie z odcinka ograniczenia - właśnie dlatego system musi znać długość pociągu.
+tut_etcs1_PassingW24=Niektóre komunikaty tekstowe mają znaczący wpływ na bezpieczeństwo jazdy. Dlatego wymagają zatwierdzenia przez maszynistę. Jednym z takich przypadków jest wskaźnik W24. Zbliżasz się do semafora, na którym wyświetlony jest taki wskaźnik. Dodatkowo, przy kolejnym semaforze zostaniesz poproszony o kolejne potwierdzenie - potwierdź zrozumienie komunikatu podobnie jak poprzednio.
+tut_etcs1_StoppedAtS1_1=Dojechałeś do miejsca, w którym kończy się zezwolenie na jazdę. Związane jest to z semaforem, który podaje sygnał zabraniający dalszej jazdy.
+tut_etcs1_StoppedAtS1_2=Użyj wywołania radiowego ZEW3, aby wywołać dyżurnego ruchu.
+tut_etcs1_PassingW28=Oto kolejny wskaźnik, który wymaga zatwierdzenia przez maszynistę. Wskaźnik obowiązującego kanału radiowego W28 - potwierdź zrozumienie komunikatu podobnie jak poprzednio, a następnie kontynuuj jazdę zgodnie ze wskazaniami systemu.
+tut_etcs1_PassingOpenCrossing=Zbliżasz się do tarczy ostrzegawczej przejazdowej. Jej wskazanie – dwa pomarańczowe światła informują maszynistę, że przejazd drogowo-kolejowy może być otwarty! W tej sytuacji zagrożenia ETCS wprowadza tymczasowe ograniczenie prędkości na przejeździe do <kmph>20</kmph>. Na wykresie planowania trasy zobaczysz ograniczenie do zera - to dlatego, że musisz być gotowy do nagłego zatrzymania pociągu przed przejazdem, jeśli sytuacja ruchowa będzie tego wymagać.
+tut_etcs1_StoppedBeforePassingSubstitudeSignal=Zatrzymałeś pociąg przed semaforem wskazującym sygnał STÓJ. Dalsza jazda odbędzie się na sygnał zastępczy. W poziomie pierwszym ETCS system samoczynnie przejdzie do trybu NA WIDOCZNOŚĆ, gdy pociąg znajdzie się za semaforem wskazującym sygnał zastępczy.
+tut_etcs1_EndScenario2=Gdybyś jednak napotkał problem, z którym nie umiesz sobie poradzić - na tylnej ścianie kabiny maszynisty znajdziesz odłącznik EVC. Jego użycie spowoduje wyizolowanie systemu ETCS dla danego scenariusza. Jeśli nie chcesz nigdy używać systemu - wyłącz go w opcjach symulacji. Pamiętaj o tym, że w poziomie pierwszym dane o stanie semaforów aktualizowane są dopiero w momencie najechania na balisę. Może to powodować rozbieżność wskazań, gdy semafor zmieni swoje wskazanie przed czołem pociągu.
+tut_etcs1_PassingFirstSpeedLimitDecrease=Zwróć uwagę na prawą część ekranu DMI. To tak zwany obszar planowania trasy. W tej chwili pociąg zbliża się do ograniczenia prędkości do <kmph>70</kmph>, co jest zaznaczone na wykresie. Reguluj prędkość pociągu tak, aby nie przekroczyć prędkości dozwolonej - która będzie płynnie zmniejszać się do wartości <kmph>70</kmph>. Możesz również użyć przycisków PLUS i MINUS na ekranie, aby oddalić widok obszaru planowania i zapoznać się z dalszymi ograniczeniami prędkości.
+tut_etcs1_StopingAtS1=Zbliżasz się do semafora wskazującego sygnał STÓJ. Jest to widoczne na obszarze planowania trasy. Reguluj prędkość pociągu tak, aby nie przekraczać krzywej hamowania i zatrzymać skład przed semaforem.
+tut_etcs1_StoppingBeforeSBLPassingAtOS=Ponownie zbliżasz się do miejsca, w którym kończy się zezwolenie na jazdę. Tym razem to semafor SBL wskazuje sygnał STÓJ z powodu usterki systemu sterowania ruchem kolejowym. Urządzenia sterowania ruchem kolejowym nie posiadają informacji o tym, czy odcinek toru przed Tobą jest wolny. Z tego powodu dalsza jazda odbędzie się w trybie NA WIDOCZNOŚĆ. W tym trybie system kontroluje dozwoloną prędkość, ale to maszynista odpowiada za zatrzymanie pociągu przed ewentualną przeszkodą. Potwierdź zmianę trybu i kontynuuj jazdę z prędkością ograniczoną do <kmph>20</kmph>.
+tut_etcs1_PassedSubstitudeSignal=Następny semafor wskazuje sygnał zezwalający na jazdę. System samoczynnie przejdzie do trybu PEŁEN NADZÓR, gdy pociąg znajdzie się za semaforem wskazującym sygnał zezwalający na jazdę.
+tut_etcs1_EndScenario=To już koniec przejazdu torem doświadczalnym. Podczas trzech okrążeń zapoznałeś się z podstawowymi funkcjami systemu w sytuacjach typowych i nietypowych. Jeśli masz ochotę poznać ETCS głębiej, zrozumieć wszystkie ikony i funkcje - użyj menu w lewym górnym rogu, aby przejść do szczegółowej prezentacji. Pamiętaj też, że wskazania ETCS są ważniejsze od wskazań semaforów, o ile semafor nie zabrania dalszej jazdy. Wszystkie przejścia w tryb NA ODPOWIEDZIALNOŚĆ PERSONELU konsultuj z dyżurnym ruchu.
+tut_etcs2_WelcomeText=Witaj na torze doświadczalnym w Węglewie koło Żmigrodu! Dziś poprowadzisz swój pierwszy kurs jednostką trakcyjną ED250 pod kontrolą systemu ETCS. Europejski system sterowania pociągiem to zespół urządzeń komputerowych, które kontrolują prędkość pociągu, bieżącą pracę maszynisty, a także zapewniają sygnalizację kabinową - czyli prezentują stan wskaźników i semaforów na ekranie komputera.
+tut_etcs2_WelcomeText2=ETCS jest częścią Europejskiego Systemu Zarządzania Ruchem Kolejowym, który zapewnia możliwość jazdy pociągów wszystkich przewoźników Starego Kontynentu w jednej, wspólnej europejskiej sieci linii kolejowych bez wymiany maszynistów i taboru na przejściach granicznych. Przejdź do pociągu i uruchom kabinę.
+tut_etcs2_InputDriverNumber=W środkowej części pulpitu znajduje się ekran DMI – tak zwany Driver Machine Interface. To ten ekran służy do obsługi systemu ETCS. Pierwszym krokiem po uruchomieniu pojazdu jest wprowadzenie identyfikatora maszynisty. Dziś wykonujesz kurs jako 9022. Użyj przycisków wokół ekranu, aby wprowadzić numer, a następnie naciśnij przycisk ENTER.
+tut_etcs2_InputLevel=Przed rozpoczęciem jazdy musisz wybrać poziom ETCS, w których uruchamiamy pociąg. Istnieją dwa scenariusze. W pierwszym z nich pociąg znajduje się na torze niebędącym pod nadzorem systemu i znajdzie się w nim podczas jazdy. W drugim scenariuszu pociąg znajduje się już na obszarze działania systemu. Dziś realizujemy pierwszy przypadek – wjedziemy do obszaru nadzoru za chwilę, więc aktualnie jesteśmy pod kontrolą systemu SHP. Wybierz poziom SHP używając klawiszy wokół ekranu i naciśnij ENTER.
+tut_etcs2_SelectTrainData=Dobra robota! Przed Tobą główne menu DMI. Aby rozpocząć przejazd musisz wybrać opcję START. Zauważ jednak, że pozycja ta nie jest dostępna. Musisz jeszcze wprowadzić do komputera szczegółowe dane pociągu - jego długość, masę, procent masy hamującej. Wybierz opcję numer trzy.
+tut_etcs2_InputFixedTrainData=W przypadku zespołów trakcyjnych sytuacja jest uproszczona - posiadają one stałą długość i masę. Dlatego dostępny jest gotowy zestaw. Wybierz pierwszą pozycję, a następnie naciśnij ENTER.
+tut_etcs2_InputTrainNumber=Każdy pociąg w ruchu liniowym posiada przypisany numer. Wprowadzenie numeru do systemu pozwala łatwo identyfikować pociąg i jego położenie przez dyżurnych ruchu. Nasz pociąg to kurs testowy, numer 60 901.
+tut_etcs2_SelectStart=Jak widzisz, teraz opcja START jest dostępna. Czas rozpocząć nasz przejazd - naciśnij jedynkę na klawiaturze wokół ekranu.
+tut_etcs2_InputFixedTrainDataConfirm=Następnie zatwierdź wprowadzone dane przyciskiem TAK i ENTER.
+tut_etcs2_StoppedAtS1_2=Użyj wywołania radiowego ZEW3, aby wywołać dyżurnego ruchu.
+tut_etcs2_StoppedAtS1_1=Dojechałeś do miejsca, w którym kończy się zezwolenie na jazdę. Związane jest to z semaforem, który podaje sygnał zabraniający dalszej jazdy.
+tut_etcs2_L2AnnouncementConfirm=Pociąg odczytał kolejną grupę balis - zmieniającą poziom. Na ekranie pojawiło się żądanie zatwierdzenia zmiany poziomu.
+tut_etcs2_L2AnnouncementConfirm2=Zatwierdź - podobnie jak wcześniej - przyciskiem ENTER na ekranie lub klawiszem {button=Train Driver|ETCS Ack button}. Brak reakcji spowoduje wdrożenie hamowania awaryjnego.
+tut_etcs2_PassingW24=Niektóre komunikaty tekstowe mają znaczący wpływ na bezpieczeństwo jazdy. Dlatego wymagają zatwierdzenia przez maszynistę. Jednym z takich przypadków jest wskaźnik W24. Zbliżasz się do semafora, na którym wyświetlony jest taki wskaźnik. Dodatkowo, przy kolejnym semaforze zostaniesz poproszony o kolejne potwierdzenie - potwierdź zrozumienie komunikatu podobnie jak poprzednio.
+tut_etcs2_StopingAtS1=Zbliżasz się do semafora wskazującego sygnał STÓJ. Jest to widoczne na obszarze planowania trasy. Reguluj prędkość pociągu tak, aby nie przekraczać krzywej hamowania i zatrzymać skład przed semaforem.
+tut_etcs2_PassingW28=Oto kolejny wskaźnik, który wymaga zatwierdzenia przez maszynistę. Wskaźnik obowiązującego kanału radiowego W28 - potwierdź zrozumienie komunikatu podobnie jak poprzednio, a następnie kontynuuj jazdę zgodnie ze wskazaniami systemu.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal=Zatrzymałeś pociąg przed semaforem wskazującym sygnał STÓJ. Dalsza jazda odbędzie się na sygnał zastępczy. W poziomie drugim ETCS wymaga to ręcznego przejścia do trybu ODPOWIEDZIALNOŚĆ PERSONELU. W tym trybie jazdy system nie pełni kontroli nad wskazaniami semaforów, zajętością toru oraz prędkością pojazdu. Pełną odpowiedzialność za prowadzenie pociągu według wskazań urządzeń przytorowych przejmuje maszynista. Przejście do tego trybu wymaga zgody dyżurnego ruchu w postaci rozkazu pisemnego.
+tut_etcs2_EndScenario=To już koniec przejazdu torem doświadczalnym. Podczas trzech okrążeń zapoznałeś się z podstawowymi funkcjami systemu w sytuacjach typowych i nietypowych. Jeśli masz ochotę poznać ETCS głębiej, zrozumieć wszystkie ikony i funkcje - użyj menu w lewym górnym rogu, aby przejść do szczegółowej prezentacji. Pamiętaj też, że wskazania ETCS są ważniejsze od wskazań semaforów, o ile semafor nie zabrania dalszej jazdy. Wszystkie przejścia w tryb NA ODPOWIEDZIALNOŚĆ PERSONELU konsultuj z dyżurnym ruchu.
+tut_etcs2_EndScenario2=Gdybyś jednak napotkał problem, z którym nie umiesz sobie poradzić - na tylnej ścianie kabiny maszynisty znajdziesz odłącznik EVC. Jego użycie spowoduje wyizolowanie systemu ETCS dla danego scenariusza. Jeśli nie chcesz nigdy używać systemu - wyłącz go w opcjach symulacji.
+tut_etcs2_ConfirmAcknowledgeFirstTime=Przed Tobą główny ekran jazdy. Pod prędkościomierzem widzisz migającą żółtą ramkę - to żądanie potwierdzenia systemu ETCS. Może ono dotyczyć zmiany trybu, zmiany poziomu lub minięcia niektórych wskaźników związanych z bezpieczeństwem jazdy. Aby zatwierdzić żądanie użyj klawisza ENTER wokół monitora lub klawisza {button=Train Driver|ETCS Ack button}.
+tut_etcs2_ETCSDataConfirmFinish=Czas przejść do praktyki. System ETCS posiada już wszystkie dane niezbędne do wjazdu w obszar nadzoru, a zmiana trybu została zatwierdzona. Teraz prowadź pociąg zgodnie ze wskazaniem semafora.
+tut_etcs2_L2AnnouncementSign=Zbliżasz się do wskaźnika zapowiadającego zmianę poziomu ETCS. Żółta tabliczka oznacza zapowiedź zmiany, biała - miejsce zmiany, a skreślona - koniec obszaru nadzoru ETCS.
+tut_etcs2_RBCConnection=Pociąg najechał na pierwszą grupę balis umieszczoną w torze. Zapisane w niej dane zostały odczytane przez komputer pokładowy. W tej konkretnej grupie zapisane były dane Radiowego Centrum Sterowania - RBC. System nawiązał połączenie z RBC co symbolizuje ikona słuchawki w lewej części ekranu DMI.
+tut_etcs2_StoppingBeforeSBLPassingAtOS=Ponownie zbliżasz się do miejsca, w którym kończy się zezwolenie na jazdę. Tym razem to semafor SBL wskazuje sygnał STÓJ z powodu usterki systemu sterowania ruchem kolejowym. Reguluj prędkość tak, aby zatrzymać się przed semaforem.
+tut_etcs2_FullSupervisionExplanation=Udało się, system ETCS przeszedł w tryb pełnego nadzoru. Oznacza to, że od tej chwili kontroluje on dozwoloną prędkość i wskazania semaforów. Aktualnie dozwolona prędkość prezentowana jest w formie okrągłej ramki wokół prędkościomierza. Jak widzisz, w tej chwili to <kmph>120</kmph>. Kontynuuj dalszą jazdę. Podczas mijania wybranych wskaźników przytorowych ich treść zostanie powtórzona na ekranie w formie komunikatu tekstowego. Pamiętaj, że przekroczenie dozwolonej prędkości uruchomi alarm dźwiękowy. Brak reakcji maszynisty spowoduje hamowanie pociągu.
+tut_etcs2_StoppedBeforeSBLPassingAtOS=Urządzenia sterowania ruchem kolejowym nie posiadają informacji o tym, czy odcinek toru przed Tobą jest wolny. Z tego powodu dalsza jazda odbędzie się w trybie NA WIDOCZNOŚĆ. W tym trybie system kontroluje dozwoloną prędkość, ale to maszynista odpowiada za zatrzymanie pociągu przed ewentualną przeszkodą. Potwierdź zmianę trybu i kontynuuj jazdę z prędkością ograniczoną do <kmph>20</kmph>.
+tut_etcs2_PassingFirstSpeedLimitIncrease=Zbliżasz się do końca odcinka ograniczenia prędkości. Za tym wskaźnikiem możesz rozwinąć prędkość drogową, która wynosi <kmph>140</kmph>. Zauważ, że system podniesie dozwoloną prędkość dopiero wtedy, gdy cały pociąg wyjdzie z odcinka ograniczenia - właśnie dlatego system musi znać długość pociągu.
+tut_etcs2_PassedSubstitudeSignal=Następny semafor wskazuje sygnał zezwalający na jazdę. W związku z tym możliwy jest powrót do jazdy pod nadzorem systemu ETCS. Aby opuścić tryb SR wybierz na ekranie MENU, a następnie START w odległości około <meter>150</meter> od semafora. Wywołanie tej funkcji jest możliwe podczas jazdy pociągu z prędkością poniżej <kmph>20</kmph>.
+tut_etcs2_PassingFirstSpeedLimitDecrease=Zwróć uwagę na prawą część ekranu DMI. To tak zwany obszar planowania trasy. W tej chwili pociąg zbliża się do ograniczenia prędkości do <kmph>70</kmph>, co jest zaznaczone na wykresie. Reguluj prędkość pociągu tak, aby nie przekroczyć prędkości dozwolonej - która będzie płynnie zmniejszać się do wartości <kmph>70</kmph>. Możesz również użyć przycisków PLUS i MINUS na ekranie, aby oddalić widok obszaru planowania i zapoznać się z dalszymi ograniczeniami prędkości.
+tut_etcs2_PassingOpenCrossing=Zbliżasz się do tarczy ostrzegawczej przejazdowej. Jej wskazanie – dwa pomarańczowe światła informują maszynistę, że przejazd drogowo-kolejowy może być otwarty! W tej sytuacji zagrożenia ETCS wprowadza tymczasowe ograniczenie prędkości na przejeździe do <kmph>20</kmph>. Na wykresie planowania trasy zobaczysz ograniczenie do zera - to dlatego, że musisz być gotowy do nagłego zatrzymania pociągu przed przejazdem, jeśli sytuacja ruchowa będzie tego wymagać.
+tut_etcs2_StoppedBeforePassingSubstitudeSignal3=Teraz przejdź do trybu SR – od angielskiego zwrotu Staff Responsible. W tym celu naciśnij przycisk POMIŃ, a następnie EoA – End Of Authority – czyli koniec zezwolenia na jazdę. Następnie kontynuuj jazdę do semafora – <kmph>20</kmph>, a następnie <kmph>40</kmph> z powodu jazdy na sygnał zastępczy. Pamiętaj, że wywołanie tej funkcji możliwe jest tylko podczas postoju pociągu.
+veh_steam_fireman_start=Znajdujesz się w budce maszynisty. W przedniej części jest kocioł, wokół niego różne przyrządy, a z tyłu skrzynia węglowa tendra. Rozejrzyj się wokół przez chwilę, zanim przejdziemy do dalszej części samouczka.
+veh_steam_bolier_injector_strube1=Uruchom inżektor, przesuwając rączkę w pozycje zasysania.
+veh_steam_fireman_start2=Zadanie palacza polega na opiece nad kotłem, aby produkował on tyle pary, ile maszynista potrzebuje do prowadzenia pociągu. W czasie jazdy musisz dosypywać węgiel do paleniska, regulować siłę ognia oraz uzupełniać kocioł wodą.
+veh_steam_fireman_start_waterlevel=W miarę zużywania pary przez parowóz, obniża się poziom wody w kotle. Jest on wskazywany przez wodowskazy. Zbyt niski poziom wody powoduje uszkodzenie parowozu.
+veh_steam_fireman_start_injectors=Do uzupełniania wody parowóz ma dwa niezależne inżektory: lewy o mniejszej wydajności i prawy o większej wydajności.
+veh_steam_fireman_start_firebox=Węgiel będziesz dodawać do paleniska przez drzwiczki w dolnej części kabiny.
+veh_steam_firebox_open=Otwórz drzwiczki paleniska.
+veh_steam_fireman_start_coal1=Węgiel będziesz pobierać z tylnej części kabiny. Nabierz jedną łopatę, klikając na skrzynię węglową.
+veh_steam_fireman_start_coal2=Wrzuć węgiel przez drzwiczki, klikając na ruszcie.
+veh_steam_fireman_start_coal3=Pamiętaj, że zbyt gruba warstwa węgla na ruszcie pali się gorzej!
+veh_steam_fireman_start_fire1=Siła ognia w palenisku zmienia się w czasie jazdy. Wydmuchy pary z silników powodują wytworzenie ciągu w kotle, co wznieca silniejszy ogień.
+veh_steam_fireman_start_dampers2=Druga jest po prawej stronie (maszynisty).
+veh_steam_fireman_start_dampers3=Klapy popielnika w czasie jazdy pod parę pozostają zasadniczo otwarte.
+veh_steam_fireman_start_blower=W przypadku, gdy silniki parowozu nie pracują, ciąg w palenisku można wzmocnić przy pomocy dmuchawki. Włącz dmuchawkę i zobacz, jak zwiększa się siła ognia.
+veh_steam_firebox_close=Zamknij drzwiczki paleniska.
+veh_steam_fireman_start_finish1=Wszystkie Twoje działania będą wpływać na ciśnienie pary w kotle, które możesz sprawdzać na manometrze w górnej części kabiny.
+veh_steam_fireman_start_finish2=Woda w tendrze jest bardzo zimna, dlatego zasilanie go wodą może powodować spadek ciśnienia w nim. Można temu zapobiec, używając dmuchawki w czasie jazdy z niską mocą lub na wybiegu.
+veh_steam_fireman_start_finish4=Kocioł ma większą sprawność, gdy ogień jest słabszy. Podczas jazdy z mniejszą mocą lub lekkim pociągiem, warstwa węgla w palenisku może być nieco mniejsza. Wykorzystuj ten czas, aby zasilić kocioł wodą lub podnieść ciśnienie.
+veh_steam_fireman_start_finish5=Palenisko działa z pewną bezwładnością ognia oraz opóźnieniem rozpalenia się kolejnych porcji węgla. Staraj się przewidywać zużycie pary i stosownie do tego dorzucaj węgiel na zapas.
+veh_steam_fireman_start_finish3=Jeśli kocioł nie jest zasilany wodą podczas pracy parowozu, to ciśnienie w nim może wzrastać.
+veh_steam_fireman_start_finish6=Gdy ciśnienie wzrośnie ponad dozwoloną wartość, otworzą się zawory bezpieczeństwa, które będą wypuszczać nadmiar pary do atmosfery.
+veh_steam_fireman_start_finish7=Za chwilę Twój pociąg wyruszy ze stacji początkowej.
+veh_steam_fireman_start_shovel=Przerzucanie węgla z tendra do paleniska wykonuje się w pozycji stojącej.
+veh_steam_fireman_start_shovel1=Podnieś łopatę, klikając na nią.
+veh_steam_fireman_start_shovel2=Odłóż łopatę, klikając na prawą stronę skrzyni węglowej.
+veh_steam_bolier_injector_strube3=Wyłącz inżektor, przestawiając rączkę skrajnie w prawo.
+veh_steam_bolier_injector_strube2=Gdy inżektor zasysa wodę, zmienia się wydawany przez niego dźwięk. Przestaw wtedy rączkę skrajnie w lewo.
+veh_steam_fireman_start_dampers1=Ilość dopływającego powietrza można regulować bocznymi klapami popielnika. Otwarte klapy wzmagają ogień, a zamknięte go przygaszają. Do ich obsługi służą dwie dźwignie. Jedna jest po lewej stronie (palacza).
+veh_steam_bolier_injector_nathan_open_output=Otwórz zawór przelewowy inżektora.
+veh_steam_bolier_injector_nathan_open=Uruchom inżektor.
+veh_steam_bolier_injector_nathan_close_water=Zamknij zawór zasilający inżektor wodą.
+veh_steam_bolier_injector_nathan_open_water=Otwórz zawór zasilający inżektor wodą.
+veh_steam_bolier_injector_nathan_close_output=Zamknij zawór przelewowy inżektora.
+Ty2_Cargo_Dialog2_2_20Medium=1050 t (średni)
+Ty2_Cargo_Dialog2_3_24Hard=1250 t (trudny)
+Ty2_Cargo_DGW_no_wyjazd_normal=4365, czekamy za dojściem.
+Ty2_Cargo_Dialog1_Q_Function=Wybierz swoją rolę
+Ty2_Cargo_Dialog1_1_Driver=Maszynista
+Ty2_Cargo_Dialog1_2_Fireman=Palacz
+Ty2_Cargo_Dialog3_2_Cold=Zimno
+Ty2_Cargo_Dialog2_Q_CarsNo=Wybierz masę pociągu (poziom trudności)
+Ty2_Cargo_Dialog2_1_14Easy=750 t (łatwy)
+Ty2_Cargo_Tutorial_Skipped=Samouczek wyłączony, możesz teraz jechać na własną rękę.
+Ty2_Cargo_Dialog3_Q_Przeszkadzajka=Wybierz dodatkową trudność
+Ty2_Cargo_Dialog3_1_Dark=Ciemno
+Ty2_Cargo_Dialog3_3_Wet=Mokro
+Ty2_Cargo_Last_station=To jest ostatnia stacja w samouczku. Podjedź do semafora wyjazdowego na końcu tego toru, aby zakończyć misję.
+Ty2_Cargo_Warning_high_inclination=Zbliżasz się do znacznego pochylenia dla tego pociągu, więc będziesz potrzebować dużej mocy parowozu. Jedź ostrożnie i unikaj poślizgu kół by pokonać wzniesienie - piaskowanie może Ci pomóc. Twoja prędkość może spaść, ale bądź cierpliwy i steruj precyzyjnie.
+Ty2_Cargo_Warning_high_inclination2=Za stacją zaczyna się znaczne pochylenie, gdzie maszynista będzie potrzebować dużej mocy parowozu. Upewnij się, że ogień jest silny, a na ruszcie leży odpowiednio dużo węgla.
+Ty2_Cargo_Finish_saved_coal=Tutaj kończy się misja samouczka. W czasie jej trwania parowóz spalił {0} kg węgla, co stanowi oszczędność {1} kg w stosunku do przewidzianej normy. Aby uzyskać jeszcze większą oszczędność, ćwicz dalej technikę operowania przepustnicą, stawidłem i obsługą kotła.
+Ty2_Cargo_Finish_well_saved_coal=Tutaj kończy się misja samouczka. W czasie jej trwania parowóz spalił {0} kg węgla, co stanowi oszczędność {1} kg w stosunku do przewidzianej normy. To bardzo dobry wynik, ale spróbuj uzyskać jeszcze lepszy!
+Ty2_Cargo_DGW_no_wyjazd_slip=4365, czekamy za dojściem. Potrzymam Cię pod wjazdem, żebyś miał szansę wciągnąć do Sławkowa.
+Ty2_Cargo_1_Welcome=Dziś poprowadzisz pociąg towarowy ciągnięty przez lokomotywę Ty2 z Sosnowca Dańdówki do Sławkowa.
+Ty2_Cargo_2_Welcome=Samouczek przeprowadzi Cię przez obsługę parowozu. Możesz go pominąć w każdym momencie, naciskając przycisk wywołania.
+Ty2_Cargo_3_Welcome=Samouczek pokaże ci, jak poruszyć pociąg i da kilka wskazówek dotyczących prowadzenia parowozu.
+Ty2_Cargo_Finish_too_much_coal=Tutaj kończy się misja samouczka. W czasie jej trwania parowóz spalił {0} kg węgla, to jest {1} kg ponad przewidzianą normę. Aby uzyskać jeszcze większą oszczędność, spróbuj jeszcze raz i ćwicz technikę operowania przepustnicą, stawidłem i obsługą kotła.
+Tutorial_Skipped=Pominięto samouczek
+M_Weather=Wybierz pogodę
+Caller_Auditor=Rewident
+Sunny_Summer=Słonecznie (Lato)
+Rainy_Autumn=Deszczowo (Jesień)
+Snowy_Winter=Śnieżnie (Zima)
+Choose_your_train=Wybierz pojazd
+StaticNoise=[zzzzkszkksszszzkkkszzzz]
+Krk_01_ska_KrkSedz_Ready=32804, gotów do odjazdu.
+Krk_01_ska_KrkSedz_Roger=Zrozumiałem.
+Krk_01_ska_KrkSedz_Krk0=32804, tarcza manewrowa na tor 3 wolny podana.
+Caller_You=Ty
+Krk_01_ska_KrkSedz_Sd1=32804, tarcza na 302 podana.
+Krk_01_ska_KrkSedz_Tun1=Tunel do 32804, próba radia po zmianie kanału.
+Krk_01_ska_KrkSedz_Tun4=Proszę.
+Krk_01_ska_KrkSedz_Tun2=W Tunelu słychać bardzo dobrze 32804.
+Caller_Shunter=Manewrowy
+Krk_01_ska_KrkSedz_Tun3=Dzięki.
+Caller_Conductor=Kierownik
+Krk_01_ska_KrkSedz_Hello=Witaj w scenariuszu regio Kraków-Sędziszów na trasie SKA2. Przygotuj się do jazdy i poczekaj na podanie sygnału manewrowego w perony.
+Krk_02_ska_SedzKrk_Start1=Rewident do 23815, skład gotowy do próby hamulca.
+Krk_02_ska_SedzKrk_Sd2=Sędziszów przyjął, zaraz podam tarczę.
+Krk_02_ska_SedzKrk_KG1=23815 na odbiorze.
+Krk_02_ska_SedzKrk_KG2=Poczekamy chwilę pod wjazdem, wyjeżdża pociąg w kierunku Mydlnik.
+34520_CheckBrakes2=34520, luzujemy.
+34520_CheckBrakes4=34520, odhamuj.
+34520_CheckBrakes1=34520, przyjąłem i jestem gotowy.
+34520_CheckBrakes3=34520, zahamuj.
+34520_CheckBrakes5=34520, hamulce w porządku, wszystko gra. Możesz się głosić.
+Krk_03_ir_KrkOlk_Roger=Zrozumiałem.
+Krk_03_ir_KrkOlk_Ready=34520, gotów do odjazdu.
+Krk_03_ir_KrkOlk_Hello=Witaj w scenariuszu interregio Kraków-Olkusz. Przygotuj się do jazdy i zgłoś gotowość rewidentowi do próby hamulców.
+Krk_03_ir_KrkOlk_Start1=Rewident do 34520, skład gotowy do próby.
+Krk_03_ir_KrkOlk_KG1=KGB do 34520, gotowi do manewrów.
+Krk_03_ir_KrkOlk_KG2=34520, jedziemy pod tarczę manewrową 308. Następnie zmiana kabiny i wjazd na tor 2. Zaraz podam tarczę.
+Krk_03_ir_KrkOlk_KG_Man1=34520, można się zatrzymać.
+Krk_03_ir_KrkOlk_KG3=KGB, 34520 gotowy po zmianie kabiny.
+Krk_03_ir_KrkOlk_KG_Man2=34520, przyjąłem, podaję tarczę na tor 2 wolny.
+Krk_03_ir_KrkOlk_KG5=KGB, 34520 gotowy do jazdy.
+Krk_03_ir_KrkOlk_KG6=34520, KGB przyjął, za chwilę podamy semafor.
+Krk_03_ir_KrkOlk_Tun1=Tunel do 34520, sprawdzam łączność.
+Krk_03_ir_KrkOlk_Tun2=Słychać dobrze.
+Krk_03_ir_KrkOlk_Kz0=34520 do Kozłowa.
+Krk_03_ir_KrkOlk_Kz0a=34520 na odbieraniu.
+Krk_03_ir_KrkOlk_Kz0b=Jak wjedziesz proszę zmienić kabinę i zgłosić gotowość.
+Krk_03_ir_KrkOlk_Kz1=Kozłów 34520, gotowy.
+Krk_03_ir_KrkOlk_Kz2=34520 przyjąłem, podam jak tylko zwolni się odstęp na blokadzie.
+Krk_02_ska_SedzKrk_KG0=23815 do KGB.
+Krk_02_ska_SedzKrk_Mi3=Dzięki!
+23815_CheckBrakes5=23815, hamulce w porządku, wszystko gra. Można głosić gotowość.
+Krk_02_ska_SedzKrk_Hello=Witaj w scenariuszu regio Sędziszów-Kraków na trasie SKA2. Przygotuj się do jazdy i zgłoś gotowość rewidentowi do próby hamulców.
+Krk_02_ska_SedzKrk_Sd1=Sędziszów do 23815, skład gotowy do wjazdu w perony.
+Krk_02_ska_SedzKrk_Mi1=Miechów 23815, próba radia.
+Krk_02_ska_SedzKrk_Mi2=Zgłasza się Miechów, słychać dobrze.
+Krk_02_ska_SedzKrk_KG3=Przyjąłem.
+Krk_02_ska_SedzKrk_KGdep=34102, gotów do odjazdu.
+Krk_02_ska_SedzKrk_KG4=23815 wjazd podany. Po zakończeniu wymiany przemanewruj się na tor 7.
+Krk_02_ska_SedzKrk_KG_M1=23815 przemanewrujemy się na tor 7, tarcza podana w kierunku Płaszowa. Dam panu znać na radiu gdy będzie się można zatrzymać.
+Krk_02_ska_SedzKrk_KG_M2=23815, możesz się zatrzymać i zmieniamy kabinę.
+Krk_02_ska_SedzKrk_Roger=Zrozumiałem.
+Krk_02_ska_SedzKrk_Ready=23815, gotów do odjazdu.
+23815_CheckBrakes1=23815, przyjąłem i jestem na pozycji.
+23815_CheckBrakes2=23815, wyluzuj.
+23815_CheckBrakes3=23815, zahamuj.
+23815_CheckBrakes4=23815, odhamuj.
+63103_CheckBrakes1=63103 do rewidenta, gotowy do próby.
+63103_CheckBrakes2=Daj luz.
+63103_CheckBrakes3=63103, zahamuj.
+63103_CheckBrakes4=63103, odhamuj.
+63103_CheckBrakes5=63103, hamulce w porządku, skład gotowy do drogi.
+Krk_04_tlk_KatoKrk_K1_1=Katowice zgłoście się do lokomotywy na torze 11a.
+Krk_04_tlk_KatoKrk_K1_2=Katowice zgłoście się do lokomotywy na torze 12a.
+Krk_04_tlk_KatoKrk_K2=Katowice na odbiorze.
+Krk_04_tlk_KatoKrk_K4_4=Przyjąłem, jedziemy na tor 10, następnie zmiana kierunku i za tarczę manewrową 22. Nastawniczy poinformuje gdy będzie się pan mógł zatrzymać.
+Krk_04_tlk_KatoKrk_K6=Luźny lok, tarcza w perony podana. Po podczepieniu ktoś podskoczy z dokumentami.
+Krk_04_tlk_KatoKrk_K7=Katowice, 63102 gotowy do dalszej jazdy po próbie hamulca.
+Krk_04_tlk_KatoKrk_K8=63102, Katowice przyjęły. Zaraz poda się wyjazd.
+Krk_04_tlk_KatoKrk_Kz0=63102 zgłoś do Zawodzia.
+Krk_04_tlk_KatoKrk_Kz2=Chwilowo bez wyjazdu.
+Krk_04_tlk_KatoKrk_SPł1=Sosnowiec Południowy, 63102 próba radia.
+Krk_04_tlk_KatoKrk_Bo1=63102 zgłasza się.
+Krk_04_tlk_KatoKrk_Bo3=Po torze lewym na zastępczy, zrozumiałem. Można podawać.
+Krk_04_tlk_KatoKrk_O3=Oczekuję na wjazd pod SzN1.
+Krk_04_tlk_KatoKrk_JO1=Na odbiorze 63102.
+Krk_04_tlk_KatoKrk_JO2=Pojedziemy bokiem ze względu na uszkodzoną sieć trakcyjną. Proszę podać sygnał baczność w okolicy końca peronu - sieciowcy na gruncie.
+Krk_04_tlk_KatoKrk_Koz4=Kozłów, lok od 63102 gotowy do oblotu.
+Krk_04_tlk_KatoKrk_Koz13=Dzięki.
+Krk_04_tlk_KatoKrk_Hello=Witaj w scenariuszu TLK Katowice-Kraków. Przejmiesz dzisiaj wagony z Jeleniej Góry od zdefektowanej jednostki spalinowej i ruszysz z nimi dalej w kierunku Krakowa. Udaj się do zapasowej lokomotywy na ślepym torze naprzeciwko katowickiej nastawni. Uruchom maszynę oraz zgłoś gotowość do manewrów dyżurnemu ruchu.
+Krk_04_tlk_KatoKrk_K1_3=Katowice zgłoście się do lokomotywy na torze 40.
+Krk_04_tlk_KatoKrk_K1_4=Katowice zgłoście się do lokomotywy na torze 26.
+Krk_04_tlk_KatoKrk_K1_5=Katowice zgłoście się do lokomotywy na torze 200.
+Krk_04_tlk_KatoKrk_K3=Maszyna uruchomiona i gotowa do manewrów w perony.
+Krk_04_tlk_KatoKrk_K4=Przyjąłem, jedziemy za tarczę manewrową 22. Nastawniczy poinformuje gdy będzie się pan mógł zatrzymać.
+Krk_04_tlk_KatoKrk_K4_5=Przyjąłem... zaraz, 200? Wacek, ty parowozem chcesz cisnąć do Krakowa? No dobra.. jedziemy za tarczę manewrową 22.
+Krk_04_tlk_KatoKrk_K5=Lokomotywa luzem w Katowicach, możesz się zatrzymać i zmienić kierunek jazdy.
+Krk_04_tlk_KatoKrk_Kz1=63102 zgłasza się.
+Krk_04_tlk_KatoKrk_Kz3=63102 zgłoś się do Zawodzia.
+Krk_04_tlk_KatoKrk_Kz4=63102 na odbiorze.
+Krk_04_tlk_KatoKrk_Kz5=Dostałem informację, że Jaworzno jest nieprzejezdne przez podmycie nasypu i pojedzie pan drogą okrężną. Dyspozytor nakazał objazd przez Olkusz z oblotem w Kozłowie. Następny postój w Szopienicach - skomunikowanie z autobusem zastępczym. Szczegóły otrzyma pan w nowym rozkładzie jazdy oraz rozkazie pisemnym doręczonym przez nastawniczego.
+Krk_04_tlk_KatoKrk_Kz6=Zrozumiałem, objazd przez Olkusz. Kiedy mogę się spodziewać wyjazdu?
+Krk_04_tlk_KatoKrk_Kz7=Zaraz po dziobaku na Warszawę.
+Krk_04_tlk_KatoKrk_SG1=63102, przelot w kierunku Południowego podany.
+Krk_04_tlk_KatoKrk_SPł2=63102, radiołączność dobra. Za chwilkę podam wyjazd w kierunku Dańdówki.
+Krk_04_tlk_KatoKrk_Dra1=Dorota, 63102 próba radia.
+Krk_04_tlk_KatoKrk_Dra2=63102, słychać dobrze w Dorotce.
+Krk_04_tlk_KatoKrk_DWG1=Dąbrowa Górnicza Wschodnia, 63102 sprawdzam łączność.
+Krk_04_tlk_KatoKrk_DWG2=63102, łączność dobra. Chwilę poczekamy na dojście towarowego.
+Krk_04_tlk_KatoKrk_Bo0=63102 do Bukowna.
+Krk_04_tlk_KatoKrk_Bo2=Wyjazd do Olkusza po torze lewym na sygnał zastępczy. Tor właściwy zamknięty przez kolizję z samochodem na przejeździe w kilometrze 48. Proszę ograniczyć w tej okolicy prędkość do 20 km/h i podać sygnał "baczność".
+Krk_04_tlk_KatoKrk_Bo4=63102 sygnał zastępczy na tor lewy podany.
+Krk_04_tlk_KatoKrk_O1=Olkusz do 63102.
+Krk_04_tlk_KatoKrk_O2=63102, Olkusz na odbieraniu.
+Krk_04_tlk_KatoKrk_O4=Zrozumiałem, już podaję sygnał zastępczy na tor nr 2.
+Krk_04_tlk_KatoKrk_JO0=63102 do Jaroszowca.
+Krk_04_tlk_KatoKrk_Koz0=63102 zgłoś się do Kozłowa.
+Krk_04_tlk_KatoKrk_Koz1=63102 na odbiorze.
+Krk_04_tlk_KatoKrk_Koz2=Ładnie pan zawędrował na północ! Wjazd w perony podany, proszę się urwać od składu i zgłosić gotowość do manewrów.
+Krk_04_tlk_KatoKrk_Koz3=Cóż począć! Tak jest.
+Krk_04_tlk_KatoKrk_Koz5=Zrozumiałem, już nastawiam. Jedziemy aż do tarczy manewrowej nr 4 i tam zmieniamy kabinę.
+Krk_04_tlk_KatoKrk_Koz6=Kozłów, lok od 63102 pod tarczą numer 6 gotowy do dalszych manewrów.
+Krk_04_tlk_KatoKrk_Koz7=W porządku, jedziemy po torze nr 3 na tor 3a zakończony kozłem oporowym i tam ponownie zmienimy kabinę. Uwaga - krótki odcinek pod drutem.
+Krk_04_tlk_KatoKrk_Koz8=Kozłów, luzak gotowy do manewrów pod tarczą 26.
+Krk_04_tlk_KatoKrk_Koz9=Podaję tarczę na tor zajęty przez pana skład.
+Krk_04_tlk_KatoKrk_Koz10=Rewident do 63103, skład spięty, możemy lecieć z próbą.
+Krk_04_tlk_KatoKrk_Koz11=Kozłów, 63103 gotowy do dalszej drogi na Kraków.
+Krk_04_tlk_KatoKrk_Koz12=63102, przyjąłem, już świecę.
+Krk_04_tlk_KatoKrk_Mi1=Miechów 63103, próba radia.
+Krk_04_tlk_KatoKrk_Mi2=Miechów się zgłasza 63103 słychać ładnie.
+Krk_04_tlk_KatoKrk_Mi3=Dziękuję pana również.
+Krk_04_tlk_KatoKrk_Roger=Przyjąłem.
+Krk_04_tlk_KatoKrk_Ready=63102, odjazd.
+Krk_05_tlk_StaKrk_Hello=Witaj w scenariuszu TLK Starzyny-Kraków. Przygotuj skład do jazdy i kieruj się w kierunku posterunku odgałęźnego Starzyny.
+Krk_05_tlk_StaKrk_St0=73100 do Starzyn.
+Krk_05_tlk_StaKrk_St1=Na odbiorze, 73100.
+Krk_05_tlk_StaKrk_St2=Do Kozłowa jazda po torze lewym, po torze prawym wyprzedzi Cię pendolino.
+Krk_05_tlk_StaKrk_St3=Po lewym do Kozłowa, przyjąłem.
+Krk_05_tlk_StaKrk_Koz1=Kozłów 73100, próba radia.
+Krk_05_tlk_StaKrk_Koz2=Kozłów się zgłasza 73100, słychać bardzo ładnie.
+Krk_05_tlk_StaKrk_Koz3=Dzięki i również.
+Krk_05_tlk_StaKrk_Mi1=Miechów 73101, próba radia.
+Krk_05_tlk_StaKrk_Mi2=Miechów na odbiorze, słychać dobrze.
+Krk_05_tlk_StaKrk_Mi3=Zrozumiałem, dzięki. Miechów również dobrze słychać.
+Krk_05_tlk_StaKrk_Ready=73101, odjazd.
+Krk_06_ic_KrkSedz_Hello=Witaj w scenariuszu IC Kraków-Sędziszów. Przygotuj skład do jazdy i ruszaj w kierunku Krakowa Głównego.
+Krk_06_ic_KrkSedz_Zs0=3120, zgłoś do Zastowa.
+Krk_06_ic_KrkSedz_Zs1=Na odbiorze.
+Krk_06_ic_KrkSedz_Zs3=Po lewym na Niedźwiedź, przyjąłem.
+Krk_06_ic_KrkSedz_Tl2=Tunel zgłasza się dla 3120, radiołączność dobra.
+Krk_06_ic_KrkSedz_Tl3=Dziękuję.
+Krk_06_ic_KrkSedz_Ready=3120, odjazd.
+Krk_06_ic_KrkSedz_Tl1=Tunel 3120, próba radia po zmianie kanału.
+Krk_06_ic_KrkSedz_Zs2=Jazda do Niedźwiedzia torem lewym.
+Krk_07_eip_KrkWaw_KG1=KGA dla 3510.
+Krk_07_eip_KrkWaw_KG3=3510 zgłasza się pod tarczą 211 przy zakładzie południowym. ED250-018, maszynista Pawlak.
+Krk_07_eip_KrkWaw_KG4=Moje nazwisko Kargul, zrozumiałem. Słuchajże - na razie podaję przebieg do tarczy 315 - przepuścimy kuriera.
+Krk_07_eip_KrkWaw_KG5=3510, przebieg w perony na tor 12 podany.
+Krk_07_eip_KrkWaw_KG6=Przyjąłem, już się wtaczam.
+Krk_07_eip_KrkWaw_KG7=3510 do KGB, jak sytuacja?
+Krk_07_eip_KrkWaw_KG8=Kabina zmieniona, skład gotowy do drogi.
+Krk_07_eip_KrkWaw_KG9=Zrozumiałem, szykuję wyjazd.
+Krk_07_eip_KrkWaw_KG10=Dzięki.
+Krk_07_eip_KrkWaw_Tl1=Tunel do 3510, próba radia.
+Krk_07_eip_KrkWaw_Tl2=Tunel zgłasza się dla 3510, radiołączność dobra.
+Krk_07_eip_KrkWaw_Sp1=Sprowa 3511, próba po zmianie kanału.
+Krk_07_eip_KrkWaw_Sp2=3511, słychać dobrze.
+Krk_07_eip_KrkWaw_Ps1=Psary, 3510 po zmianie kanału jak słychać.
+Krk_07_eip_KrkWaw_Ps2=3510 - słychać bardzo dobrze i przelot podany.
+Krk_07_eip_KrkWaw_BR0=3510, zgłoś do Białej Rawskiej.
+Krk_07_eip_KrkWaw_BR1=3510 na odbiorze.
+Krk_07_eip_KrkWaw_BR2=Na Szeligi polecimy po torze lewym.
+Krk_07_eip_KrkWaw_BR3=Po lewym do Szelig, zrozumiałem, dzięki.
+Krk_07_eip_KrkWaw_Gr1=Grodzisk dzień dobry, 3510 sprawdzam łączność.
+Krk_07_eip_KrkWaw_Gr2=Zgłasza się Grodzisk 3510, łączność dobra.
+Krk_07_eip_KrkWaw_Ready=3510, gotów do odjazdu.
+Krk_07_eip_KrkWaw_Roger=Zrozumiałem.
+Krk_07_eip_KrkWaw_Hello=Witaj w scenariuszu EIP Kraków-Warszawa Wschodnia. Przygotuj skład do jazdy i zgłoś gotowość do manewrów dyżurnemu.
+Krk_07_eip_KrkWaw_KG2=KGA słucham.
+Krk_08_eip_WawKrk_Ready=1310, gotów do odjazdu.
+Krk_08_eip_WawKrk_Roger=Przyjąłem.
+Krk_08_eip_WawKrk_Wwa1=Wschodnia zgłoś się na 18.
+Krk_08_eip_WawKrk_Wwa2=Wschodnia na odbiorze.
+Krk_08_eip_WawKrk_Wwa5=Wschodnia, i pod sem K10 gotowy.
+Krk_08_eip_WawKrk_Wwa6=Podaję tarczę na tor 70 - zajęty. Proszę uważać by nie wypchnąć drugiej jednostki poza ukres. Po spięciu proszę się zgłosić.
+Krk_08_eip_WawKrk_Wwa7=Wschodnia, dwie jednostki ED250 spięte na torze 70, gotowe do wjazdu w perony jako 1310.
+Krk_08_eip_WawKrk_Wwa8=Zrozumiałem, już świecę.
+Krk_08_eip_WawKrk_WC1=Warszawa Centralna do 1310.
+Krk_08_eip_WawKrk_WC2=Centralna na odbiorze.
+Krk_08_eip_WawKrk_Kr1=Korytów, 1310 po zmianie kanału jak słychać.
+Krk_08_eip_WawKrk_Kr2=1310 - słuchać dobrze.
+Krk_08_eip_WawKrk_St0=1310 zgłoś do Strzałek.
+Krk_08_eip_WawKrk_St1=1310 na odbiorze.
+Krk_08_eip_WawKrk_St2=Mamy awarię semafora, wjazd odbędzie się na rozkaz pisemny S. Jak będzie pan gotowy proszę zgłosić.
+Krk_08_eip_WawKrk_St3=Zrozumiałem.
+Krk_08_eip_WawKrk_St4=Strzałki, można dyktować eSa dla 1310.
+Krk_08_eip_WawKrk_St5=Rozkaz pisemny S numer 7 dla pociągu numer 1310, data dzisiejsza. Działka druga: zezwalam przejechać obok wskazującego sygnał "Stój" semafora wjazdowego B - jak Bartłomiej. Resztę wykreślamy . Stacja Strzałki, posterunek St, godzina 8:15, dyżurny ruchu Kowalski.
+Krk_08_eip_WawKrk_St6=Powtarzam treść rozkazu: Rozkaz pisemny S mój numer 3 pana 7 dla pociągu numer 1310, data dzisiejsza. Działka druga: zezwalam przejechać obok wskazującego sygnał "Stój" semafora wjazdowego B. Stacja Strzałki, posterunek St, godzina 8:15, dyżurny ruchu Kowalski. Maszynista Wróbel.
+Krk_08_eip_WawKrk_Str1=Starzyny, 1310 próba radia.
+Krk_08_eip_WawKrk_Str2=1310, słychać bardzo dobrze.
+Krk_08_eip_WawKrk_Koz1=Kozłów, 1310 sprawdza łączność.
+Krk_08_eip_WawKrk_Koz2=Dzień dobry 1310, słychać głośno i wyraźnie.
+Krk_08_eip_WawKrk_Mi1=Miechów, próba radia 1310.
+Krk_08_eip_WawKrk_Mi2=1310, próba udana.
+Krk_08_eip_WawKrk_Wwa3=Pojazd uruchomiony i gotowy do manewrów.
+Krk_08_eip_WawKrk_Hello=Witaj w scenariuszu EIP Warszawa Wschodnia-Kraków. Przygotuj skład do jazdy i zgłoś gotowość do manewrów dyżurnemu.
+Krk_08_eip_WawKrk_Wwa4=Przyjąłem. Wjedziemy na tor 10 i cofniemy na 70 po drugi zestaw.
+Krk_08_eip_WawKrk_WC3=Stoję pod podwójnie czerwoną SBLką przed tunelem średnicowym, jak wygląda sytuacja?
+Krk_08_eip_WawKrk_WC4=Szczęśliwie nic poważnego - awaria czujnika p-poż. Za chwilę S1a powinien wygasnąć - może pan wtedy od razu kontynuować jazdę.
+Krk_08_eip_WawKrk_St7=Treść zgodna. Może pan kontynuować jazdę.
+324040_CheckBrakes1=324040, zgłasza się rewident, gotowy do próby.
+324040_CheckBrakes3=324040, zahamuj.
+324040_CheckBrakes5=324040, hamulce w porządku, skład gotowy do drogi.
+Choose_train_cars=Wybierz wagony
+CarsSelection_PlatformsWithContainers=Platformy z kontenerami
+CarsSelection_BarrelsWithFuel=Beczki z paliwem (Cargo DLC)
+Krk_09_tow_Krk_Hello=Witaj w krakowskim scenariuszu towarowym. Twoim zadaniem będzie zabranie wagonów z paliwem ze stacji Kraków Główny Towarowy i przetransportowanie ich do Sędziszowa. Podążaj w kierunku Krakowa i zgłoś swoją obecność dyżurnemu.
+Krk_09_tow_Krk_KGB1=KGB, 336020 melduje się pod wjazdem.
+Krk_09_tow_Krk_KGB2=336020, już układam drogę przez perony do semafora L. Tam proszę się zgłosić do KGA.
+Krk_09_tow_Krk_KGB3=Przyjąłem jedziemy pod semafor L, dzięki.
+Krk_09_tow_Krk_KGA1=KGA, 336020 oczekuje pod semaforem L na manewry.
+Krk_09_tow_Krk_KGA2=336020, dzień dobry. Za chwilę podam tarczę na tor 110, zajęty. Rewident już na pana czeka.
+Krk_09_tow_Krk_KGA3=110 zajęty, dzięki!
+Krk_09_tow_Krk_KGA_Rev=Rewident do 324040.
+Krk_09_tow_Krk_KGA4=KGA, 324040 gotowy do drogi, 3200 ton na haku. Maszynista Balcerek.
+Krk_09_tow_Krk_KGA5=324040, podaję wyjazd w kierunku Przedmieścia, tam chwilę poczekamy na kuriera i polecimy dalej.
+Krk_09_tow_Krk_KPm1=324040, do Batowic po lewym. Przepuścimy kuriera po właściwym.
+Krk_09_tow_Krk_KPm2=Przyjąłem i po lewym do Batowic.
+Krk_09_tow_Krk_Bt1=324040 w Batowicach chwilowo na bok. Przeleci ezeciak i pojedziemy dalej normalnie.
+Krk_09_tow_Krk_Sm0=324040 w Słomnikach na bok, wyprzedzi osobowy.
+Krk_09_tow_Krk_Tl1=Tunel 324040, próba radia po zmianie kanału.
+Krk_09_tow_Krk_Tl2=Zgłasza się Tunel 324040, słychać dobrze.
+Krk_09_tow_Krk_Sd0=324040 w Sędziszowie można się zatrzymać. Urywamy lokomotywę i odstawiamy na tor 53.
+Krk_09_tow_Krk_Roger=Zrozumiałem.
+324040_CheckBrakes2=324040, wyluzuj skład.
+324040_CheckBrakes4=324040, odhamuj.
+Rozpinamy=Rozpinamy
+Krk_03_ir_KrkOlk_KG4=34520, przyjąłem, podaję tarczę na tor 2 wolny.
+Scenario_10_Carg_GrPr_Hello=Witaj w towarowym scenariuszu intermodalnym. Dostarczysz dzisiaj puste platformy do Pruszkowa, a następnie zabierzesz pełne w drogę powrotną. Wyluzuj skład i ruszaj w kierunku Grodziska Mazowieckiego.
+Scenario_10_Carg_GrPr_Pr10=13-zajęty, przyjąłem.
+Scenario_10_Carg_GrPr_Gr0=192349 do Grodziska.
+Scenario_10_Carg_GrPr_CheckBrakes3=192349, zahamuj.
+Scenario_10_Carg_GrPr_CheckBrakes2=Luzujemy skład.
+Scenario_10_Carg_GrPr_Gr1=192349 zgłasza się.
+Scenario_10_Carg_GrPr_Gr3=Zrozumiałem.
+Scenario_10_Carg_GrPr_CheckBrakes4=192349, odhamuj.
+Scenario_10_Carg_GrPr_Pr1=912210 na odbiorze.
+Scenario_10_Carg_GrPr_Pr11=Pruszków, 192349 gotowy do jazdy.
+Scenario_10_Carg_GrPr_Pr3=Przyjąłem
+Scenario_10_Carg_GrPr_Pr8=Do tarczy 52, jasne.
+Scenario_10_Carg_GrPr_Pr0=912210, zgłoś do Pruszkowa.
+Scenario_10_Carg_GrPr_Pr5=Zrozumiałem, jedziemy na tor 1b, za tarczę 27.
+Scenario_10_Carg_GrPr_Pr6=Za tarczę 27, zrozumiałem.
+Scenario_10_Carg_GrPr_Pr7=Lok, możesz zmienić kierunek jazdy. Przejazd przez tor 11 do tarczy manewrowej 52.
+Scenario_10_Carg_GrPr_Pr9=Lok, weszło. Zmiana kierunku - jedziemy na tor 13-zajęty. Prosze się spiąć, zrobić próbę i zgłosić gotowość.
+Scenario_10_Carg_GrPr_CheckBrakes0=Rewident do 192349, skład gotów do próby.
+Scenario_10_Carg_GrPr_CheckBrakes5=192349, hamulce w porządku, skład gotowy do drogi.
+Scenario_10_Carg_GrPr_CheckBrakes1=192349, rewident przyjął.
+Scenario_10_Carg_GrPr_Pr12=Pruszków przyjął, już świecę.
+Scenario_10_Carg_GrPr_Gr2=Będzie chwilowy postój na torze 11 - kurierzy na szlaku.
+Scenario_10_Carg_GrPr_Pr2=Zostawiamy wagony na torze 7 - proszę się upewnić czy tył nie wystaje poza semafor. Następnie proszę dać gotowość do manewrów. Wagony oczekują na torze 13.
+Scenario_10_Carg_GrPr_Pr4=Pruszków, lok od 912210 gotowy na manewry.
+Scenario_10_Carg_GrPr_Decouple=Odepnij lokomotywę od wagonów.
