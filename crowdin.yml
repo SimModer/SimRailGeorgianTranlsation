@@ -1,6 +1,6 @@
 "files": [
   {
-    "source": "/sources/**/*.xml",
+    "source": "/sources/**/*.lang",
     "translation": "/translations/%two_letters_code%/%original_file_name%"
   }
 ]
