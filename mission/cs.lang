@@ -298,7 +298,7 @@ veh_et22_small_compressor=Zapněte kompresor stisknutím tlačítka na pravé st
 01_ir_kat_waw_et22_P_Waw_Man_3=<color="yellow">[Posunovač]</color> Posunovač pro vlak 41130. Rozsvítí se návěst pro posun, můžete vjet na kolej č. 201, která je volná.
 01_ir_kat_waw_et22_P_Ready=<color="yellow">[Vlakvedoucí]</color> 41130, odjezd.
 01_ir_kat_waw_et22_P_Ack=<color="green">[Hráč]</color> Rozumím.
-01_ir_kat_waw_et22_StaticNoise=[noise]
+01_ir_kat_waw_et22_StaticNoise=[hluk]
 01_ir_kat_waw_et22_ZewHelper=Při změně kanálu nezapomeňte kvůli kontrole komunikace zavolat výpravčího.
 03_kwk_sta_laz_et22_Hello=Vítejte v nákladním scénáři společnosti KWK Muchowiec Staszic. Připravte se na jízdu, výpravčí vám za chvilku postaví vlakovou cestu.
 03_kwk_sta_laz_et22_P_Start=<color="orange">[St]</color> Pro vlak 443021, povolení k jízdě do Stawisky. Pojeď!
@@ -333,7 +333,7 @@ veh_et22_small_compressor=Zapněte kompresor stisknutím tlačítka na pravé st
 03_kwk_sta_laz_et22_P_LA_Man2_1=<color="green">[Hráč]</color> 444020 připraven k posunu.
 03_kwk_sta_laz_et22_P_LA_Man2_2=<color="orange">[ŁA]</color> 444020, vyčkejte.
 03_kwk_sta_laz_et22_P_Ack=<color="green">[Hráč]</color> Rozumím.
-03_kwk_sta_laz_et22_StaticNoise=[noise]
+03_kwk_sta_laz_et22_StaticNoise=[hluk]
 02_kat_sedz_et22_Hello=Vítejte ve scénáři pro nákladní dopravu Katovice-Sędziszów. Připravte se na jízdu, připravte svůj vlak k jízdě a kontaktujte výpravčího v Katovicích.
 02_kat_sedz_et22_Loading=Probíhá načítání scénáře. Za chvíli znovu volejte výpravčího.
 02_kat_sedz_et22_P_Kato_Start_1=<color=„green“>[Hráč]</color> Katowice KO, vlak 423042 připraven k jízdě na vjezdovém návěstidle T po odstranění závady.
@@ -344,9 +344,9 @@ veh_et22_small_compressor=Zapněte kompresor stisknutím tlačítka na pravé st
 02_kat_sedz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> Dorota pro vlak 423042, slyším jasně a zřetelně.
 02_kat_sedz_et22_P_DGW_Hello_1=<color="green">[Ty]</color> 423042 pro výpravčího v Dąbrowa Górnicza Wschodnia, zkouška spojení po změně na čtvrtý kanál radiostanice.
 02_kat_sedz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> Výpravčí v DGW pro vlak 423042, slyším jasně a zřetelně.
-02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Hráč]</color> Vlak 424032 volá výpravčího ve stanici Sędziszow
+02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Ty]</color> Vlak 423042 volá výpravčího ve stanici Sędziszow.
 02_kat_sedz_et22_P_Sd_Hello_2=<color="orange">[Sd]</color> Výpravčí ve stanici Sędziszów příjem.
-02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Hráč]</color> Pane výpravčí, končí mi pracovní doba a budeme společně provádět posun.
+02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Ty]</color> Pane výpravčí, končí mi pracovní doba a budeme společně provádět posun.
 02_kat_sedz_et22__Sd_Hello_4=<color="orange">[Sd]</color> Sędziszów rozumí, vjezd se uskuteční na kolej číslo 55.
 02_kat_sedz_et22_P_Ack=<color="green">[Hráč]</color> Rozumím.
 02_kat_sedz_et22_StaticNoise=[zzzzkszkksszszzkkkszzzz]
@@ -726,4 +726,136 @@ Scenario_10_Carg_GrPr_Pr4=Pruszków, lokomotiva z vlaku 912210 je připravena k 
 Scenario_10_Carg_GrPr_Pr7=Strojvedoucí, můžete změnit směr jízdy. Jeďte po koleji 11 k posunovacímu návěstidlu číslo 52.
 Scenario_10_Carg_GrPr_Pr11=Pruszków, 192349 je připraven k odjezdu.
 Scenario_10_Carg_GrPr_Pr9=Strojvedoucí, to stačí. Změňte směr jízdy - pojedete na obsazenou kolej 13. Zapřáhněte vozy, proveďte kontrolu brzd a ohlaste připravenost.
-Scenario_10_Carg_GrPr_Decouple=Decouple locomotive from wagons.
+Confirm_btn=Potvrdit
+Thunderstormy_Summer=Bouřka (Léto)
+Foggy_Autumn=Mlhavo (Podzim)
+Rainy_Spring=Deštivo (Jaro)
+Scenario_10_Carg_GrPr_Decouple=Odvěs lokomotivu od vozů.
+Choose_your_cargo=Zvolte typ nákladu
+02_kat_sedz_et22_P_Sd_Hello_4=<color="orange">[DGW]</color> Sędziszów rozumí, vlaková cesta na kolej 55 postavena.
+Ł1_07_carg_PmŁ_Pl3=Zkouška radiostanice v pořádku, konec.
+Ł1_07_carg_PmŁ_LW0=Łódź Widzew pro vlak 114312, příjem.
+Ł1_08_carg_ŁP_Pl0=192168, ohlas se mi do stanice Płyćwia.
+Ł1_08_carg_ŁP_Pl1=192168 na příjmu.
+Train_cold_plus_10_min=Odstavena (+10min)
+Choose_your_train_Descripted=<b>Vyberte si vlak</b><br><br>★ - scénář je připraven přímo pro toto vozidlo<br>☆ - ostatní doporučené alternativy<br><br>Jiné možnosti se mohou lišit od skutečnosti, nebo by mohly způsobit problémy při větší hmotnosti vlaku.
+Cold_or_hot_start=Zvolte stav hnacího vozidla na začátku scénáře spolu s dodatečným časem na přípravu vozidla
+Train_ready=Připravena k jízdě
+Ł1_04_r_SŁ_Hello=Vítejte ve scénáři osobního vlaku Skierniewice - Łódź Widzew. Připravte se k jízdě, a poté ohlaste svoji připravenost k posunu výpravčímu.
+Ł1_04_r_SŁ_Sk1=Vlak 11248 pro Skierniewice, příjem.
+Ł1_04_r_SŁ_Sk4=Rozumím, již ti stavím posunovou cestu na kolej 104.
+Ł1_04_r_SŁ_Sk5=Na kolej 104, rozumím.
+Ł1_04_r_SŁ_G1=Vlak 11248 pro Gałkówek, zkouška radiostanice po změně kanálu na kanál 7.
+Ł1_04_r_SŁ_G3=Zkouška spojení v pořádku, děkuji Gałkówek, konec.
+Ł1_04_r_SŁ_ŁW1=Pro vlak 11248, posunovací cesta na kolej 200 postavena.
+Ł1_04_r_SŁ_Ready=11248 je připraven k odjezdu.
+Ł1_04_r_SŁ_ReadyEnd=Vlak 11248 je připraven k posunu na vedlejší kolej.
+Ł1_07_carg_PmŁ_Pl1=114312 pro stanici Płyćwia. Zkouška spojení po změně na kanál 2.
+Ł1_04_r_SŁ_G2=Gałkówek na příjmu, slyším tě dobře, 11248.
+Ł1_07_carg_PmŁ_Pm4=Výpravčí Kapuśniak s číslem 23 rozumí. Připravuji ti vlakovou cestu do Skierniewice.
+Ł1_04_r_SŁ_Sk3=Vlak 11248 je připraven k posunu k nástupišti od posunovacího návěstidla 105.
+Ł1_07_carg_PmŁ_Pm2=Puszcza na příjmu.
+Ł1_07_carg_PmŁ_Sk2=Nejdříve přijede rychlík ze směru od Łowicz, a poté budeš moct pokračovat dál. Vyčkej prosím na postavení vlakové cesty, nebo na další instrukce.
+Ł1_04_r_SŁ_Sk2=Výpravčí ze Skierniewice na příjmu, 11248.
+Ł1_04_r_SŁ_ŁW2=Na kolej 200, rozumím a děkuji.
+Ł1_07_carg_PmŁ_Pl2=Płyćwia na příjmu, zkouška v pořádku, slyším tě jasně a zřetelně.
+Ł1_07_carg_PmŁ_Pm5=Rozumím.
+Ł1_07_carg_PmŁ_Hello=Vítejte se scénáři nákladního vlaku Puszcza Mariańska - Łódź Dąbrowa. Dnes povezete nákladní vlak z Puszcza Mariańska do Łódź Dąbrowa. Připravte si vlak k jízdě, a následně se ohlaste výpravčímu.
+Ł1_07_carg_PmŁ_Pm1=Puszcza Mariańska, prosím ohlaš se do vlaku 114312 na koleji 6.
+Ł1_07_carg_PmŁ_Pm3=Tady strojvedoucí Nowak, vlak je po výměně lokomotivy připraven k jízdě, souprava beze změny.
+Ł1_07_carg_PmŁ_Kol1=Vlak 114312 na příjmu.
+Ł1_07_carg_PmŁ_ZP2=Żakowice Południowe pro vlak 114312, slyším tě, zkouška kanálu v pořádku.
+Ł1_08_carg_ŁP_Ł4=Rozumím, do chvilky ti postavím vlakovou cestu.
+Ł1_07_carg_PmŁ_Sk0=Skierniewice pro vlak 114312, ohlaš se mi.
+Ł1_07_carg_PmŁ_Kol0=Výpravčí Koluszki pro vlak 114312, příjem.
+Ł1_07_carg_PmŁ_Kol3=Rozumím, čekám na uvolnění cesty.
+Ł1_07_carg_PmŁ_LW6=Rozumím, do chvilky mi postavíš vlakovou cestu do Dąbrowa, a zde budu následovat pokyny posunovače, děkuji.
+Ł1_07_carg_PmŁ_Sk1=Tady 114312, poslouchám.
+Ł1_07_carg_PmŁ_Sk3=Rozumím a přijímám.
+Ł1_07_carg_PmŁ_ZP1=Vlak 114312 pro Żakowice Południowe, provádím zkoušku radiostanice po změně na kanál 7.
+Ł1_07_carg_PmŁ_LW1=114312, slyším.
+Ł1_07_carg_PmŁ_Kol2=Nejdříve tě vykřižuji s vlakem ze stanice Żakowice Południowe, vyčkej prosím na uvolnění vlakové cesty.
+Ł1_08_carg_ŁP_Roger=Rozumím.
+Ł1_07_carg_PmŁ_ZP3=Rozumím, zkouška je tedy v pořádku. Děkuji ti.
+Ł1_08_carg_ŁP_Ł1=Vlak 192168 pro výpravčího v Olechów, slyšíme se.
+Ł1_07_carg_PmŁ_LW2=Čekáme na příjezd osobního vlaku a uvolnění koleje 1. Jízda do Dąbrowa proběhne po levé koleji.
+Ł1_07_carg_PmŁ_S1=114312, to stačí, můžeš zastavit.
+Ł1_07_carg_PmŁ_LW3=Čekáme na osobní vlak, a poté jízda po levé koleji, rozumím.
+Ł1_08_carg_ŁP_Pl2=Pustím před tebe osobní vlak, zatím máš postavenou vlakovou cestu na kolej 3. Snaž se prosím zastavit co nejblíže u odjezdového návěstidla.
+Ł1_07_carg_PmŁ_LW4=Widzew, tady vlak 114312, zkouška spojení z kanálu 5.
+Ł1_07_carg_PmŁ_LW5=Tady výpravčí ze stanice Widzew, slyším tě, zkouška kanálu je hotová . Vjezd do Dąbrowa ti do chvilky postavím, na místě dodržuj pokyny posunovače.
+Ł1_08_carg_ŁP_Ł2=Łódź Olechów, příjem.
+Ł1_08_carg_ŁP_G1=192168 pro Gałkówek, zkouška spojení na kanálu 7.
+Ł1_08_carg_ŁP_Hello=Vítejte ve scénáři nákladního vlaku v trase Łódź Olechów - Pruszków. Dnes povezete intermodální vlak ze stanice Łódź Olechów do kontejnerového terminálu v Pruszkówě. Připravte si vozidlo k jízdě, a následně ohlaste svoji připravenost výpravčímu.
+Ł1_08_carg_ŁP_Ko1=192168 pro Koluszki, zkouška kanálu 2.
+Ł1_08_carg_ŁP_Ł3=Závada na vlaku byla odstraněna, jsem připraven pokračovat dále na Koluszki.
+Ł1_08_carg_ŁP_Ko3=Na kolej 104, děkuji.
+Ł1_08_carg_ŁP_G2=Gałkówek na příjmu, zkouška spojení v pořádku.
+Ł1_08_carg_ŁP_Sk2=Vjezd na nákladní odstavné koleje udělen. Zkus projet prosím co nejrychleji okolo nástupišť. Odjezd dostaneš až po projetí rychlíku.
+Ł1_08_carg_ŁP_Ko2=Koluszki pro vlak 192168, zkouška spojení je v pořádku. Chvilku mi tu počkáš, než projede rychlík. Prozatím máš postavenou vlakovou cestu na kolej 104.
+Ł1_08_carg_ŁP_Sk0=Skierniewice pro 192168.
+Ł1_08_carg_ŁP_Sk1=192168 na příjmu.
+Ł1_08_carg_ŁP_Zy0=Żyrardów pro 192168, příjem.
+Choose_start_hour_default=★ Spustit scénář bez změny herního času ★
+Ł1_08_carg_ŁP_Zy2=Do chvilky ti postavím vlakovou cestu na kolej 8. Kolej 2 je momentálně neprůjezdná kvůli poruše vlaku. Počkáš mi tu na průjezd vlaku z opačného směru a osobního vlaku z tvého směru.
+Ł1_09_Spotter_P3=LK1/538/573, křížení tratí, Koluszki
+Ł1_09_Spotter_P4=LK534/536/537, křížení tratí, Słotwiny
+Ł1_09_Spotter_P1=LK12 "Esełka" most nad řeknou Rawka, Skierniewice
+Choose_start_hour=Volitelné: Vynutit změnu času zahájení scénáře.
+Ł1_09_Spotter_P2=LK1 "Wiedenka", most nad řeknou Rawka, Skierniewice
+Ł1_02_tlk_WŁ_W3=Vlak 19134 je připraven k posunu k nástupišti z koleje 70.
+Ł1_02_tlk_WŁ_W2=Warszawa Wschodnia na příjmu.
+Ł1_02_tlk_WŁ_W5=Na kolej 12, rozumím. Děkuji.
+Ł1_02_tlk_WŁ_Hello=Vítejte ve scénáři vlaku TLK Warszawa Wschodnia - Łódź Fabryczna. Připravte si hnací vozidlo k jízdě, a následně ohlaste svojí připravenost výpravčímu.
+Ł1_02_tlk_WŁ_W1=Vlak 19134 pro stanici Warszawa Wschodnia, příjem.
+Ł1_02_tlk_WŁ_W4=Rozumím, 19134 je připraven k posunu. Budeš posunovat na volnou kolej 12, posunová cesta je postavena.
+Ł1_08_carg_ŁP_Zy1=192168 na příjmu.
+Ł1_02_tlk_WŁ_G2=Gałkówek pro vlak 19134, slyším tě jasně a zřetelně.
+Ł1_02_tlk_WŁ_G1=Vlak 19137 pro Gałkówek. Dobré ráno, zkouška spojení na kanálu 7.
+Ł1_02_tlk_WŁ_Sk1=Vlak 19134 pro stanici Skierniewice. Jak dlouho tu budu porosím ještě čekat? Stojím tu před stůj.
+Ł1_02_tlk_WŁ_Ready=19134, odjezd.
+Ł1_02_tlk_WŁ_G3=Zkouška spojení v pořádku, děkuji, konec.
+Ł1_02_tlk_WŁ_Sk3=19134 rozumí, čekám na uvolnění cesty. Konec.
+Ł1_02_tlk_WŁ_Sk2=Skierniewice pro vlak 19134, vykřižujeme vlak z Bełchowa, to by nemělo být déle než pár minut. Chvíli mi tu počkáš, než bude volno.
+Ł1_03_r_ŁS_Ready=11521 je připraven k odjezdu.
+TD_StartInfo=Vítejte na testovacím okruhu Żmigród. Nabídku možností zobrazíte pomocí tlačítka ZEW1/ZEW3.
+TD_ChangeDirection=Zastavte a změňte směr jízdy.
+TD_Cancel=Zrušit
+TD_Change_Weather_Time=Změnit počasí
+TD_Select_family=Vyberte skupinu vozidel
+TD_Change_Direction=Změna směru
+TD_Select_loco=Vyberte vozidlo
+TD_Change_Train=Vyměnit vozidlo
+TD_Select_option=Vyberte možnost
+TD_ChangeDirection_Info=Změna traťového souhlasu se provede na poloautomatickém bloku trati v části testovací smyčky. Pokračujte dále v jízdě, dokud nebudete vyzvání k zastavení.
+Train_cold_plus_5_min=Odstaveno (+5min)
+Ł1_01_ic_ŁW_LW5=Vyčkám na postavení vlakové cesty, děkuji.
+Ł1_01_ic_ŁW_LW4=Vlak je přípraven k odjezdu, rozumím. Vyčkej prosím na postavení vlakové cesty.
+Ł1_01_ic_ŁW_Kol3=Rozumím, děkuji ti, konec.
+Ł1_01_ic_ŁW_Kol1=6128 pro Koluszki, zkouška radiostanice po změně na kanál 2.
+Ł1_01_ic_ŁW_Kol2=6128, slyším tě jasně a zřetelně.
+Ł1_03_r_ŁS_Hello=Vítejte ve scénáři regionálního vlaku Łódź Widzew - Skierniewice. Připravte se k jízdě, a vyrazte do stanice Łódź Widzew.
+Ł1_03_r_ŁS_Sk1=11521, posunovací cesta na kolej 17 udělena.
+Ł1_03_r_ŁS_Kol2=Koluszki pro vlak 11521, slyším tě dobře.
+Ł1_03_r_ŁS_Sk2=11521 rozumí, posun na kolej 17.
+Ł1_03_r_ŁS_ReadyEnd=Vlak 11521 je připraven k posunu na odstavnou kolej.
+Ł1_05_r_WS_SK1=Posunová cesta na kolej 14 pro vlak 19954 postavena.
+Ł1_05_r_WS_ReadyEnd=Vlak 19954 je připraven k odjezdu na odstavnou kolej.
+Ł1_06_r_SW_Hello=Vítejte ve scénáři regionálního vlaku v trase Skierniewice - Warszawa Zachodnia. Připravte svůj vlak k jízdě, a poté ohlaste svojí připravenost výpravčímu.
+Ł1_06_r_SW_Sk1=Vlak 91980 pro stanici Skierniewice, příjem.
+Ł1_06_r_SW_Sk2=Skierniewice na příjmu.
+Ł1_06_r_SW_Sk3=Vlak 91980 je připraven k posunu k nástupišti od posunovacího návěstidla 53.
+Ł1_01_ic_ŁW_Ready=6128 odjezd.
+Ł1_01_ic_ŁW_LW1=Vlak 6128 pro výpravčího v Łodź Widzew, příjem.
+Ł1_01_ic_ŁW_LW2=Výpravčí z Łódź Widzew na příjmu.
+Ł1_01_ic_ŁW_LW3=Výměna strojvedoucích úspěšně proběhla, jsem připraven k odjezdu.
+Ł1_03_r_ŁS_Kol1=Vlak 11521 pro Koluszki, provádím zkoušku radiostanice po přepnutí na kanál 2.
+Ł1_06_r_SW_Ready=91980 je připraven k odjezdu.
+Ł1_05_r_WS_SK2=Vjezd na kolej 14, rozumím.
+Ł1_05_r_WS_Hello=Vítejte ve scénáři regionálního vlaku Warszawa Zachodnia - Skierniewice. Vyčkejte na příjezd vašeho vlaku, který převezmete, a poté se vydejte na cestu do Skierniewice.
+Ł1_05_r_WS_Ready=19954 je připraven k odjezdu.
+Ł1_06_r_SW_Sk5=Posun na kolej 2, děkuji.
+Ł1_03_r_ŁS_Kol3=Rozumím, změna kanálu proběhla v pořádku, děkuji za potvrzení.
+Ł1_06_r_SW_Sk4=91980, rozumím. Již ti stavím posunovou cestu na kolej 2.
+Ł1_01_ic_ŁW_Hello=V9tejte ve scénáři vlaku IC Łodź Widzew - Warszawa Wschodnia. Dnes převezmete vlak na trase mezi Wrocław a Białystok. Vyčkejte, než vlak přijede k nástupišti, a po jeho převzetí ohlaste svoji připravenost výpravčímu.
+Select_place=Vyberte místo

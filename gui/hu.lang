@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Assist notifications
 TooltipButtonDisconnectMultiTraction=Disconnect control wires
 TooltipButtonConnectMultiTraction=Connect control wires
 SecondVehicleAmps=2nd vehicle current [A]
+Transition_SwitchCarriage=Go to the next carriage
+Transition_SwitchCarriageWithNumber=Go to carriage no. {0}

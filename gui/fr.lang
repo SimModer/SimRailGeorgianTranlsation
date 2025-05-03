@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Notifications d'aide
 TooltipButtonDisconnectMultiTraction=Déconnecter câble UM
 TooltipButtonConnectMultiTraction=Connecter câble UM
 SecondVehicleAmps=Intensité 2ème engin [A]
+Transition_SwitchCarriage=Aller au wagon suivant
+Transition_SwitchCarriageWithNumber=Aller au wagon n°. {0}

@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Oznámení
 TooltipButtonConnectMultiTraction=Připojení ovládacích kabelů
 TooltipButtonDisconnectMultiTraction=Odpojení ovládacích kabelů
 SecondVehicleAmps=Trakční proud 2.vozidla [A]
+Transition_SwitchCarriage=Běž k dalšímu vozu
+Transition_SwitchCarriageWithNumber=Běž k vozu č. {0}

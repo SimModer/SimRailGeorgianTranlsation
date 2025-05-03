@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Powiadomienia asyst
 TooltipButtonDisconnectMultiTraction=Rozłącz przewody sterujące
 TooltipButtonConnectMultiTraction=Połącz przewody sterujące
 SecondVehicleAmps=Prąd 2. pojazdu [A]
+Transition_SwitchCarriage=Przejdź do kolejnego wagonu
+Transition_SwitchCarriageWithNumber=Przejdź do wagonu nr {0}

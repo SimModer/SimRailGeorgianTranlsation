@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Notifiche di assistenza
 TooltipButtonConnectMultiTraction=Collegare i cavi di comando
 TooltipButtonDisconnectMultiTraction=Scollegare i cavi di comando
 SecondVehicleAmps=Corrente 2° veicolo [A]
+Transition_SwitchCarriage=Go to the next carriage
+Transition_SwitchCarriageWithNumber=Go to carriage no. {0}

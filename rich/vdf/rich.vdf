@@ -91,10 +91,11 @@
   }
   "georgian": {
     "tokens": {
-	  "#status_sp_driving": "ატარევს %vehicle%, შემდეგი გაჩერება %next_point%",
-	  "#status_mp_driving": "ონაილინი %server%-ზე, ატარებს %vehicle%, შემდეგი გაჩერება %next_point%",
-	  "#status_mp_dispatching": "ონაილინი %server%-ზე, დისპეჩერობს %station%",
+      "#status_sp_driving": "ატარევს %vehicle%, შემდეგი გაჩერება %next_point%",
+      "#status_mp_driving": "ონაილინი %server%-ზე, ატარებს %vehicle%, შემდეგი გაჩერება %next_point%",
+      "#status_mp_dispatching": "ონაილინი %server%-ზე, დისპეჩერობს %station%",
       "#status_menu": "მთავარ მენიუში",
       "#status_depot": "სალოკომოტივო დეპოში"
     }
-}
+  }
+}

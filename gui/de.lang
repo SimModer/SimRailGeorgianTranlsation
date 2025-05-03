@@ -595,3 +595,5 @@ Dispatcher_Assist_Notifications_Title=Benachrichtigungen
 TooltipButtonDisconnectMultiTraction=UIC-Leitungen trennen
 TooltipButtonConnectMultiTraction=UIC-Leitungen verbinden
 SecondVehicleAmps=2. Fz Strom [A]
+Transition_SwitchCarriage=Gehe zum nächsten Wagen
+Transition_SwitchCarriageWithNumber=Gehe zu Wagen Nummer {0}

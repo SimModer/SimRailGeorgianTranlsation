@@ -8,7 +8,7 @@ veh_turn_on_radio=Kommunikation ist das A und O, bitte schalte jetzt den Zugfunk
 veh_raise_pantograph=Dieses Triebfahrzeug wird mittels Oberleitung mit Strom versorgt, deswegen ist es nötig, dass der Stromabnehmer gehoben wird.
 veh_turn_on_breaker=Jetzt den Hauptschalter einschalten
 veh_set_dir_forward=Jetzt stellt die Fahrtrichtung auf Vorwärts ein.
-veh_set_brake_drive=Bewege den Indirekte Bremse in die Fahrtstellung.
+veh_set_brake_drive=Bewege die Indirekte Bremse in die Fahrtstellung.
 veh_hold_pipe_unlock=Halte den Knopf, um die Hauptluftleitung zu freizugeben.
 veh_close_doors=Wähle mit dem Türwahlschalter die richtige Position aus, damit die Türen auf der richtigen Seite geöffnet werden können.
 veh_release_spring=Jetzt ist es notwendig, dass die Federspeicherbremse gelöst wird.
@@ -284,7 +284,7 @@ veh_et22_small_compressor=Schalte den Kompressor ein, indem du den Schalter an d
 01_ir_kat_waw_et22_P_Koz_Hello_1=<color="green">[Tf]</color> Sprowa für 41130, Funkcheck nach dem Wechsel in Kanal 5.
 01_ir_kat_waw_et22_P_Koz_Hello_2=<color="orange">[Spr]</color> "Laut und deutlich. Ende.
 01_ir_kat_waw_et22_P_Spr_Info_0=<color="orange">[Spr]</color> Tf 41130, bitte bei Sprowa melden.
-01_ir_kat_waw_et22_P_Spr_Info_1=<color="green">[Tf]</color> 41130, höre dich
+01_ir_kat_waw_et22_P_Spr_Info_1=<color="green">[Tf]</color> 41130, medet sich
 01_ir_kat_waw_et22_P_Spr_Info_2=<color="orange">[Spr]</color> 41130, wir haben eine Störung im SRK. Von Sprowa bis Starzyny geht's für dich im Gegengleis auf Ersatzsignal weiter, da die Weiche keine Endlage bekommt.
 01_ir_kat_waw_et22_P_Psa_Hello_1=<color="green">[Tf]</color> Psary, hier Tf 41130, moin. Funkcheck auf Funkkanal 1.
 01_ir_kat_waw_et22_P_Psa_Hello_2=<color="orange">[Ps]</color> Perfekte Kommunikation heute in Psary.
@@ -350,7 +350,7 @@ tut_etcs1_InputFixedTrainData=Im Fall von Elektrotriebzügen wie der ED250 ist d
 tut_etcs1_InputTrainNumber=Jede Zugfahrt braucht auch eine Zugnummer. Diese Zugnummer musst du ins System eingeben, damit der Zug eindeutig identifizierbar ist. Unser Zug ist eine Testfahrt, also gib die Nummer 60901 ein.
 02_kat_sedz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 423042, Laut und deutlich in Dorota.
 02_kat_sedz_et22_P_DGW_Hello_2=<color="orange">[DGW]</color> 423042, Laut und dentlich in Wschodnia.
-02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Tf]</color> Fdl Sędziszow, bitte melden
+02_kat_sedz_et22_P_Sd_Hello_1=<color="green">[Du]</color> Fdl Sędziszow, bitte bei 423042 melden.
 02_kat_sedz_et22_P_Sd_Hello_2=<color="orange">[Sd]</color> Sędziszów hört.
 02_kat_sedz_et22__Sd_Hello_4=<color="orange">[Sd]</color> Sędziszów hat verstanden, Einfahrt nach Gleis 55 gestellt.
 02_kat_sedz_et22_P_Ack=<color="green">[Tf]</color> Verstanden.
@@ -362,7 +362,7 @@ tut_etcs1_L1AnnouncementConfirm=Der Zug hat die nächste Balisengruppe gelesen -
 tut_etcs1_L1AnnouncementConfirm2=Bestätige es - wie zuvor - mit ENTER oder nutze die {button=Train Driver|ETCS Ack button} Taste. Wenn du dies nicht bestätigst, führt das zu einer ETCS-Zwangsbremsung.
 03_kwk_sta_laz_et22_P_Dra_Hello_2=<color="orange">[Dra]</color> 444020, laut und deutlich in Dorota.
 03_kwk_sta_laz_et22_P_LC_Hello_2=<color="orange">[ŁC]</color> 444020, klar und deutlich in ŁC.
-02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Tf]</color> Fdl, meine Dienstzeit endet, ich werde den Zug hier abstellen.
+02_kat_sedz_et22_P_Sd_Hello_3=<color="green">[Du]</color> Fdl, meine Dienstzeit endet, ich werde den Zug hier abstellen.
 tut_etcs1_InputFixedTrainDataConfirm=Als nächstes, bestätige die eingegebenen Daten mit YES und drücke ENTER.
 tut_etcs1_SelectStart=Wie du nun siehst, ist die START-Option verfügbar. Es ist Zeit, die Fahrt zu beginnen - drücke die 1 auf der Tastatur am Bildschirm.
 tut_etcs1_FullSupervisionExplanation=Es ist geschafft! Du bist nun in der ETCS-Betriebsart Full Supervision (FS). Das heißt, dass ETCS nun die zugelassene Geschwindigkeit und die Signale kontrolliert. Aktuell wird die zulässige Geschwindigkeit in einem Kreis rund um das Tacho angezeigt, dies sind jetzt <kmph>120</kmph>. Fahre weiter nach der Anzeige. Wenn du Signale an der Strecke passierst, werden dir diese auch im Bildschirm als Textnachricht angezeigt. Denke dran, dass Geschwindigkeitsüberschreitungen zu einem akustischen Alarmton führen. Solltest du nicht reagieren, wird dich das System entsprechend einbremsen.
@@ -726,4 +726,136 @@ Scenario_10_Carg_GrPr_Pr4=Pruszków, Lok vom 912210 ist bereit zum Rangieren.
 Scenario_10_Carg_GrPr_CheckBrakes1=192349, Rangierer verstanden.
 Scenario_10_Carg_GrPr_CheckBrakes4=192349, Bremse lösen.
 Scenario_10_Carg_GrPr_Pr11=Pruszków, Zug 192349 ist abfahrbereit.
-Scenario_10_Carg_GrPr_Decouple=Decouple locomotive from wagons.
+Scenario_10_Carg_GrPr_Decouple=Entkupple die Lok von den Wagen.
+Thunderstormy_Summer=Gewitter (Sommer)
+Confirm_btn=Bestätigen
+Choose_your_cargo=Wähle deine Ladung
+Foggy_Autumn=Neblig (Herbst)
+Rainy_Spring=Regnerisch (Frühling)
+02_kat_sedz_et22_P_Sd_Hello_4=<color="orange">[DGW]</color> Sędziszów verstanden, Einfahrt auf Gleis 55.
+Choose_start_hour=Optional: Erzwinge eine andere Startzeit des Szenarios.
+Ł1_01_ic_ŁW_Ready=6128 abfahrbereit.
+Choose_your_train_Descripted=<b>Wähle deinen Zug</b><br><br>★ - empfohlene Fahrzeuge<br>☆ - andere mögliche Alternativen<br><br>Andere Optionen sind unrealistisch, nicht getestet und könnten Probleme im Fahrtverlauf verursachen.
+Choose_start_hour_default=★ Starte das Szenario, ohne die Zeit zu verändern ★
+Cold_or_hot_start=Wähle den Status der Fahrzeuge beim Szenariostart mit zusätzlicher Zeit fürs Aufrüsten
+Train_ready=Bereit zur Fahrt
+Train_cold_plus_10_min=Kaltstart (+10min)
+Ł1_01_ic_ŁW_Hello=Willkommen zum IC-Szenario von Łódź Widzew nach Warszawa Wschodnia. Heute wirst du einen Zug von Wrocław nach Białystok übernehmen. Warte, bis der Zug eingefahren ist und melde dich dann beim Fahrdienstleiter abfahrbereit.
+Ł1_01_ic_ŁW_LW5=Ich warte, danke dir.
+Ł1_01_ic_ŁW_LW1=6128 an den Fahrdienstleiter Łódź Widzew.
+Ł1_01_ic_ŁW_LW2=Łódź Widzew hier, höre dich.
+Ł1_01_ic_ŁW_LW3=Wir haben gewechselt und ich bin wieder abfahrbereit.
+Ł1_01_ic_ŁW_Kol1=6128 an Koluszki. Funkcheck nach dem Wechsel in Funkkanal 2.
+Ł1_01_ic_ŁW_LW4=Alles klar, du bist abfahrbereit, geht gleich los.
+Ł1_01_ic_ŁW_Kol3=Alles klar, danke dir.
+Ł1_01_ic_ŁW_Kol2=Koluszki an 6128, höre dich laut und deutlich.
+Ł1_02_tlk_WŁ_Hello=Willkommen im TLK-Szenario von Warszawa Wschodnia nach Łódź Fabryczna. Bereite deinen Zug vor und melde dich danach abfahrbereit beim Fahrdienstleiter.
+Ł1_02_tlk_WŁ_W2=Warszawa Wschodnia hört dich, 19134.
+Ł1_02_tlk_WŁ_W5=Gleis 12, frei, danke dir.
+Ł1_02_tlk_WŁ_Sk3=Einer kreuzt noch, verstanden.
+Ł1_02_tlk_WŁ_W1=19134 an Warszawa Wschodnia.
+Ł1_02_tlk_WŁ_W4=Alles klar, es geht nach Gleis 12, das ist frei.
+Ł1_02_tlk_WŁ_G1=Gałkówek an 19134, guten Morgen, Funkcheck nach dem Wechsel in 7.
+Ł1_02_tlk_WŁ_G3=Danke dir.
+Ł1_02_tlk_WŁ_Sk1=Skierniewice für 19134, wie siehts aus mit der Weiterfahrt?
+Ł1_02_tlk_WŁ_Sk2=19134, es geht gleich weiter - da kreuzt noch ein Zug aus Bełchow.
+Ł1_02_tlk_WŁ_Ready=19134 abfahrbereit.
+Ł1_02_tlk_WŁ_W3=Zug 19134 bereit zum Rangieren über Gleis 70 an die Bahnsteige.
+Ł1_02_tlk_WŁ_G2=Fahrdienstleiter Gałkówek an 19134, verstehe dich sehr gut.
+Ł1_03_r_ŁS_Hello=Willkommen zum Regionalzugszenario Łódź Widzew - Skierniewice. Bereite deinen Zug vor und mache dich auf den Weg nach Łódź Widzew.
+Ł1_03_r_ŁS_Kol2=Ich höre dich laut und deutlich.
+Ł1_03_r_ŁS_Kol1=11521 an den Fahrdienstleiter Koluszki, Funkcheck nach Kanalwechsel in Kanal 2.
+Ł1_03_r_ŁS_Sk1=11521, Rangiersignal nach Gleis 17-frei ist gegeben.
+Ł1_03_r_ŁS_Ready=11521 abfahrbereit.
+Ł1_04_r_SŁ_Hello=Willkommen zum Regionalzugszenario von Skierniewice nach Łódź Widzew. Bereite den Zug vor und melde deine Rangierbereitschaft dem Weichenwärter.
+Ł1_03_r_ŁS_Sk2=Danke, es geht ins freie Gleis 17, verstanden.
+Ł1_03_r_ŁS_ReadyEnd=Zug 11521 ist bereit zum Rangieren in die Abstellung.
+Ł1_03_r_ŁS_Kol3=Verstanden, dankeschön.
+Ł1_05_r_WS_SK2=Gleis 14, verstanden.
+Ł1_05_r_WS_Ready=19954 abfahrbereit.
+Ł1_08_carg_ŁP_Pl1=192168 hört.
+Ł1_04_r_SŁ_Sk1=Zug 11248 an den Fahrdienstleiter Skierniewice.
+Ł1_04_r_SŁ_Sk3=Zug 11247 am Tm105 bereit zum Rangieren an die Bahnsteige.
+Ł1_04_r_SŁ_Sk4=Verstanden 11248, es geht ins freie 104.
+Ł1_04_r_SŁ_Sk5=104 für 11248, verstanden.
+Ł1_04_r_SŁ_G1=11248 an den Fahrdienstleiter Gałkówek, Funkcheck nach dem Wechseln in Funkkanal 7.
+Ł1_04_r_SŁ_G2=Gałkówek an 11248, verstehe dich sehr gut.
+Ł1_04_r_SŁ_G3=Danke dir.
+Ł1_04_r_SŁ_ŁW1=11248, Rangiersignal ins freie Gleis 200 gegeben.
+Ł1_04_r_SŁ_Ready=11248 abfahrbereit.
+Ł1_05_r_WS_SK1=Zug 19954, Rangiersignal für Gleis 14 gegeben.
+Ł1_04_r_SŁ_ReadyEnd=Zug 11248 bereit zum Rangieren in die Abstellung.
+Ł1_05_r_WS_ReadyEnd=Zug 19954 bereit fürs Rangieren in die Abstellung.
+Ł1_06_r_SW_Ready=91980 abfahrbereit.
+Ł1_06_r_SW_Hello=Willkommen zum Regionalzugszenario Skierniewice - Warszawa Zachodnia. Bereite den Zug für die Fahrt vor und melde dich dann beim Fahrdienstleiter abfahrbereit.
+Ł1_06_r_SW_Sk1=91980 an den Fahrdienstleiter Skierniewice, bitte kommen.
+Ł1_06_r_SW_Sk2=Skierniewice hört.
+Ł1_06_r_SW_Sk3=Zug 91980 an Tm53, bereit zum Rangieren an die Bahnsteige.
+Ł1_06_r_SW_Sk5=2, frei, danke dir.
+Ł1_07_carg_PmŁ_Pl1=Płyćwia für 114312, Funkcheck nach Wechsel in Kanal 2.
+Ł1_05_r_WS_Hello=Willkommen zum Regionalzugszenario Warszawa Zachodnia - Skierniewice. Warte auf die Ankunft des Zuges, welchen du übernehmen wirst und fahre dann in Richtung Skierniewice.
+Ł1_07_carg_PmŁ_Pm4=Verstanden von Fahrdienstleiter Kapuśniak, Nummer 23. Ausfahrt gen Skierniewice kommt gleich.
+Ł1_07_carg_PmŁ_Pm2=Puszcza hört.
+Ł1_06_r_SW_Sk4=91980 verstanden, es geht ins freie Gleis 2.
+Ł1_04_r_SŁ_ŁW2=Gleis 200, verstanden.
+Ł1_07_carg_PmŁ_Sk2=Wir müssen ein bisschen vor den Bahnsteigen warten. Aus Łowicz kommt noch ein Schneller, danach gehts weiter.
+Ł1_07_carg_PmŁ_Pl3=Verstanden, danke.
+Ł1_07_carg_PmŁ_Pl2=Płyćwia empfangen, Test erfolgreich.
+Ł1_07_carg_PmŁ_LW0=114312 an Łódź Widzew.
+Ł1_07_carg_PmŁ_Sk0=114312 für Skierniewice.
+Ł1_07_carg_PmŁ_Pm3=Ich bin wieder abfahrbereit nach Personalwechsel, Zusammenstellung unverändert.
+Ł1_07_carg_PmŁ_Hello=Willkommen zum Güterzugszenario Puszcza Mariańska nach Łódź Dąbrowa. Heute wirst du einen Güterzug auf der genannten Strecke fahren. Bereite den Zug vor und melde dich danach beim Fahrdienstleiter.
+Ł1_07_carg_PmŁ_Pm1=Puszcza Mariańska für 114312 auf Gleis 6, bitte kommen.
+Ł1_07_carg_PmŁ_Pm5=Verstanden.
+Ł1_07_carg_PmŁ_Kol1=114312 hört.
+Ł1_07_carg_PmŁ_ZP2=114312, in Żakowice bist du gut zu hören.
+Ł1_08_carg_ŁP_Ł4=Verstanden, Ausfahrt kommt sofort.
+Ł1_07_carg_PmŁ_Kol0=114312, bitte bei Koluszki melden.
+Ł1_07_carg_PmŁ_Kol3=Ausfahrt dauert, danke dir.
+Ł1_07_carg_PmŁ_LW6=Verstanden.
+Ł1_08_carg_ŁP_Ł3=Zug nach Behebung der Störung wieder abfahrbereit nach Koluszki.
+Ł1_07_carg_PmŁ_Sk1=114312 hört.
+Ł1_07_carg_PmŁ_Sk3=Verstanden.
+Ł1_07_carg_PmŁ_Kol2=Ausfahrt dauert noch kurz, Kreuzung mit einem Zug aus Żakowice Południowe.
+Ł1_07_carg_PmŁ_ZP1=Żakowice Południowe, bitte bei 114312 melden. Funkcheck auf 7.
+Ł1_07_carg_PmŁ_LW1=114312 hört.
+Ł1_07_carg_PmŁ_LW3=Wir warten auf einen Reisezug und nach Dąbrowa links, verstanden.
+Ł1_08_carg_ŁP_Roger=Verstanden.
+Ł1_09_Spotter_P2=RR1 "Wiedenka", Brücke über die "Rawka", Skierniewice
+Ł1_07_carg_PmŁ_ZP3=Verstanden, danke.
+Ł1_08_carg_ŁP_Ł1=Olechów bitte bei 192168 melden.
+Ł1_07_carg_PmŁ_LW2=Wir warten noch darauf, dass der Personenzug Gleis 1 frei macht. Die Fahrt nach Dąbrowa führt dann ins Gegengleis.
+Ł1_07_carg_PmŁ_S1=114312, du bist drin, kannst anhalten.
+Ł1_08_carg_ŁP_G2=Gałkówek hört, Test erfolgreich.
+Ł1_07_carg_PmŁ_LW4=Widzew, 114312 mit Funkcheck nach Wechsel in Kanal 5.
+Ł1_08_carg_ŁP_Pl2=Du wirst hier überholt, Einfahrt nach Gleis 3 steht, bitte fahr so weit es geht an das Ausfahrsignal heran, das Gleis ist nicht sehr lang.
+Ł1_07_carg_PmŁ_LW5=Höre dich laut und deutlich. Die Einfahrt nach Dąbrowa kommt gleich, bitte achte auf die Anweisungen des Rangierers.
+Ł1_08_carg_ŁP_Ł2=Łódź Olechów hört.
+Ł1_08_carg_ŁP_G1=Gałkówek an 192168, Funkcheck nach Kanalwechsel in 7.
+Ł1_08_carg_ŁP_Pl0=192168 für Płyćwia.
+Ł1_08_carg_ŁP_Hello=Willkommen zum Güterzugszenario Łódź Olechów nach Pruszków. Heute fährst du einen Intermodalzug auf genannter Relation ins Containerterminal in Pruszków. Mache deine Lok für die Abfahrt bereit und melde dich dann beim Fahrdienstleiter.
+Ł1_08_carg_ŁP_Ko1=Koluszki für 192168, Funkcheck auf 2.
+Ł1_08_carg_ŁP_Ko3=104, verstanden, danke.
+Select_place=Ort wählen
+Ł1_08_carg_ŁP_Sk2=Einfahrt in den Güterbahnhof steht, bitte kürzeste Fahrzeit. Ausfahrt kommt, sobald der Schnellzug weg ist.
+Ł1_08_carg_ŁP_Zy2=Einfahrt nach Gleis 8 kommt gleich. Gleis 2 ist zurzeit wegen Störung an einem anderen Zug dicht. Einer kommt noch entgegen und einer überholt dich.
+Ł1_09_Spotter_P1=RR12 "Esełka", Brücke über die "Rawka", Skierniewice
+Ł1_08_carg_ŁP_Ko2=192168, Koluszki hört dich sehr gut. Mach nicht zu schnell, der Schnellzug muss noch durch. Einfahrt erstmal nach Gleis 104.
+Ł1_08_carg_ŁP_Sk0=192168 für Skierniewice.
+Ł1_08_carg_ŁP_Sk1=192168 empfangen, hört.
+Ł1_08_carg_ŁP_Zy0=192168 für Żyrardów.
+Ł1_09_Spotter_P3=RR1/538/573, Abzweigstelle, Koluszki
+Ł1_09_Spotter_P4=RR534/536/537, Abzweigstelle, Słotwiny
+Ł1_04_r_SŁ_Sk2=Skierniewice hört.
+Ł1_08_carg_ŁP_Zy1=192168 an Żyrardów, höre dich.
+TD_StartInfo=Willkommen auf der Teststrecke Żmigród. Du findest das Optionsmenü, nachdem du ZEW bedient hast.
+TD_ChangeDirection=Halte an und ändere die Fahrtrichtung.
+TD_Change_Weather_Time=Wetter / Zeit ändern
+TD_Change_Train=Fahrzeugwechsel
+TD_Select_family=Fahrzeugfamilie auswählen
+TD_Select_loco=Fahrzeug auswählen
+TD_Change_Direction=Richtungswechsel
+TD_Select_option=Option wählen
+Train_cold_plus_5_min=Kaltstart (+5min)
+TD_ChangeDirection_Info=Eine Richtungänderung wird im Teil mit den halbautomatischen Signalen stattfinden. Fahre weiter, bis du ein Kommando zum Halten bekommst.
+TD_Cancel=Abbrechen
